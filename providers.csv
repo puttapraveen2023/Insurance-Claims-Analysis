@@ -1,0 +1,1001 @@
+Provider_ID,Name,Specialty,State,Hospital_Affiliation,Years_Experience,Accepts_Medicare,Accepts_Medicaid
+PR0001,Dr. David Lee,Endocrinologist,IL,Cleveland Clinic,23,Yes,No
+PR0002,Dr. Raj Patel,General Physician,FL,Stanford Medical,12,No,Yes
+PR0003,Dr. Susan Clark,General Physician,FL,Baylor Medical,22,No,No
+PR0004,Dr. Lisa Chen,Endocrinologist,NY,Stanford Medical,15,Yes,No
+PR0005,Dr. Raj Patel,Neurologist,TX,Baylor Medical,11,Yes,No
+PR0006,Dr. David Lee,General Physician,TX,Mayo Clinic,28,Yes,No
+PR0007,Dr. Susan Clark,General Physician,NY,Mayo Clinic,19,No,Yes
+PR0008,Dr. Lisa Chen,Cardiologist,IL,Baylor Medical,5,No,No
+PR0009,Dr. Susan Clark,Oncologist,TX,Mayo Clinic,17,No,No
+PR0010,Dr. Raj Patel,Endocrinologist,IL,Cleveland Clinic,20,Yes,Yes
+PR0011,Dr. Raj Patel,Cardiologist,IL,Baylor Medical,10,No,Yes
+PR0012,Dr. Lisa Chen,Neurologist,IL,Stanford Medical,6,No,Yes
+PR0013,Dr. Raj Patel,Oncologist,CA,Baylor Medical,12,No,Yes
+PR0014,Dr. Susan Clark,General Physician,CA,Baylor Medical,27,No,No
+PR0015,Dr. David Lee,Cardiologist,CA,Cleveland Clinic,9,Yes,No
+PR0016,Dr. Emily Johnson,Endocrinologist,FL,Mayo Clinic,16,Yes,Yes
+PR0017,Dr. Raj Patel,General Physician,CA,Mayo Clinic,7,No,No
+PR0018,Dr. Emily Johnson,Neurologist,FL,Baylor Medical,11,Yes,Yes
+PR0019,Dr. Raj Patel,Cardiologist,FL,Mount Sinai,11,Yes,Yes
+PR0020,Dr. Emily Johnson,Oncologist,TX,Stanford Medical,6,No,Yes
+PR0021,Dr. Susan Clark,Neurologist,IL,Mayo Clinic,21,Yes,Yes
+PR0022,Dr. Lisa Chen,General Physician,IL,Mayo Clinic,14,Yes,No
+PR0023,Dr. Raj Patel,Endocrinologist,FL,Cleveland Clinic,5,No,Yes
+PR0024,Dr. Lisa Chen,Neurologist,FL,Mayo Clinic,9,Yes,Yes
+PR0025,Dr. Susan Clark,Cardiologist,IL,Cleveland Clinic,25,No,Yes
+PR0026,Dr. Raj Patel,General Physician,FL,Cleveland Clinic,21,No,No
+PR0027,Dr. Raj Patel,Oncologist,FL,Mount Sinai,23,No,No
+PR0028,Dr. Emily Johnson,General Physician,NY,Mount Sinai,12,Yes,No
+PR0029,Dr. Susan Clark,General Physician,NY,Stanford Medical,25,Yes,Yes
+PR0030,Dr. Susan Clark,Neurologist,CA,Cleveland Clinic,17,Yes,Yes
+PR0031,Dr. Susan Clark,Oncologist,TX,Mount Sinai,18,No,Yes
+PR0032,Dr. Lisa Chen,Endocrinologist,NY,Mayo Clinic,23,Yes,No
+PR0033,Dr. Susan Clark,Oncologist,FL,Stanford Medical,11,No,Yes
+PR0034,Dr. David Lee,Endocrinologist,FL,Cleveland Clinic,23,Yes,No
+PR0035,Dr. Raj Patel,Cardiologist,CA,Baylor Medical,24,No,Yes
+PR0036,Dr. Raj Patel,General Physician,FL,Baylor Medical,6,Yes,Yes
+PR0037,Dr. Emily Johnson,Oncologist,CA,Baylor Medical,24,Yes,Yes
+PR0038,Dr. Raj Patel,Cardiologist,FL,Cleveland Clinic,14,No,No
+PR0039,Dr. David Lee,General Physician,IL,Mount Sinai,22,No,No
+PR0040,Dr. Susan Clark,Neurologist,IL,Mount Sinai,23,Yes,Yes
+PR0041,Dr. David Lee,Endocrinologist,NY,Baylor Medical,9,No,Yes
+PR0042,Dr. Susan Clark,Oncologist,FL,Mount Sinai,9,No,No
+PR0043,Dr. David Lee,Cardiologist,IL,Stanford Medical,25,Yes,No
+PR0044,Dr. David Lee,Neurologist,CA,Mount Sinai,13,No,No
+PR0045,Dr. Raj Patel,Neurologist,FL,Stanford Medical,10,No,Yes
+PR0046,Dr. David Lee,Neurologist,CA,Baylor Medical,8,No,No
+PR0047,Dr. Lisa Chen,Endocrinologist,IL,Baylor Medical,10,No,Yes
+PR0048,Dr. Raj Patel,General Physician,TX,Baylor Medical,10,No,No
+PR0049,Dr. Emily Johnson,General Physician,FL,Mount Sinai,12,Yes,Yes
+PR0050,Dr. David Lee,General Physician,TX,Stanford Medical,15,No,Yes
+PR0051,Dr. David Lee,Neurologist,NY,Cleveland Clinic,14,No,Yes
+PR0052,Dr. Lisa Chen,General Physician,TX,Cleveland Clinic,29,No,No
+PR0053,Dr. Lisa Chen,Cardiologist,TX,Baylor Medical,30,No,Yes
+PR0054,Dr. Susan Clark,Oncologist,TX,Cleveland Clinic,19,No,No
+PR0055,Dr. David Lee,Neurologist,IL,Stanford Medical,8,Yes,No
+PR0056,Dr. Lisa Chen,General Physician,NY,Mayo Clinic,22,No,No
+PR0057,Dr. Emily Johnson,Cardiologist,CA,Cleveland Clinic,11,Yes,No
+PR0058,Dr. Raj Patel,Neurologist,CA,Baylor Medical,20,Yes,Yes
+PR0059,Dr. Raj Patel,Oncologist,FL,Baylor Medical,5,Yes,No
+PR0060,Dr. Emily Johnson,Oncologist,FL,Mayo Clinic,21,Yes,Yes
+PR0061,Dr. Susan Clark,Oncologist,NY,Baylor Medical,7,No,No
+PR0062,Dr. Emily Johnson,Endocrinologist,TX,Stanford Medical,13,Yes,Yes
+PR0063,Dr. David Lee,Endocrinologist,IL,Cleveland Clinic,30,No,No
+PR0064,Dr. David Lee,Neurologist,IL,Baylor Medical,14,No,No
+PR0065,Dr. Raj Patel,Neurologist,CA,Mount Sinai,15,No,Yes
+PR0066,Dr. Raj Patel,General Physician,FL,Baylor Medical,29,No,No
+PR0067,Dr. Raj Patel,Cardiologist,CA,Stanford Medical,18,Yes,Yes
+PR0068,Dr. Susan Clark,Cardiologist,TX,Mayo Clinic,14,Yes,Yes
+PR0069,Dr. Emily Johnson,Endocrinologist,IL,Stanford Medical,21,No,Yes
+PR0070,Dr. Raj Patel,Endocrinologist,FL,Mayo Clinic,30,Yes,No
+PR0071,Dr. David Lee,Cardiologist,NY,Mayo Clinic,8,No,No
+PR0072,Dr. Lisa Chen,General Physician,FL,Mayo Clinic,11,Yes,Yes
+PR0073,Dr. David Lee,General Physician,TX,Cleveland Clinic,27,No,No
+PR0074,Dr. Susan Clark,Endocrinologist,TX,Baylor Medical,8,Yes,Yes
+PR0075,Dr. David Lee,Cardiologist,TX,Stanford Medical,29,No,Yes
+PR0076,Dr. David Lee,Oncologist,IL,Mayo Clinic,18,No,Yes
+PR0077,Dr. Emily Johnson,Endocrinologist,TX,Mount Sinai,30,No,No
+PR0078,Dr. Lisa Chen,Neurologist,IL,Cleveland Clinic,7,No,Yes
+PR0079,Dr. Raj Patel,General Physician,FL,Mayo Clinic,28,Yes,No
+PR0080,Dr. Lisa Chen,Endocrinologist,TX,Stanford Medical,9,No,No
+PR0081,Dr. Raj Patel,Oncologist,NY,Cleveland Clinic,25,No,Yes
+PR0082,Dr. Emily Johnson,Endocrinologist,TX,Mayo Clinic,13,Yes,No
+PR0083,Dr. Emily Johnson,Oncologist,FL,Mount Sinai,12,No,Yes
+PR0084,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,30,No,Yes
+PR0085,Dr. Susan Clark,General Physician,TX,Stanford Medical,21,No,No
+PR0086,Dr. Emily Johnson,Endocrinologist,CA,Stanford Medical,5,No,Yes
+PR0087,Dr. David Lee,Oncologist,CA,Mayo Clinic,7,Yes,No
+PR0088,Dr. Raj Patel,Cardiologist,IL,Mayo Clinic,23,Yes,No
+PR0089,Dr. Emily Johnson,Cardiologist,FL,Stanford Medical,25,No,Yes
+PR0090,Dr. Lisa Chen,General Physician,IL,Mount Sinai,11,Yes,No
+PR0091,Dr. Raj Patel,Oncologist,CA,Mount Sinai,5,No,Yes
+PR0092,Dr. Lisa Chen,Endocrinologist,TX,Baylor Medical,26,No,No
+PR0093,Dr. Lisa Chen,Cardiologist,IL,Stanford Medical,22,Yes,No
+PR0094,Dr. Lisa Chen,General Physician,CA,Baylor Medical,16,No,Yes
+PR0095,Dr. Emily Johnson,Neurologist,NY,Baylor Medical,22,Yes,No
+PR0096,Dr. Emily Johnson,Endocrinologist,NY,Cleveland Clinic,9,No,No
+PR0097,Dr. Emily Johnson,General Physician,TX,Baylor Medical,22,Yes,No
+PR0098,Dr. Susan Clark,Cardiologist,FL,Stanford Medical,24,Yes,Yes
+PR0099,Dr. Emily Johnson,Oncologist,IL,Stanford Medical,16,Yes,Yes
+PR0100,Dr. Lisa Chen,General Physician,CA,Mayo Clinic,15,Yes,Yes
+PR0101,Dr. Emily Johnson,Cardiologist,NY,Baylor Medical,29,Yes,No
+PR0102,Dr. David Lee,General Physician,CA,Baylor Medical,16,Yes,No
+PR0103,Dr. David Lee,Endocrinologist,IL,Mayo Clinic,5,No,Yes
+PR0104,Dr. Lisa Chen,Neurologist,IL,Cleveland Clinic,24,Yes,Yes
+PR0105,Dr. Susan Clark,Cardiologist,CA,Mayo Clinic,6,No,Yes
+PR0106,Dr. Raj Patel,General Physician,TX,Mayo Clinic,6,Yes,Yes
+PR0107,Dr. Emily Johnson,Oncologist,TX,Stanford Medical,18,Yes,No
+PR0108,Dr. Lisa Chen,Endocrinologist,FL,Cleveland Clinic,10,No,Yes
+PR0109,Dr. Emily Johnson,Cardiologist,NY,Stanford Medical,5,Yes,Yes
+PR0110,Dr. Emily Johnson,Cardiologist,NY,Mayo Clinic,7,No,No
+PR0111,Dr. Susan Clark,Cardiologist,CA,Mount Sinai,29,Yes,No
+PR0112,Dr. David Lee,Endocrinologist,CA,Stanford Medical,16,No,Yes
+PR0113,Dr. Raj Patel,Neurologist,CA,Baylor Medical,15,No,Yes
+PR0114,Dr. Susan Clark,Endocrinologist,TX,Mount Sinai,18,No,Yes
+PR0115,Dr. Raj Patel,Neurologist,TX,Mount Sinai,18,No,No
+PR0116,Dr. David Lee,Endocrinologist,TX,Stanford Medical,14,No,No
+PR0117,Dr. Susan Clark,General Physician,TX,Cleveland Clinic,13,No,No
+PR0118,Dr. Raj Patel,Neurologist,NY,Mayo Clinic,15,No,Yes
+PR0119,Dr. Raj Patel,Neurologist,NY,Baylor Medical,25,No,No
+PR0120,Dr. Raj Patel,Oncologist,FL,Cleveland Clinic,16,Yes,No
+PR0121,Dr. Lisa Chen,Neurologist,IL,Baylor Medical,7,No,No
+PR0122,Dr. Raj Patel,Oncologist,TX,Cleveland Clinic,15,No,Yes
+PR0123,Dr. David Lee,Neurologist,TX,Stanford Medical,6,No,Yes
+PR0124,Dr. Raj Patel,General Physician,FL,Stanford Medical,27,No,No
+PR0125,Dr. Emily Johnson,Endocrinologist,IL,Mayo Clinic,14,No,Yes
+PR0126,Dr. David Lee,Neurologist,FL,Mayo Clinic,14,No,No
+PR0127,Dr. Emily Johnson,Neurologist,FL,Cleveland Clinic,15,Yes,No
+PR0128,Dr. Susan Clark,Oncologist,IL,Mayo Clinic,5,Yes,Yes
+PR0129,Dr. Emily Johnson,Oncologist,CA,Baylor Medical,28,No,Yes
+PR0130,Dr. David Lee,Endocrinologist,FL,Mount Sinai,18,Yes,No
+PR0131,Dr. Raj Patel,Cardiologist,NY,Baylor Medical,21,No,No
+PR0132,Dr. Raj Patel,General Physician,CA,Mount Sinai,9,No,Yes
+PR0133,Dr. Raj Patel,Endocrinologist,NY,Stanford Medical,8,Yes,No
+PR0134,Dr. Susan Clark,General Physician,IL,Baylor Medical,15,No,No
+PR0135,Dr. Raj Patel,Neurologist,IL,Stanford Medical,27,Yes,No
+PR0136,Dr. Emily Johnson,Oncologist,NY,Stanford Medical,27,No,Yes
+PR0137,Dr. Susan Clark,Neurologist,FL,Mount Sinai,20,No,Yes
+PR0138,Dr. Emily Johnson,Oncologist,FL,Cleveland Clinic,20,No,No
+PR0139,Dr. Susan Clark,General Physician,FL,Stanford Medical,24,No,Yes
+PR0140,Dr. Susan Clark,Endocrinologist,NY,Baylor Medical,27,Yes,No
+PR0141,Dr. David Lee,Oncologist,FL,Cleveland Clinic,18,Yes,Yes
+PR0142,Dr. Raj Patel,Oncologist,CA,Mayo Clinic,16,Yes,Yes
+PR0143,Dr. Emily Johnson,Cardiologist,CA,Mayo Clinic,7,Yes,No
+PR0144,Dr. Susan Clark,General Physician,CA,Mayo Clinic,29,No,Yes
+PR0145,Dr. Susan Clark,Cardiologist,CA,Baylor Medical,30,No,Yes
+PR0146,Dr. Emily Johnson,Oncologist,TX,Baylor Medical,27,No,Yes
+PR0147,Dr. Emily Johnson,Cardiologist,NY,Stanford Medical,7,No,No
+PR0148,Dr. David Lee,General Physician,NY,Stanford Medical,22,No,Yes
+PR0149,Dr. David Lee,Cardiologist,TX,Mayo Clinic,20,Yes,Yes
+PR0150,Dr. Emily Johnson,Cardiologist,TX,Mayo Clinic,22,Yes,No
+PR0151,Dr. Emily Johnson,Endocrinologist,CA,Mount Sinai,7,Yes,Yes
+PR0152,Dr. Lisa Chen,General Physician,IL,Mount Sinai,10,Yes,No
+PR0153,Dr. Lisa Chen,Endocrinologist,CA,Baylor Medical,25,Yes,Yes
+PR0154,Dr. Lisa Chen,Cardiologist,CA,Cleveland Clinic,12,No,Yes
+PR0155,Dr. Raj Patel,Neurologist,CA,Stanford Medical,26,No,Yes
+PR0156,Dr. Susan Clark,Endocrinologist,IL,Stanford Medical,6,No,No
+PR0157,Dr. Emily Johnson,Cardiologist,NY,Cleveland Clinic,10,Yes,No
+PR0158,Dr. Susan Clark,Endocrinologist,NY,Mount Sinai,17,Yes,No
+PR0159,Dr. Lisa Chen,Oncologist,NY,Mount Sinai,27,Yes,Yes
+PR0160,Dr. Susan Clark,Oncologist,IL,Cleveland Clinic,21,Yes,No
+PR0161,Dr. Susan Clark,Endocrinologist,NY,Stanford Medical,17,No,No
+PR0162,Dr. Susan Clark,General Physician,TX,Mayo Clinic,27,No,No
+PR0163,Dr. David Lee,Endocrinologist,NY,Cleveland Clinic,15,No,Yes
+PR0164,Dr. Emily Johnson,Endocrinologist,FL,Cleveland Clinic,16,Yes,Yes
+PR0165,Dr. David Lee,General Physician,CA,Baylor Medical,22,Yes,Yes
+PR0166,Dr. Susan Clark,Neurologist,FL,Mount Sinai,7,Yes,No
+PR0167,Dr. Susan Clark,Cardiologist,CA,Mayo Clinic,13,No,No
+PR0168,Dr. Emily Johnson,Oncologist,IL,Stanford Medical,19,No,Yes
+PR0169,Dr. David Lee,Neurologist,NY,Mount Sinai,22,Yes,No
+PR0170,Dr. Emily Johnson,General Physician,NY,Mayo Clinic,6,No,No
+PR0171,Dr. Raj Patel,Cardiologist,CA,Mount Sinai,15,Yes,Yes
+PR0172,Dr. David Lee,Oncologist,CA,Stanford Medical,29,Yes,No
+PR0173,Dr. Susan Clark,General Physician,TX,Cleveland Clinic,28,No,Yes
+PR0174,Dr. Emily Johnson,General Physician,CA,Stanford Medical,22,No,No
+PR0175,Dr. Raj Patel,Cardiologist,CA,Baylor Medical,28,No,Yes
+PR0176,Dr. Raj Patel,General Physician,TX,Stanford Medical,9,No,No
+PR0177,Dr. Raj Patel,Endocrinologist,FL,Stanford Medical,23,Yes,No
+PR0178,Dr. Lisa Chen,Neurologist,IL,Baylor Medical,9,Yes,No
+PR0179,Dr. Susan Clark,Endocrinologist,IL,Mount Sinai,7,No,Yes
+PR0180,Dr. Emily Johnson,Endocrinologist,IL,Mount Sinai,26,No,No
+PR0181,Dr. Emily Johnson,General Physician,TX,Baylor Medical,24,No,Yes
+PR0182,Dr. Lisa Chen,Oncologist,NY,Mount Sinai,21,No,No
+PR0183,Dr. Raj Patel,Cardiologist,FL,Cleveland Clinic,25,No,Yes
+PR0184,Dr. Raj Patel,Cardiologist,FL,Mayo Clinic,16,No,Yes
+PR0185,Dr. Raj Patel,Oncologist,TX,Mount Sinai,9,Yes,Yes
+PR0186,Dr. Lisa Chen,Endocrinologist,IL,Mayo Clinic,18,Yes,No
+PR0187,Dr. Emily Johnson,Oncologist,FL,Baylor Medical,30,No,No
+PR0188,Dr. Raj Patel,General Physician,FL,Stanford Medical,5,No,Yes
+PR0189,Dr. Emily Johnson,Cardiologist,NY,Cleveland Clinic,18,No,No
+PR0190,Dr. David Lee,Cardiologist,CA,Mayo Clinic,13,No,No
+PR0191,Dr. Raj Patel,Neurologist,FL,Baylor Medical,7,Yes,No
+PR0192,Dr. Susan Clark,Neurologist,IL,Cleveland Clinic,8,No,No
+PR0193,Dr. Susan Clark,General Physician,IL,Stanford Medical,30,Yes,Yes
+PR0194,Dr. Raj Patel,Oncologist,IL,Cleveland Clinic,9,Yes,Yes
+PR0195,Dr. David Lee,Endocrinologist,CA,Cleveland Clinic,30,No,Yes
+PR0196,Dr. David Lee,Oncologist,IL,Mayo Clinic,12,No,Yes
+PR0197,Dr. Raj Patel,Oncologist,NY,Baylor Medical,5,No,No
+PR0198,Dr. Raj Patel,General Physician,IL,Mayo Clinic,16,Yes,No
+PR0199,Dr. Susan Clark,Cardiologist,CA,Mount Sinai,6,No,No
+PR0200,Dr. Susan Clark,Endocrinologist,TX,Stanford Medical,26,Yes,No
+PR0201,Dr. Lisa Chen,General Physician,IL,Mayo Clinic,10,No,Yes
+PR0202,Dr. Lisa Chen,Oncologist,FL,Stanford Medical,23,Yes,Yes
+PR0203,Dr. Emily Johnson,Endocrinologist,FL,Cleveland Clinic,11,Yes,Yes
+PR0204,Dr. Susan Clark,Endocrinologist,CA,Baylor Medical,7,Yes,No
+PR0205,Dr. Emily Johnson,Neurologist,FL,Mayo Clinic,16,No,Yes
+PR0206,Dr. Raj Patel,Cardiologist,IL,Mayo Clinic,30,Yes,Yes
+PR0207,Dr. Susan Clark,General Physician,TX,Baylor Medical,10,No,No
+PR0208,Dr. Emily Johnson,Neurologist,FL,Mount Sinai,9,No,No
+PR0209,Dr. Raj Patel,Oncologist,CA,Baylor Medical,15,Yes,Yes
+PR0210,Dr. David Lee,Cardiologist,IL,Baylor Medical,20,Yes,Yes
+PR0211,Dr. David Lee,Oncologist,IL,Baylor Medical,25,No,No
+PR0212,Dr. Emily Johnson,Cardiologist,TX,Baylor Medical,27,Yes,Yes
+PR0213,Dr. Emily Johnson,Neurologist,NY,Mount Sinai,22,No,No
+PR0214,Dr. Emily Johnson,General Physician,TX,Stanford Medical,9,Yes,No
+PR0215,Dr. Susan Clark,Cardiologist,TX,Stanford Medical,9,No,Yes
+PR0216,Dr. David Lee,Neurologist,NY,Mount Sinai,14,No,Yes
+PR0217,Dr. Susan Clark,Endocrinologist,CA,Stanford Medical,30,No,No
+PR0218,Dr. Lisa Chen,Cardiologist,IL,Stanford Medical,6,No,No
+PR0219,Dr. Emily Johnson,Endocrinologist,NY,Baylor Medical,8,Yes,No
+PR0220,Dr. Susan Clark,Cardiologist,IL,Baylor Medical,7,No,Yes
+PR0221,Dr. Emily Johnson,Oncologist,IL,Stanford Medical,14,No,Yes
+PR0222,Dr. Emily Johnson,Oncologist,NY,Mount Sinai,20,Yes,No
+PR0223,Dr. David Lee,General Physician,CA,Stanford Medical,20,Yes,Yes
+PR0224,Dr. Susan Clark,Oncologist,IL,Stanford Medical,29,Yes,Yes
+PR0225,Dr. David Lee,Neurologist,FL,Mayo Clinic,22,Yes,Yes
+PR0226,Dr. Susan Clark,Endocrinologist,FL,Mayo Clinic,7,Yes,Yes
+PR0227,Dr. Susan Clark,Neurologist,TX,Baylor Medical,17,No,Yes
+PR0228,Dr. Emily Johnson,Endocrinologist,NY,Mayo Clinic,23,No,No
+PR0229,Dr. Emily Johnson,Cardiologist,CA,Baylor Medical,22,Yes,No
+PR0230,Dr. Raj Patel,General Physician,FL,Mount Sinai,6,No,No
+PR0231,Dr. Lisa Chen,Cardiologist,FL,Baylor Medical,15,No,No
+PR0232,Dr. Lisa Chen,Endocrinologist,NY,Mount Sinai,19,Yes,No
+PR0233,Dr. Raj Patel,General Physician,FL,Stanford Medical,13,Yes,Yes
+PR0234,Dr. Raj Patel,Neurologist,TX,Mount Sinai,13,Yes,No
+PR0235,Dr. Lisa Chen,General Physician,NY,Baylor Medical,28,No,Yes
+PR0236,Dr. Susan Clark,Oncologist,IL,Cleveland Clinic,5,Yes,No
+PR0237,Dr. Lisa Chen,Cardiologist,TX,Cleveland Clinic,30,Yes,Yes
+PR0238,Dr. Susan Clark,Oncologist,IL,Mayo Clinic,12,No,No
+PR0239,Dr. Raj Patel,Oncologist,NY,Baylor Medical,16,No,Yes
+PR0240,Dr. Lisa Chen,General Physician,IL,Mayo Clinic,25,Yes,No
+PR0241,Dr. Emily Johnson,Endocrinologist,IL,Baylor Medical,29,Yes,Yes
+PR0242,Dr. Lisa Chen,Oncologist,IL,Mayo Clinic,10,Yes,No
+PR0243,Dr. Susan Clark,Cardiologist,CA,Mayo Clinic,18,Yes,Yes
+PR0244,Dr. Lisa Chen,Oncologist,TX,Stanford Medical,19,No,Yes
+PR0245,Dr. David Lee,Neurologist,TX,Baylor Medical,10,Yes,Yes
+PR0246,Dr. Emily Johnson,Oncologist,FL,Mount Sinai,25,Yes,No
+PR0247,Dr. David Lee,Oncologist,TX,Mayo Clinic,26,No,No
+PR0248,Dr. David Lee,Endocrinologist,FL,Baylor Medical,20,Yes,No
+PR0249,Dr. Emily Johnson,Oncologist,IL,Mount Sinai,23,No,No
+PR0250,Dr. Lisa Chen,Cardiologist,IL,Mayo Clinic,10,Yes,Yes
+PR0251,Dr. Raj Patel,General Physician,IL,Cleveland Clinic,26,Yes,No
+PR0252,Dr. David Lee,Neurologist,FL,Mount Sinai,8,Yes,No
+PR0253,Dr. David Lee,Cardiologist,FL,Baylor Medical,28,Yes,No
+PR0254,Dr. Susan Clark,Neurologist,IL,Mayo Clinic,16,No,No
+PR0255,Dr. Raj Patel,General Physician,CA,Mayo Clinic,24,No,Yes
+PR0256,Dr. Raj Patel,Endocrinologist,CA,Mount Sinai,26,No,Yes
+PR0257,Dr. Susan Clark,Oncologist,IL,Baylor Medical,25,Yes,No
+PR0258,Dr. Lisa Chen,Endocrinologist,IL,Mount Sinai,29,No,No
+PR0259,Dr. Susan Clark,Cardiologist,CA,Stanford Medical,18,No,No
+PR0260,Dr. Emily Johnson,General Physician,IL,Cleveland Clinic,17,No,No
+PR0261,Dr. Susan Clark,Oncologist,NY,Mount Sinai,23,Yes,No
+PR0262,Dr. Susan Clark,General Physician,CA,Mount Sinai,13,No,Yes
+PR0263,Dr. David Lee,Oncologist,TX,Stanford Medical,29,No,Yes
+PR0264,Dr. Emily Johnson,Cardiologist,NY,Baylor Medical,6,Yes,No
+PR0265,Dr. Raj Patel,General Physician,CA,Mayo Clinic,15,No,Yes
+PR0266,Dr. Raj Patel,Neurologist,TX,Cleveland Clinic,9,Yes,Yes
+PR0267,Dr. Emily Johnson,General Physician,NY,Baylor Medical,7,Yes,No
+PR0268,Dr. Emily Johnson,Neurologist,TX,Mount Sinai,18,Yes,No
+PR0269,Dr. Lisa Chen,Endocrinologist,TX,Mount Sinai,6,No,No
+PR0270,Dr. Susan Clark,Cardiologist,TX,Stanford Medical,12,Yes,Yes
+PR0271,Dr. Emily Johnson,Oncologist,CA,Mount Sinai,30,No,No
+PR0272,Dr. Lisa Chen,Neurologist,TX,Stanford Medical,24,Yes,Yes
+PR0273,Dr. Susan Clark,Endocrinologist,NY,Baylor Medical,10,No,No
+PR0274,Dr. Raj Patel,Cardiologist,TX,Stanford Medical,9,No,No
+PR0275,Dr. Lisa Chen,Neurologist,CA,Cleveland Clinic,11,Yes,Yes
+PR0276,Dr. David Lee,Oncologist,TX,Stanford Medical,29,No,Yes
+PR0277,Dr. Susan Clark,Cardiologist,IL,Mayo Clinic,10,Yes,Yes
+PR0278,Dr. Lisa Chen,Neurologist,FL,Mount Sinai,26,Yes,No
+PR0279,Dr. David Lee,Cardiologist,TX,Cleveland Clinic,6,No,No
+PR0280,Dr. Lisa Chen,Endocrinologist,FL,Mount Sinai,28,No,No
+PR0281,Dr. Emily Johnson,Oncologist,CA,Stanford Medical,7,No,No
+PR0282,Dr. Emily Johnson,Oncologist,TX,Cleveland Clinic,23,Yes,No
+PR0283,Dr. Emily Johnson,Endocrinologist,CA,Baylor Medical,8,Yes,Yes
+PR0284,Dr. Emily Johnson,Neurologist,NY,Mayo Clinic,21,No,No
+PR0285,Dr. Susan Clark,Neurologist,CA,Stanford Medical,17,Yes,No
+PR0286,Dr. David Lee,Neurologist,CA,Mount Sinai,10,No,Yes
+PR0287,Dr. Susan Clark,Oncologist,TX,Mayo Clinic,15,No,No
+PR0288,Dr. Susan Clark,Oncologist,NY,Baylor Medical,13,No,No
+PR0289,Dr. David Lee,Endocrinologist,NY,Mount Sinai,23,No,No
+PR0290,Dr. Lisa Chen,Neurologist,FL,Mount Sinai,18,No,Yes
+PR0291,Dr. Emily Johnson,Endocrinologist,FL,Mayo Clinic,21,Yes,No
+PR0292,Dr. David Lee,General Physician,IL,Mayo Clinic,25,Yes,Yes
+PR0293,Dr. Lisa Chen,Cardiologist,NY,Cleveland Clinic,6,No,No
+PR0294,Dr. David Lee,Endocrinologist,TX,Mount Sinai,25,Yes,Yes
+PR0295,Dr. Lisa Chen,Endocrinologist,IL,Cleveland Clinic,9,No,No
+PR0296,Dr. Raj Patel,Neurologist,IL,Cleveland Clinic,26,No,No
+PR0297,Dr. Lisa Chen,Neurologist,CA,Mayo Clinic,29,Yes,No
+PR0298,Dr. Emily Johnson,Neurologist,FL,Stanford Medical,18,Yes,No
+PR0299,Dr. David Lee,Endocrinologist,CA,Mayo Clinic,8,Yes,Yes
+PR0300,Dr. David Lee,Cardiologist,CA,Mount Sinai,26,Yes,No
+PR0301,Dr. Lisa Chen,Neurologist,FL,Stanford Medical,11,No,Yes
+PR0302,Dr. David Lee,Cardiologist,IL,Stanford Medical,15,Yes,Yes
+PR0303,Dr. Raj Patel,General Physician,FL,Mount Sinai,30,No,Yes
+PR0304,Dr. Raj Patel,Endocrinologist,NY,Baylor Medical,17,Yes,No
+PR0305,Dr. Emily Johnson,General Physician,TX,Baylor Medical,27,Yes,Yes
+PR0306,Dr. Emily Johnson,Neurologist,FL,Stanford Medical,9,Yes,Yes
+PR0307,Dr. David Lee,Cardiologist,CA,Mayo Clinic,29,Yes,No
+PR0308,Dr. Lisa Chen,Cardiologist,IL,Mount Sinai,27,No,No
+PR0309,Dr. Raj Patel,Endocrinologist,CA,Mayo Clinic,16,No,Yes
+PR0310,Dr. Raj Patel,General Physician,IL,Cleveland Clinic,19,No,Yes
+PR0311,Dr. Susan Clark,Neurologist,IL,Cleveland Clinic,20,No,No
+PR0312,Dr. Raj Patel,Oncologist,IL,Mount Sinai,23,No,No
+PR0313,Dr. David Lee,Endocrinologist,TX,Baylor Medical,19,No,Yes
+PR0314,Dr. David Lee,Endocrinologist,FL,Mount Sinai,17,No,Yes
+PR0315,Dr. David Lee,Cardiologist,IL,Mayo Clinic,17,No,No
+PR0316,Dr. Raj Patel,General Physician,CA,Mount Sinai,14,No,Yes
+PR0317,Dr. Raj Patel,Oncologist,FL,Mayo Clinic,7,No,No
+PR0318,Dr. Susan Clark,Endocrinologist,CA,Cleveland Clinic,9,No,No
+PR0319,Dr. Emily Johnson,Cardiologist,FL,Cleveland Clinic,26,Yes,Yes
+PR0320,Dr. Emily Johnson,Endocrinologist,IL,Stanford Medical,14,No,Yes
+PR0321,Dr. Raj Patel,Neurologist,TX,Mayo Clinic,17,No,Yes
+PR0322,Dr. Raj Patel,Neurologist,FL,Baylor Medical,21,Yes,Yes
+PR0323,Dr. David Lee,General Physician,TX,Cleveland Clinic,19,No,No
+PR0324,Dr. Lisa Chen,Oncologist,CA,Stanford Medical,18,Yes,No
+PR0325,Dr. Lisa Chen,Oncologist,TX,Cleveland Clinic,25,Yes,Yes
+PR0326,Dr. Emily Johnson,General Physician,IL,Baylor Medical,18,No,No
+PR0327,Dr. David Lee,Neurologist,NY,Stanford Medical,10,No,No
+PR0328,Dr. David Lee,General Physician,TX,Cleveland Clinic,23,Yes,Yes
+PR0329,Dr. Lisa Chen,General Physician,CA,Mount Sinai,5,Yes,Yes
+PR0330,Dr. David Lee,Oncologist,IL,Baylor Medical,7,No,Yes
+PR0331,Dr. David Lee,Neurologist,TX,Stanford Medical,25,Yes,Yes
+PR0332,Dr. David Lee,Cardiologist,CA,Stanford Medical,9,No,Yes
+PR0333,Dr. David Lee,Oncologist,NY,Stanford Medical,16,Yes,Yes
+PR0334,Dr. David Lee,General Physician,TX,Mayo Clinic,10,Yes,Yes
+PR0335,Dr. David Lee,Oncologist,NY,Baylor Medical,5,Yes,Yes
+PR0336,Dr. Emily Johnson,Cardiologist,TX,Cleveland Clinic,21,No,Yes
+PR0337,Dr. Susan Clark,Cardiologist,FL,Baylor Medical,20,No,No
+PR0338,Dr. David Lee,Endocrinologist,FL,Cleveland Clinic,27,No,No
+PR0339,Dr. Susan Clark,Oncologist,TX,Mount Sinai,28,No,Yes
+PR0340,Dr. Lisa Chen,Cardiologist,TX,Mayo Clinic,7,Yes,No
+PR0341,Dr. Lisa Chen,Neurologist,CA,Baylor Medical,10,No,No
+PR0342,Dr. Emily Johnson,Cardiologist,CA,Baylor Medical,24,No,Yes
+PR0343,Dr. David Lee,Endocrinologist,NY,Baylor Medical,14,Yes,No
+PR0344,Dr. Susan Clark,Oncologist,TX,Cleveland Clinic,17,Yes,Yes
+PR0345,Dr. Lisa Chen,Cardiologist,CA,Mayo Clinic,18,No,No
+PR0346,Dr. Lisa Chen,Cardiologist,FL,Cleveland Clinic,29,No,No
+PR0347,Dr. David Lee,Neurologist,FL,Stanford Medical,22,No,Yes
+PR0348,Dr. Lisa Chen,Oncologist,IL,Mayo Clinic,9,Yes,Yes
+PR0349,Dr. Emily Johnson,General Physician,TX,Stanford Medical,17,No,No
+PR0350,Dr. Raj Patel,Endocrinologist,CA,Baylor Medical,14,No,Yes
+PR0351,Dr. Emily Johnson,Endocrinologist,CA,Baylor Medical,10,No,Yes
+PR0352,Dr. Lisa Chen,Cardiologist,FL,Baylor Medical,21,No,Yes
+PR0353,Dr. Lisa Chen,Neurologist,IL,Mount Sinai,17,No,Yes
+PR0354,Dr. Emily Johnson,Neurologist,IL,Mount Sinai,26,Yes,Yes
+PR0355,Dr. David Lee,General Physician,IL,Stanford Medical,8,Yes,Yes
+PR0356,Dr. David Lee,Neurologist,FL,Baylor Medical,25,No,No
+PR0357,Dr. Susan Clark,General Physician,NY,Stanford Medical,16,Yes,No
+PR0358,Dr. David Lee,Neurologist,FL,Stanford Medical,12,Yes,Yes
+PR0359,Dr. Lisa Chen,Cardiologist,NY,Stanford Medical,9,No,Yes
+PR0360,Dr. Susan Clark,General Physician,IL,Baylor Medical,24,Yes,No
+PR0361,Dr. Lisa Chen,Oncologist,FL,Baylor Medical,27,Yes,Yes
+PR0362,Dr. David Lee,Endocrinologist,NY,Mayo Clinic,10,Yes,No
+PR0363,Dr. David Lee,Endocrinologist,IL,Baylor Medical,27,Yes,Yes
+PR0364,Dr. David Lee,Endocrinologist,TX,Mayo Clinic,18,No,Yes
+PR0365,Dr. Raj Patel,Endocrinologist,FL,Mount Sinai,15,No,Yes
+PR0366,Dr. Emily Johnson,Endocrinologist,TX,Stanford Medical,19,No,Yes
+PR0367,Dr. Raj Patel,Oncologist,IL,Baylor Medical,20,Yes,No
+PR0368,Dr. Emily Johnson,Endocrinologist,CA,Stanford Medical,8,No,No
+PR0369,Dr. Emily Johnson,Oncologist,NY,Mount Sinai,8,Yes,No
+PR0370,Dr. Raj Patel,General Physician,FL,Mount Sinai,23,No,No
+PR0371,Dr. Emily Johnson,Cardiologist,IL,Cleveland Clinic,15,No,No
+PR0372,Dr. Raj Patel,Neurologist,FL,Mayo Clinic,30,No,No
+PR0373,Dr. Emily Johnson,Oncologist,FL,Mayo Clinic,5,Yes,Yes
+PR0374,Dr. Susan Clark,Neurologist,TX,Mount Sinai,28,No,No
+PR0375,Dr. Lisa Chen,Cardiologist,CA,Stanford Medical,13,No,Yes
+PR0376,Dr. Emily Johnson,Neurologist,NY,Mount Sinai,6,Yes,Yes
+PR0377,Dr. Lisa Chen,Neurologist,CA,Cleveland Clinic,7,Yes,No
+PR0378,Dr. David Lee,Neurologist,TX,Baylor Medical,7,No,Yes
+PR0379,Dr. Susan Clark,General Physician,NY,Stanford Medical,7,No,Yes
+PR0380,Dr. Raj Patel,Oncologist,IL,Mount Sinai,25,Yes,Yes
+PR0381,Dr. Lisa Chen,General Physician,FL,Mayo Clinic,15,No,No
+PR0382,Dr. Raj Patel,Neurologist,TX,Cleveland Clinic,18,No,No
+PR0383,Dr. David Lee,Oncologist,IL,Mount Sinai,19,Yes,No
+PR0384,Dr. David Lee,Oncologist,IL,Cleveland Clinic,20,Yes,Yes
+PR0385,Dr. David Lee,Oncologist,CA,Baylor Medical,8,Yes,Yes
+PR0386,Dr. Emily Johnson,Cardiologist,FL,Mayo Clinic,12,No,No
+PR0387,Dr. Susan Clark,General Physician,TX,Cleveland Clinic,19,No,No
+PR0388,Dr. David Lee,General Physician,FL,Stanford Medical,8,Yes,No
+PR0389,Dr. Susan Clark,Endocrinologist,NY,Cleveland Clinic,7,Yes,Yes
+PR0390,Dr. Lisa Chen,Cardiologist,FL,Cleveland Clinic,29,Yes,Yes
+PR0391,Dr. Raj Patel,General Physician,NY,Mayo Clinic,7,Yes,No
+PR0392,Dr. Emily Johnson,Cardiologist,NY,Cleveland Clinic,13,No,Yes
+PR0393,Dr. Raj Patel,General Physician,TX,Baylor Medical,26,No,Yes
+PR0394,Dr. Raj Patel,Oncologist,TX,Cleveland Clinic,11,Yes,Yes
+PR0395,Dr. David Lee,Neurologist,IL,Stanford Medical,16,No,Yes
+PR0396,Dr. Susan Clark,General Physician,FL,Mayo Clinic,21,Yes,Yes
+PR0397,Dr. Susan Clark,Neurologist,CA,Stanford Medical,13,No,Yes
+PR0398,Dr. David Lee,Endocrinologist,NY,Mayo Clinic,10,Yes,Yes
+PR0399,Dr. Raj Patel,Oncologist,FL,Mount Sinai,27,Yes,Yes
+PR0400,Dr. Lisa Chen,Cardiologist,IL,Mount Sinai,10,No,No
+PR0401,Dr. Emily Johnson,Neurologist,NY,Cleveland Clinic,8,Yes,No
+PR0402,Dr. Emily Johnson,Endocrinologist,CA,Stanford Medical,29,Yes,Yes
+PR0403,Dr. Raj Patel,Oncologist,FL,Cleveland Clinic,12,No,No
+PR0404,Dr. Susan Clark,Oncologist,NY,Cleveland Clinic,16,No,Yes
+PR0405,Dr. Raj Patel,Neurologist,IL,Cleveland Clinic,26,Yes,No
+PR0406,Dr. David Lee,Oncologist,TX,Mount Sinai,16,No,Yes
+PR0407,Dr. Susan Clark,Cardiologist,NY,Mount Sinai,19,No,No
+PR0408,Dr. David Lee,Endocrinologist,NY,Cleveland Clinic,27,Yes,No
+PR0409,Dr. Susan Clark,Oncologist,CA,Cleveland Clinic,30,Yes,Yes
+PR0410,Dr. Susan Clark,Endocrinologist,NY,Cleveland Clinic,5,No,No
+PR0411,Dr. Raj Patel,Cardiologist,FL,Stanford Medical,26,No,No
+PR0412,Dr. Raj Patel,Endocrinologist,FL,Mount Sinai,7,Yes,Yes
+PR0413,Dr. David Lee,General Physician,TX,Baylor Medical,10,No,No
+PR0414,Dr. Emily Johnson,Cardiologist,CA,Stanford Medical,9,No,No
+PR0415,Dr. Raj Patel,Oncologist,TX,Stanford Medical,30,No,Yes
+PR0416,Dr. Raj Patel,General Physician,FL,Mount Sinai,5,No,No
+PR0417,Dr. Raj Patel,General Physician,FL,Mount Sinai,20,No,No
+PR0418,Dr. Raj Patel,Cardiologist,TX,Cleveland Clinic,24,No,No
+PR0419,Dr. Susan Clark,Oncologist,FL,Stanford Medical,7,No,No
+PR0420,Dr. David Lee,Cardiologist,FL,Stanford Medical,5,No,No
+PR0421,Dr. Raj Patel,Endocrinologist,TX,Cleveland Clinic,29,No,No
+PR0422,Dr. Raj Patel,Cardiologist,NY,Mount Sinai,24,No,Yes
+PR0423,Dr. Emily Johnson,Endocrinologist,CA,Stanford Medical,7,No,Yes
+PR0424,Dr. Lisa Chen,Neurologist,NY,Stanford Medical,7,Yes,Yes
+PR0425,Dr. Lisa Chen,Neurologist,IL,Stanford Medical,5,No,No
+PR0426,Dr. Lisa Chen,General Physician,CA,Stanford Medical,30,Yes,Yes
+PR0427,Dr. Lisa Chen,Oncologist,NY,Stanford Medical,7,Yes,No
+PR0428,Dr. Raj Patel,Endocrinologist,CA,Cleveland Clinic,21,No,No
+PR0429,Dr. Raj Patel,Oncologist,CA,Baylor Medical,20,No,Yes
+PR0430,Dr. David Lee,Endocrinologist,CA,Mount Sinai,18,No,No
+PR0431,Dr. Susan Clark,General Physician,IL,Cleveland Clinic,28,No,No
+PR0432,Dr. Raj Patel,Neurologist,CA,Mount Sinai,24,Yes,No
+PR0433,Dr. David Lee,Endocrinologist,NY,Cleveland Clinic,11,No,Yes
+PR0434,Dr. Lisa Chen,Cardiologist,CA,Mount Sinai,27,No,No
+PR0435,Dr. Lisa Chen,Endocrinologist,CA,Mount Sinai,12,No,Yes
+PR0436,Dr. Raj Patel,Endocrinologist,CA,Stanford Medical,28,No,Yes
+PR0437,Dr. Raj Patel,Neurologist,NY,Stanford Medical,8,No,Yes
+PR0438,Dr. David Lee,Neurologist,NY,Mayo Clinic,23,Yes,Yes
+PR0439,Dr. Susan Clark,Endocrinologist,IL,Stanford Medical,14,No,Yes
+PR0440,Dr. Raj Patel,Neurologist,TX,Stanford Medical,22,Yes,No
+PR0441,Dr. Susan Clark,Oncologist,FL,Stanford Medical,18,No,No
+PR0442,Dr. Susan Clark,Endocrinologist,CA,Mount Sinai,29,Yes,Yes
+PR0443,Dr. Lisa Chen,Cardiologist,CA,Mount Sinai,20,No,Yes
+PR0444,Dr. Lisa Chen,Endocrinologist,NY,Mount Sinai,8,No,No
+PR0445,Dr. Emily Johnson,Oncologist,FL,Cleveland Clinic,26,No,Yes
+PR0446,Dr. Lisa Chen,General Physician,CA,Stanford Medical,30,Yes,Yes
+PR0447,Dr. Susan Clark,Cardiologist,IL,Baylor Medical,11,Yes,No
+PR0448,Dr. David Lee,Cardiologist,NY,Cleveland Clinic,24,Yes,Yes
+PR0449,Dr. Raj Patel,Oncologist,TX,Cleveland Clinic,30,No,Yes
+PR0450,Dr. Raj Patel,Oncologist,IL,Mount Sinai,8,No,No
+PR0451,Dr. Raj Patel,Oncologist,IL,Mayo Clinic,7,Yes,Yes
+PR0452,Dr. David Lee,Endocrinologist,NY,Mayo Clinic,11,No,No
+PR0453,Dr. David Lee,General Physician,FL,Cleveland Clinic,6,Yes,Yes
+PR0454,Dr. Lisa Chen,Cardiologist,IL,Baylor Medical,25,Yes,Yes
+PR0455,Dr. Raj Patel,Oncologist,NY,Mount Sinai,18,Yes,Yes
+PR0456,Dr. Raj Patel,General Physician,TX,Mayo Clinic,6,Yes,Yes
+PR0457,Dr. Susan Clark,Oncologist,NY,Baylor Medical,5,No,Yes
+PR0458,Dr. Emily Johnson,General Physician,FL,Stanford Medical,7,No,No
+PR0459,Dr. Emily Johnson,General Physician,TX,Cleveland Clinic,5,Yes,Yes
+PR0460,Dr. Susan Clark,Endocrinologist,CA,Stanford Medical,19,Yes,No
+PR0461,Dr. David Lee,General Physician,TX,Baylor Medical,22,No,Yes
+PR0462,Dr. Raj Patel,Cardiologist,NY,Baylor Medical,19,No,No
+PR0463,Dr. Raj Patel,Endocrinologist,FL,Baylor Medical,6,Yes,No
+PR0464,Dr. Emily Johnson,General Physician,IL,Mount Sinai,17,Yes,No
+PR0465,Dr. Susan Clark,General Physician,IL,Cleveland Clinic,19,Yes,No
+PR0466,Dr. Raj Patel,General Physician,IL,Stanford Medical,11,No,Yes
+PR0467,Dr. Lisa Chen,Neurologist,TX,Stanford Medical,10,Yes,No
+PR0468,Dr. Raj Patel,Cardiologist,IL,Cleveland Clinic,27,No,Yes
+PR0469,Dr. Lisa Chen,Cardiologist,TX,Baylor Medical,22,No,Yes
+PR0470,Dr. Susan Clark,Oncologist,IL,Mayo Clinic,17,No,Yes
+PR0471,Dr. Raj Patel,General Physician,NY,Baylor Medical,11,Yes,No
+PR0472,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,10,No,Yes
+PR0473,Dr. Lisa Chen,Oncologist,FL,Cleveland Clinic,27,No,No
+PR0474,Dr. Emily Johnson,Cardiologist,IL,Baylor Medical,11,No,Yes
+PR0475,Dr. Susan Clark,Cardiologist,NY,Mayo Clinic,16,No,Yes
+PR0476,Dr. Lisa Chen,General Physician,NY,Stanford Medical,14,No,No
+PR0477,Dr. Raj Patel,Cardiologist,NY,Cleveland Clinic,28,No,Yes
+PR0478,Dr. David Lee,Endocrinologist,CA,Mount Sinai,7,Yes,No
+PR0479,Dr. Raj Patel,Cardiologist,TX,Mount Sinai,6,Yes,No
+PR0480,Dr. Lisa Chen,Oncologist,IL,Stanford Medical,22,No,No
+PR0481,Dr. Susan Clark,Endocrinologist,TX,Baylor Medical,8,Yes,No
+PR0482,Dr. David Lee,General Physician,CA,Stanford Medical,27,Yes,No
+PR0483,Dr. David Lee,General Physician,CA,Mayo Clinic,20,Yes,Yes
+PR0484,Dr. David Lee,Cardiologist,NY,Mount Sinai,8,No,Yes
+PR0485,Dr. Emily Johnson,Neurologist,FL,Mayo Clinic,27,Yes,Yes
+PR0486,Dr. Raj Patel,Endocrinologist,TX,Mount Sinai,20,Yes,No
+PR0487,Dr. Raj Patel,Oncologist,IL,Mayo Clinic,16,No,No
+PR0488,Dr. Emily Johnson,Endocrinologist,FL,Baylor Medical,22,Yes,No
+PR0489,Dr. Emily Johnson,Cardiologist,TX,Mount Sinai,18,No,Yes
+PR0490,Dr. Lisa Chen,Endocrinologist,TX,Cleveland Clinic,6,No,Yes
+PR0491,Dr. Lisa Chen,Cardiologist,TX,Mount Sinai,24,No,Yes
+PR0492,Dr. David Lee,General Physician,CA,Mount Sinai,20,Yes,No
+PR0493,Dr. David Lee,General Physician,TX,Mount Sinai,7,No,Yes
+PR0494,Dr. Susan Clark,Oncologist,IL,Stanford Medical,23,No,Yes
+PR0495,Dr. David Lee,Neurologist,CA,Mayo Clinic,18,No,Yes
+PR0496,Dr. Emily Johnson,General Physician,TX,Baylor Medical,28,No,No
+PR0497,Dr. Susan Clark,Oncologist,NY,Mayo Clinic,12,Yes,No
+PR0498,Dr. Raj Patel,Oncologist,FL,Stanford Medical,14,Yes,No
+PR0499,Dr. Raj Patel,Endocrinologist,TX,Mayo Clinic,22,Yes,No
+PR0500,Dr. David Lee,Endocrinologist,CA,Cleveland Clinic,15,Yes,No
+PR0501,Dr. Raj Patel,General Physician,IL,Mount Sinai,10,Yes,No
+PR0502,Dr. Raj Patel,General Physician,NY,Mayo Clinic,27,Yes,Yes
+PR0503,Dr. David Lee,Cardiologist,NY,Cleveland Clinic,6,No,Yes
+PR0504,Dr. Raj Patel,Neurologist,IL,Baylor Medical,6,Yes,No
+PR0505,Dr. Susan Clark,Neurologist,CA,Mount Sinai,7,No,No
+PR0506,Dr. Susan Clark,Cardiologist,TX,Mayo Clinic,29,No,Yes
+PR0507,Dr. David Lee,General Physician,FL,Mount Sinai,8,No,No
+PR0508,Dr. Susan Clark,General Physician,NY,Baylor Medical,14,No,Yes
+PR0509,Dr. Emily Johnson,Neurologist,NY,Mayo Clinic,16,No,No
+PR0510,Dr. David Lee,Cardiologist,NY,Mount Sinai,28,No,No
+PR0511,Dr. Lisa Chen,General Physician,TX,Mount Sinai,23,No,No
+PR0512,Dr. Lisa Chen,Cardiologist,TX,Mount Sinai,10,No,Yes
+PR0513,Dr. Raj Patel,Oncologist,IL,Mayo Clinic,30,Yes,Yes
+PR0514,Dr. Raj Patel,Endocrinologist,FL,Stanford Medical,28,Yes,No
+PR0515,Dr. Emily Johnson,Neurologist,TX,Cleveland Clinic,20,No,Yes
+PR0516,Dr. Emily Johnson,General Physician,CA,Mayo Clinic,28,No,Yes
+PR0517,Dr. Susan Clark,Cardiologist,NY,Mount Sinai,6,Yes,Yes
+PR0518,Dr. Lisa Chen,Endocrinologist,FL,Mayo Clinic,9,No,No
+PR0519,Dr. David Lee,Cardiologist,TX,Stanford Medical,26,No,Yes
+PR0520,Dr. Raj Patel,Oncologist,CA,Stanford Medical,21,Yes,No
+PR0521,Dr. Susan Clark,Cardiologist,CA,Mount Sinai,18,No,Yes
+PR0522,Dr. David Lee,Cardiologist,TX,Mayo Clinic,27,Yes,Yes
+PR0523,Dr. Lisa Chen,Endocrinologist,CA,Mount Sinai,24,No,No
+PR0524,Dr. Raj Patel,Cardiologist,FL,Baylor Medical,10,Yes,Yes
+PR0525,Dr. Raj Patel,Neurologist,CA,Cleveland Clinic,25,No,Yes
+PR0526,Dr. Lisa Chen,General Physician,CA,Baylor Medical,30,No,Yes
+PR0527,Dr. Emily Johnson,Oncologist,CA,Cleveland Clinic,24,No,No
+PR0528,Dr. Emily Johnson,General Physician,CA,Cleveland Clinic,19,Yes,No
+PR0529,Dr. Susan Clark,Oncologist,NY,Cleveland Clinic,13,No,No
+PR0530,Dr. David Lee,Endocrinologist,FL,Mount Sinai,5,Yes,No
+PR0531,Dr. Susan Clark,Endocrinologist,FL,Mount Sinai,16,Yes,No
+PR0532,Dr. Raj Patel,General Physician,CA,Cleveland Clinic,7,No,Yes
+PR0533,Dr. David Lee,Oncologist,NY,Cleveland Clinic,22,No,No
+PR0534,Dr. Raj Patel,Neurologist,CA,Baylor Medical,8,Yes,Yes
+PR0535,Dr. David Lee,Cardiologist,CA,Stanford Medical,7,Yes,Yes
+PR0536,Dr. Emily Johnson,Neurologist,NY,Baylor Medical,8,Yes,No
+PR0537,Dr. David Lee,Cardiologist,CA,Stanford Medical,8,Yes,No
+PR0538,Dr. David Lee,General Physician,IL,Baylor Medical,8,Yes,No
+PR0539,Dr. Lisa Chen,General Physician,FL,Mayo Clinic,5,Yes,Yes
+PR0540,Dr. Susan Clark,Cardiologist,TX,Mount Sinai,14,No,No
+PR0541,Dr. Emily Johnson,Oncologist,FL,Baylor Medical,10,No,No
+PR0542,Dr. Raj Patel,Endocrinologist,FL,Mount Sinai,12,Yes,No
+PR0543,Dr. David Lee,Neurologist,FL,Mayo Clinic,25,No,Yes
+PR0544,Dr. Emily Johnson,General Physician,NY,Mayo Clinic,6,Yes,Yes
+PR0545,Dr. David Lee,Oncologist,FL,Mayo Clinic,29,Yes,No
+PR0546,Dr. David Lee,Endocrinologist,FL,Baylor Medical,13,No,Yes
+PR0547,Dr. Susan Clark,Neurologist,NY,Mount Sinai,21,No,No
+PR0548,Dr. Raj Patel,Oncologist,FL,Baylor Medical,5,No,No
+PR0549,Dr. Emily Johnson,Neurologist,NY,Baylor Medical,26,Yes,Yes
+PR0550,Dr. Lisa Chen,Neurologist,NY,Cleveland Clinic,22,No,No
+PR0551,Dr. Emily Johnson,Neurologist,IL,Mount Sinai,11,No,Yes
+PR0552,Dr. Raj Patel,Cardiologist,CA,Mount Sinai,15,No,Yes
+PR0553,Dr. David Lee,Oncologist,FL,Cleveland Clinic,15,No,No
+PR0554,Dr. Raj Patel,Neurologist,TX,Cleveland Clinic,9,Yes,No
+PR0555,Dr. David Lee,Cardiologist,TX,Mayo Clinic,8,No,No
+PR0556,Dr. Susan Clark,General Physician,NY,Baylor Medical,27,Yes,No
+PR0557,Dr. Susan Clark,Endocrinologist,CA,Stanford Medical,8,Yes,Yes
+PR0558,Dr. David Lee,Neurologist,TX,Mount Sinai,11,Yes,No
+PR0559,Dr. David Lee,Oncologist,IL,Mayo Clinic,7,No,No
+PR0560,Dr. Emily Johnson,General Physician,CA,Baylor Medical,16,Yes,Yes
+PR0561,Dr. Susan Clark,Oncologist,IL,Baylor Medical,7,Yes,No
+PR0562,Dr. Susan Clark,Neurologist,IL,Baylor Medical,9,No,Yes
+PR0563,Dr. Susan Clark,Neurologist,NY,Cleveland Clinic,6,No,Yes
+PR0564,Dr. Lisa Chen,Cardiologist,FL,Mount Sinai,26,Yes,Yes
+PR0565,Dr. Raj Patel,Cardiologist,NY,Cleveland Clinic,8,No,No
+PR0566,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,28,No,Yes
+PR0567,Dr. David Lee,Endocrinologist,FL,Cleveland Clinic,17,Yes,No
+PR0568,Dr. Raj Patel,Oncologist,IL,Mount Sinai,18,No,No
+PR0569,Dr. Susan Clark,Oncologist,CA,Cleveland Clinic,20,Yes,Yes
+PR0570,Dr. Lisa Chen,General Physician,TX,Mount Sinai,21,Yes,Yes
+PR0571,Dr. Lisa Chen,Cardiologist,FL,Mount Sinai,20,Yes,Yes
+PR0572,Dr. Susan Clark,General Physician,CA,Mayo Clinic,13,Yes,No
+PR0573,Dr. Susan Clark,Neurologist,IL,Cleveland Clinic,10,Yes,Yes
+PR0574,Dr. David Lee,Neurologist,IL,Cleveland Clinic,5,Yes,No
+PR0575,Dr. David Lee,Endocrinologist,CA,Mayo Clinic,23,Yes,Yes
+PR0576,Dr. Raj Patel,Cardiologist,IL,Cleveland Clinic,5,No,Yes
+PR0577,Dr. David Lee,Cardiologist,TX,Cleveland Clinic,13,Yes,No
+PR0578,Dr. Lisa Chen,Neurologist,CA,Baylor Medical,30,No,No
+PR0579,Dr. David Lee,Endocrinologist,FL,Stanford Medical,15,No,Yes
+PR0580,Dr. Emily Johnson,Cardiologist,NY,Stanford Medical,28,Yes,Yes
+PR0581,Dr. Lisa Chen,Endocrinologist,FL,Mount Sinai,7,Yes,No
+PR0582,Dr. David Lee,Endocrinologist,IL,Cleveland Clinic,15,No,Yes
+PR0583,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,22,Yes,Yes
+PR0584,Dr. David Lee,Oncologist,FL,Stanford Medical,23,No,No
+PR0585,Dr. Emily Johnson,General Physician,TX,Stanford Medical,26,No,No
+PR0586,Dr. Emily Johnson,Cardiologist,CA,Mayo Clinic,30,Yes,Yes
+PR0587,Dr. Susan Clark,Cardiologist,IL,Stanford Medical,13,Yes,Yes
+PR0588,Dr. David Lee,Cardiologist,TX,Cleveland Clinic,9,Yes,Yes
+PR0589,Dr. Raj Patel,Oncologist,NY,Cleveland Clinic,15,No,Yes
+PR0590,Dr. Lisa Chen,Neurologist,NY,Baylor Medical,13,No,Yes
+PR0591,Dr. Lisa Chen,Oncologist,IL,Mount Sinai,19,No,Yes
+PR0592,Dr. Susan Clark,General Physician,TX,Cleveland Clinic,26,Yes,No
+PR0593,Dr. Susan Clark,Cardiologist,FL,Baylor Medical,19,No,Yes
+PR0594,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,14,No,Yes
+PR0595,Dr. Emily Johnson,Neurologist,IL,Baylor Medical,28,No,Yes
+PR0596,Dr. Lisa Chen,General Physician,IL,Cleveland Clinic,27,No,Yes
+PR0597,Dr. Lisa Chen,Endocrinologist,TX,Mount Sinai,28,Yes,No
+PR0598,Dr. Raj Patel,Cardiologist,IL,Baylor Medical,23,Yes,No
+PR0599,Dr. Emily Johnson,General Physician,TX,Cleveland Clinic,21,No,No
+PR0600,Dr. Susan Clark,Neurologist,TX,Mount Sinai,9,Yes,No
+PR0601,Dr. Lisa Chen,Neurologist,IL,Mount Sinai,13,No,No
+PR0602,Dr. Lisa Chen,Neurologist,IL,Cleveland Clinic,12,No,Yes
+PR0603,Dr. Lisa Chen,Neurologist,CA,Stanford Medical,7,No,No
+PR0604,Dr. Emily Johnson,Neurologist,NY,Stanford Medical,18,No,No
+PR0605,Dr. Susan Clark,Oncologist,FL,Mount Sinai,29,No,No
+PR0606,Dr. David Lee,Cardiologist,TX,Stanford Medical,13,No,Yes
+PR0607,Dr. Raj Patel,Cardiologist,TX,Mayo Clinic,18,Yes,Yes
+PR0608,Dr. Raj Patel,Endocrinologist,CA,Mayo Clinic,8,No,Yes
+PR0609,Dr. Lisa Chen,Neurologist,TX,Cleveland Clinic,7,No,Yes
+PR0610,Dr. Lisa Chen,General Physician,FL,Baylor Medical,6,No,No
+PR0611,Dr. Emily Johnson,Oncologist,NY,Stanford Medical,6,No,Yes
+PR0612,Dr. Emily Johnson,General Physician,FL,Mount Sinai,24,Yes,No
+PR0613,Dr. Emily Johnson,Endocrinologist,FL,Stanford Medical,8,No,No
+PR0614,Dr. Emily Johnson,Cardiologist,FL,Mayo Clinic,18,No,Yes
+PR0615,Dr. Emily Johnson,General Physician,NY,Stanford Medical,24,No,No
+PR0616,Dr. Susan Clark,General Physician,CA,Mount Sinai,9,No,No
+PR0617,Dr. Emily Johnson,Neurologist,FL,Mount Sinai,21,No,No
+PR0618,Dr. Emily Johnson,Neurologist,CA,Baylor Medical,13,No,Yes
+PR0619,Dr. Susan Clark,Endocrinologist,CA,Cleveland Clinic,11,Yes,No
+PR0620,Dr. Susan Clark,Neurologist,FL,Cleveland Clinic,5,Yes,Yes
+PR0621,Dr. David Lee,Endocrinologist,FL,Mayo Clinic,15,Yes,Yes
+PR0622,Dr. Susan Clark,General Physician,TX,Stanford Medical,17,No,Yes
+PR0623,Dr. Lisa Chen,Neurologist,NY,Stanford Medical,14,No,No
+PR0624,Dr. Emily Johnson,Oncologist,CA,Baylor Medical,16,No,No
+PR0625,Dr. Emily Johnson,Endocrinologist,IL,Mount Sinai,20,No,Yes
+PR0626,Dr. Susan Clark,General Physician,NY,Mayo Clinic,27,Yes,No
+PR0627,Dr. Lisa Chen,Cardiologist,CA,Cleveland Clinic,28,No,No
+PR0628,Dr. Raj Patel,Oncologist,IL,Cleveland Clinic,22,No,Yes
+PR0629,Dr. Susan Clark,Cardiologist,CA,Mayo Clinic,27,No,Yes
+PR0630,Dr. Susan Clark,Neurologist,NY,Cleveland Clinic,30,Yes,No
+PR0631,Dr. Susan Clark,Neurologist,TX,Mayo Clinic,18,Yes,No
+PR0632,Dr. Raj Patel,Cardiologist,CA,Mayo Clinic,6,Yes,No
+PR0633,Dr. Susan Clark,General Physician,CA,Stanford Medical,18,No,No
+PR0634,Dr. David Lee,Cardiologist,IL,Baylor Medical,6,Yes,No
+PR0635,Dr. Lisa Chen,Neurologist,NY,Baylor Medical,23,No,No
+PR0636,Dr. Susan Clark,General Physician,TX,Baylor Medical,17,No,No
+PR0637,Dr. Raj Patel,Cardiologist,CA,Mount Sinai,25,Yes,Yes
+PR0638,Dr. Emily Johnson,Neurologist,FL,Stanford Medical,15,No,No
+PR0639,Dr. Lisa Chen,Oncologist,CA,Baylor Medical,29,No,Yes
+PR0640,Dr. David Lee,Oncologist,TX,Cleveland Clinic,17,Yes,No
+PR0641,Dr. Raj Patel,Oncologist,FL,Stanford Medical,18,No,No
+PR0642,Dr. Susan Clark,General Physician,IL,Cleveland Clinic,26,No,No
+PR0643,Dr. Emily Johnson,General Physician,FL,Mayo Clinic,9,Yes,No
+PR0644,Dr. Raj Patel,Cardiologist,NY,Baylor Medical,14,No,No
+PR0645,Dr. Lisa Chen,General Physician,TX,Mount Sinai,25,Yes,No
+PR0646,Dr. David Lee,Oncologist,CA,Cleveland Clinic,12,Yes,Yes
+PR0647,Dr. Raj Patel,Oncologist,NY,Mount Sinai,25,Yes,No
+PR0648,Dr. Raj Patel,Endocrinologist,NY,Baylor Medical,23,Yes,Yes
+PR0649,Dr. Raj Patel,Cardiologist,CA,Mayo Clinic,12,No,Yes
+PR0650,Dr. David Lee,Neurologist,NY,Stanford Medical,27,No,No
+PR0651,Dr. Susan Clark,Neurologist,NY,Mount Sinai,30,Yes,No
+PR0652,Dr. Susan Clark,Cardiologist,NY,Mayo Clinic,13,Yes,Yes
+PR0653,Dr. Emily Johnson,Neurologist,FL,Baylor Medical,20,Yes,Yes
+PR0654,Dr. Emily Johnson,Neurologist,TX,Baylor Medical,22,Yes,No
+PR0655,Dr. Emily Johnson,Oncologist,FL,Mount Sinai,16,Yes,No
+PR0656,Dr. David Lee,Cardiologist,FL,Mount Sinai,26,Yes,No
+PR0657,Dr. Emily Johnson,Oncologist,NY,Mayo Clinic,23,No,Yes
+PR0658,Dr. Lisa Chen,Endocrinologist,CA,Cleveland Clinic,26,No,No
+PR0659,Dr. Susan Clark,Oncologist,FL,Stanford Medical,15,No,No
+PR0660,Dr. Emily Johnson,Cardiologist,CA,Mayo Clinic,23,Yes,No
+PR0661,Dr. Susan Clark,Neurologist,NY,Baylor Medical,15,Yes,No
+PR0662,Dr. Emily Johnson,Cardiologist,TX,Mount Sinai,13,No,No
+PR0663,Dr. Susan Clark,Cardiologist,NY,Baylor Medical,7,No,Yes
+PR0664,Dr. David Lee,Oncologist,TX,Mount Sinai,9,Yes,Yes
+PR0665,Dr. Raj Patel,Cardiologist,NY,Mayo Clinic,16,No,Yes
+PR0666,Dr. Susan Clark,Oncologist,CA,Mount Sinai,11,Yes,Yes
+PR0667,Dr. Emily Johnson,Endocrinologist,TX,Stanford Medical,23,No,Yes
+PR0668,Dr. Susan Clark,Endocrinologist,FL,Mount Sinai,6,No,Yes
+PR0669,Dr. Lisa Chen,Cardiologist,TX,Mount Sinai,9,Yes,Yes
+PR0670,Dr. David Lee,General Physician,TX,Mayo Clinic,9,No,No
+PR0671,Dr. Raj Patel,Neurologist,CA,Stanford Medical,30,Yes,Yes
+PR0672,Dr. Emily Johnson,Cardiologist,IL,Mount Sinai,21,No,Yes
+PR0673,Dr. Emily Johnson,Oncologist,FL,Baylor Medical,25,No,Yes
+PR0674,Dr. Lisa Chen,Cardiologist,TX,Stanford Medical,19,No,Yes
+PR0675,Dr. Emily Johnson,Endocrinologist,FL,Baylor Medical,26,Yes,Yes
+PR0676,Dr. David Lee,Oncologist,TX,Mayo Clinic,19,No,No
+PR0677,Dr. Emily Johnson,Neurologist,CA,Mayo Clinic,14,Yes,Yes
+PR0678,Dr. Susan Clark,Cardiologist,CA,Cleveland Clinic,10,No,Yes
+PR0679,Dr. Emily Johnson,Cardiologist,IL,Cleveland Clinic,20,No,No
+PR0680,Dr. Susan Clark,General Physician,CA,Cleveland Clinic,28,Yes,No
+PR0681,Dr. Lisa Chen,Oncologist,NY,Stanford Medical,24,Yes,No
+PR0682,Dr. Susan Clark,General Physician,IL,Baylor Medical,21,Yes,No
+PR0683,Dr. Emily Johnson,Endocrinologist,FL,Cleveland Clinic,22,No,Yes
+PR0684,Dr. Lisa Chen,Neurologist,IL,Cleveland Clinic,26,No,Yes
+PR0685,Dr. Lisa Chen,Neurologist,CA,Mount Sinai,13,No,No
+PR0686,Dr. David Lee,Cardiologist,CA,Baylor Medical,25,No,No
+PR0687,Dr. Lisa Chen,Cardiologist,IL,Baylor Medical,22,Yes,Yes
+PR0688,Dr. Lisa Chen,Neurologist,IL,Cleveland Clinic,12,Yes,No
+PR0689,Dr. Susan Clark,Cardiologist,NY,Mayo Clinic,18,Yes,Yes
+PR0690,Dr. Lisa Chen,Endocrinologist,NY,Mayo Clinic,28,No,No
+PR0691,Dr. Emily Johnson,Oncologist,IL,Baylor Medical,30,Yes,No
+PR0692,Dr. Raj Patel,Oncologist,CA,Baylor Medical,28,Yes,Yes
+PR0693,Dr. Raj Patel,Endocrinologist,NY,Stanford Medical,9,Yes,No
+PR0694,Dr. Raj Patel,Cardiologist,TX,Baylor Medical,5,Yes,Yes
+PR0695,Dr. Lisa Chen,Cardiologist,FL,Mayo Clinic,21,Yes,No
+PR0696,Dr. Lisa Chen,Oncologist,CA,Stanford Medical,25,Yes,No
+PR0697,Dr. Lisa Chen,Endocrinologist,CA,Baylor Medical,26,No,No
+PR0698,Dr. Emily Johnson,Oncologist,NY,Mayo Clinic,22,Yes,Yes
+PR0699,Dr. Raj Patel,Cardiologist,IL,Stanford Medical,13,Yes,Yes
+PR0700,Dr. Emily Johnson,Neurologist,FL,Mount Sinai,26,Yes,Yes
+PR0701,Dr. David Lee,General Physician,CA,Cleveland Clinic,15,Yes,No
+PR0702,Dr. Susan Clark,Neurologist,CA,Stanford Medical,15,No,No
+PR0703,Dr. Lisa Chen,Endocrinologist,NY,Stanford Medical,24,Yes,Yes
+PR0704,Dr. Lisa Chen,Endocrinologist,CA,Stanford Medical,13,Yes,No
+PR0705,Dr. Lisa Chen,Neurologist,FL,Mayo Clinic,11,Yes,Yes
+PR0706,Dr. Emily Johnson,General Physician,TX,Mayo Clinic,12,No,No
+PR0707,Dr. Lisa Chen,General Physician,NY,Stanford Medical,6,Yes,No
+PR0708,Dr. Raj Patel,General Physician,IL,Mayo Clinic,25,No,No
+PR0709,Dr. Raj Patel,Neurologist,CA,Stanford Medical,22,No,No
+PR0710,Dr. David Lee,Neurologist,FL,Baylor Medical,16,No,No
+PR0711,Dr. David Lee,Neurologist,IL,Mount Sinai,20,No,Yes
+PR0712,Dr. Susan Clark,General Physician,FL,Mount Sinai,16,Yes,Yes
+PR0713,Dr. Lisa Chen,Endocrinologist,NY,Baylor Medical,24,Yes,Yes
+PR0714,Dr. David Lee,Neurologist,TX,Baylor Medical,10,Yes,Yes
+PR0715,Dr. Susan Clark,General Physician,FL,Baylor Medical,18,No,Yes
+PR0716,Dr. David Lee,Oncologist,IL,Cleveland Clinic,5,Yes,No
+PR0717,Dr. Susan Clark,General Physician,IL,Stanford Medical,21,Yes,No
+PR0718,Dr. Lisa Chen,General Physician,TX,Cleveland Clinic,24,Yes,Yes
+PR0719,Dr. Lisa Chen,Endocrinologist,TX,Baylor Medical,18,Yes,Yes
+PR0720,Dr. Lisa Chen,Oncologist,FL,Mayo Clinic,15,Yes,No
+PR0721,Dr. Raj Patel,Neurologist,CA,Baylor Medical,7,No,Yes
+PR0722,Dr. Susan Clark,General Physician,FL,Cleveland Clinic,8,No,No
+PR0723,Dr. Raj Patel,Oncologist,NY,Mayo Clinic,5,No,Yes
+PR0724,Dr. Susan Clark,Oncologist,IL,Stanford Medical,16,No,Yes
+PR0725,Dr. David Lee,Endocrinologist,FL,Mayo Clinic,13,Yes,No
+PR0726,Dr. Emily Johnson,Endocrinologist,NY,Cleveland Clinic,12,Yes,Yes
+PR0727,Dr. Lisa Chen,Neurologist,TX,Stanford Medical,14,No,Yes
+PR0728,Dr. Raj Patel,Endocrinologist,IL,Cleveland Clinic,17,No,No
+PR0729,Dr. Emily Johnson,Endocrinologist,NY,Cleveland Clinic,12,No,Yes
+PR0730,Dr. Emily Johnson,Oncologist,NY,Mayo Clinic,6,No,No
+PR0731,Dr. Lisa Chen,Oncologist,FL,Mayo Clinic,22,No,Yes
+PR0732,Dr. Susan Clark,General Physician,CA,Mount Sinai,21,Yes,Yes
+PR0733,Dr. David Lee,Neurologist,CA,Stanford Medical,29,No,No
+PR0734,Dr. Emily Johnson,Endocrinologist,IL,Baylor Medical,30,Yes,Yes
+PR0735,Dr. Susan Clark,Oncologist,IL,Mount Sinai,26,No,Yes
+PR0736,Dr. Lisa Chen,Neurologist,CA,Cleveland Clinic,13,No,Yes
+PR0737,Dr. Lisa Chen,Oncologist,FL,Baylor Medical,9,No,Yes
+PR0738,Dr. Raj Patel,Endocrinologist,FL,Baylor Medical,14,No,Yes
+PR0739,Dr. Susan Clark,Cardiologist,IL,Baylor Medical,5,No,No
+PR0740,Dr. Lisa Chen,Neurologist,CA,Baylor Medical,20,No,Yes
+PR0741,Dr. Lisa Chen,Neurologist,FL,Baylor Medical,11,No,Yes
+PR0742,Dr. Emily Johnson,Neurologist,CA,Stanford Medical,14,Yes,No
+PR0743,Dr. Lisa Chen,General Physician,NY,Cleveland Clinic,19,Yes,Yes
+PR0744,Dr. Susan Clark,Oncologist,IL,Baylor Medical,21,No,Yes
+PR0745,Dr. Susan Clark,General Physician,CA,Baylor Medical,27,No,Yes
+PR0746,Dr. Raj Patel,Neurologist,NY,Mount Sinai,12,Yes,No
+PR0747,Dr. Emily Johnson,Cardiologist,TX,Mayo Clinic,28,Yes,No
+PR0748,Dr. Emily Johnson,Neurologist,FL,Mount Sinai,23,Yes,No
+PR0749,Dr. Susan Clark,Oncologist,TX,Stanford Medical,29,Yes,Yes
+PR0750,Dr. Raj Patel,Cardiologist,IL,Baylor Medical,24,Yes,Yes
+PR0751,Dr. Susan Clark,Cardiologist,FL,Stanford Medical,17,No,Yes
+PR0752,Dr. Susan Clark,Endocrinologist,CA,Mayo Clinic,17,No,No
+PR0753,Dr. Raj Patel,Neurologist,IL,Mayo Clinic,16,No,Yes
+PR0754,Dr. Raj Patel,Oncologist,TX,Mayo Clinic,24,Yes,No
+PR0755,Dr. Susan Clark,Cardiologist,CA,Baylor Medical,7,Yes,Yes
+PR0756,Dr. David Lee,Oncologist,TX,Mount Sinai,6,No,No
+PR0757,Dr. Susan Clark,Neurologist,NY,Mayo Clinic,8,Yes,Yes
+PR0758,Dr. Emily Johnson,Cardiologist,TX,Mayo Clinic,27,No,Yes
+PR0759,Dr. Susan Clark,Endocrinologist,CA,Stanford Medical,12,No,No
+PR0760,Dr. Lisa Chen,Endocrinologist,NY,Mayo Clinic,6,Yes,Yes
+PR0761,Dr. Raj Patel,Endocrinologist,TX,Cleveland Clinic,15,Yes,No
+PR0762,Dr. David Lee,Oncologist,CA,Mount Sinai,14,Yes,No
+PR0763,Dr. Lisa Chen,Neurologist,TX,Mount Sinai,23,No,Yes
+PR0764,Dr. Susan Clark,Oncologist,FL,Cleveland Clinic,14,No,Yes
+PR0765,Dr. Lisa Chen,Oncologist,TX,Baylor Medical,16,No,No
+PR0766,Dr. Emily Johnson,General Physician,CA,Mount Sinai,23,Yes,Yes
+PR0767,Dr. Raj Patel,General Physician,TX,Cleveland Clinic,22,Yes,No
+PR0768,Dr. Emily Johnson,Oncologist,NY,Mount Sinai,11,No,No
+PR0769,Dr. Lisa Chen,General Physician,TX,Stanford Medical,12,Yes,No
+PR0770,Dr. Raj Patel,Oncologist,TX,Cleveland Clinic,23,Yes,Yes
+PR0771,Dr. Raj Patel,General Physician,TX,Cleveland Clinic,28,Yes,No
+PR0772,Dr. Raj Patel,Endocrinologist,CA,Cleveland Clinic,18,No,No
+PR0773,Dr. David Lee,Neurologist,FL,Stanford Medical,9,No,Yes
+PR0774,Dr. Susan Clark,General Physician,IL,Cleveland Clinic,7,No,No
+PR0775,Dr. Susan Clark,General Physician,TX,Mount Sinai,24,No,No
+PR0776,Dr. Lisa Chen,Neurologist,NY,Mount Sinai,21,No,No
+PR0777,Dr. Susan Clark,General Physician,IL,Baylor Medical,19,Yes,No
+PR0778,Dr. Susan Clark,Cardiologist,FL,Mayo Clinic,24,Yes,No
+PR0779,Dr. Susan Clark,Endocrinologist,TX,Stanford Medical,28,No,No
+PR0780,Dr. Lisa Chen,Cardiologist,CA,Stanford Medical,15,No,Yes
+PR0781,Dr. Susan Clark,Endocrinologist,FL,Mayo Clinic,27,Yes,No
+PR0782,Dr. Emily Johnson,Endocrinologist,CA,Mayo Clinic,10,Yes,No
+PR0783,Dr. Susan Clark,Oncologist,TX,Stanford Medical,28,No,Yes
+PR0784,Dr. David Lee,Neurologist,FL,Stanford Medical,18,No,Yes
+PR0785,Dr. Lisa Chen,Oncologist,FL,Mayo Clinic,7,No,Yes
+PR0786,Dr. Raj Patel,General Physician,FL,Stanford Medical,20,Yes,Yes
+PR0787,Dr. Emily Johnson,Endocrinologist,FL,Mayo Clinic,16,No,Yes
+PR0788,Dr. Lisa Chen,General Physician,NY,Mount Sinai,23,No,No
+PR0789,Dr. Raj Patel,Neurologist,TX,Mayo Clinic,19,Yes,No
+PR0790,Dr. Susan Clark,General Physician,TX,Mayo Clinic,17,No,Yes
+PR0791,Dr. David Lee,Oncologist,IL,Stanford Medical,12,No,No
+PR0792,Dr. Emily Johnson,Neurologist,CA,Mayo Clinic,17,Yes,No
+PR0793,Dr. Emily Johnson,Neurologist,NY,Cleveland Clinic,18,No,No
+PR0794,Dr. Emily Johnson,General Physician,CA,Baylor Medical,26,Yes,No
+PR0795,Dr. Emily Johnson,Endocrinologist,NY,Cleveland Clinic,25,Yes,No
+PR0796,Dr. Lisa Chen,General Physician,FL,Stanford Medical,21,No,No
+PR0797,Dr. Emily Johnson,Cardiologist,IL,Cleveland Clinic,20,No,Yes
+PR0798,Dr. Emily Johnson,Neurologist,NY,Stanford Medical,14,No,No
+PR0799,Dr. David Lee,Oncologist,NY,Baylor Medical,14,No,No
+PR0800,Dr. Raj Patel,General Physician,NY,Cleveland Clinic,24,No,Yes
+PR0801,Dr. Susan Clark,General Physician,IL,Mount Sinai,16,No,No
+PR0802,Dr. Emily Johnson,Neurologist,NY,Cleveland Clinic,17,No,Yes
+PR0803,Dr. Lisa Chen,General Physician,FL,Stanford Medical,14,No,Yes
+PR0804,Dr. Emily Johnson,Oncologist,NY,Mount Sinai,6,Yes,Yes
+PR0805,Dr. Lisa Chen,General Physician,NY,Mount Sinai,6,Yes,No
+PR0806,Dr. Raj Patel,Neurologist,FL,Cleveland Clinic,18,Yes,Yes
+PR0807,Dr. David Lee,Neurologist,NY,Stanford Medical,22,Yes,No
+PR0808,Dr. Raj Patel,Oncologist,FL,Mount Sinai,18,Yes,No
+PR0809,Dr. David Lee,Oncologist,FL,Mount Sinai,16,Yes,No
+PR0810,Dr. Emily Johnson,Neurologist,IL,Mount Sinai,6,No,No
+PR0811,Dr. Raj Patel,Neurologist,IL,Baylor Medical,19,Yes,Yes
+PR0812,Dr. Raj Patel,Cardiologist,CA,Mount Sinai,25,No,No
+PR0813,Dr. Emily Johnson,Oncologist,TX,Cleveland Clinic,10,Yes,No
+PR0814,Dr. Lisa Chen,Neurologist,NY,Mayo Clinic,12,No,Yes
+PR0815,Dr. Emily Johnson,Cardiologist,IL,Mayo Clinic,15,No,Yes
+PR0816,Dr. David Lee,Cardiologist,FL,Stanford Medical,29,Yes,Yes
+PR0817,Dr. Susan Clark,Oncologist,CA,Cleveland Clinic,24,Yes,Yes
+PR0818,Dr. David Lee,General Physician,NY,Mayo Clinic,17,Yes,No
+PR0819,Dr. Susan Clark,Cardiologist,IL,Baylor Medical,22,No,No
+PR0820,Dr. Susan Clark,Endocrinologist,FL,Stanford Medical,16,Yes,No
+PR0821,Dr. David Lee,General Physician,NY,Stanford Medical,15,Yes,Yes
+PR0822,Dr. Raj Patel,Endocrinologist,TX,Cleveland Clinic,22,No,No
+PR0823,Dr. Emily Johnson,Neurologist,CA,Stanford Medical,20,No,No
+PR0824,Dr. Lisa Chen,General Physician,CA,Stanford Medical,30,No,Yes
+PR0825,Dr. Raj Patel,Neurologist,IL,Cleveland Clinic,26,Yes,No
+PR0826,Dr. Lisa Chen,Neurologist,TX,Cleveland Clinic,14,Yes,No
+PR0827,Dr. David Lee,General Physician,TX,Cleveland Clinic,21,No,Yes
+PR0828,Dr. Raj Patel,Neurologist,CA,Baylor Medical,5,Yes,Yes
+PR0829,Dr. David Lee,Endocrinologist,FL,Mayo Clinic,21,No,Yes
+PR0830,Dr. Lisa Chen,Oncologist,NY,Stanford Medical,22,No,No
+PR0831,Dr. David Lee,Neurologist,FL,Mayo Clinic,30,No,Yes
+PR0832,Dr. Lisa Chen,Oncologist,NY,Mount Sinai,19,Yes,No
+PR0833,Dr. Lisa Chen,General Physician,NY,Mayo Clinic,20,Yes,No
+PR0834,Dr. David Lee,Oncologist,NY,Mount Sinai,23,No,No
+PR0835,Dr. Raj Patel,Endocrinologist,IL,Mount Sinai,25,No,Yes
+PR0836,Dr. Emily Johnson,General Physician,NY,Baylor Medical,14,No,No
+PR0837,Dr. Raj Patel,Endocrinologist,FL,Stanford Medical,12,Yes,No
+PR0838,Dr. Raj Patel,General Physician,CA,Baylor Medical,24,Yes,No
+PR0839,Dr. Emily Johnson,General Physician,CA,Stanford Medical,23,Yes,No
+PR0840,Dr. Lisa Chen,General Physician,NY,Cleveland Clinic,11,No,No
+PR0841,Dr. Emily Johnson,Oncologist,NY,Stanford Medical,14,No,Yes
+PR0842,Dr. Emily Johnson,Cardiologist,TX,Stanford Medical,19,No,Yes
+PR0843,Dr. Emily Johnson,Endocrinologist,TX,Baylor Medical,27,Yes,Yes
+PR0844,Dr. Lisa Chen,Neurologist,TX,Mayo Clinic,24,No,No
+PR0845,Dr. Raj Patel,Endocrinologist,FL,Mount Sinai,10,Yes,No
+PR0846,Dr. David Lee,Oncologist,NY,Mount Sinai,10,Yes,Yes
+PR0847,Dr. Susan Clark,Neurologist,FL,Cleveland Clinic,26,No,No
+PR0848,Dr. Susan Clark,Endocrinologist,NY,Stanford Medical,19,Yes,Yes
+PR0849,Dr. Raj Patel,Neurologist,NY,Baylor Medical,19,No,No
+PR0850,Dr. Emily Johnson,General Physician,FL,Baylor Medical,27,No,Yes
+PR0851,Dr. Raj Patel,General Physician,NY,Cleveland Clinic,28,No,Yes
+PR0852,Dr. Lisa Chen,Oncologist,FL,Cleveland Clinic,7,No,No
+PR0853,Dr. Emily Johnson,Neurologist,NY,Mayo Clinic,22,No,Yes
+PR0854,Dr. Susan Clark,Oncologist,CA,Cleveland Clinic,20,Yes,No
+PR0855,Dr. Lisa Chen,Cardiologist,FL,Cleveland Clinic,28,No,No
+PR0856,Dr. Susan Clark,Endocrinologist,IL,Mayo Clinic,6,Yes,Yes
+PR0857,Dr. Susan Clark,Neurologist,IL,Mayo Clinic,29,No,No
+PR0858,Dr. Raj Patel,Endocrinologist,IL,Mayo Clinic,22,Yes,No
+PR0859,Dr. Raj Patel,General Physician,NY,Stanford Medical,15,Yes,No
+PR0860,Dr. Susan Clark,General Physician,TX,Mayo Clinic,8,Yes,No
+PR0861,Dr. David Lee,Neurologist,FL,Baylor Medical,17,No,Yes
+PR0862,Dr. Lisa Chen,Neurologist,FL,Cleveland Clinic,11,Yes,Yes
+PR0863,Dr. Raj Patel,General Physician,NY,Mount Sinai,29,Yes,Yes
+PR0864,Dr. Emily Johnson,Oncologist,FL,Baylor Medical,5,Yes,Yes
+PR0865,Dr. Raj Patel,Neurologist,TX,Cleveland Clinic,5,No,No
+PR0866,Dr. Susan Clark,Oncologist,TX,Mount Sinai,16,Yes,No
+PR0867,Dr. David Lee,Oncologist,FL,Stanford Medical,5,Yes,No
+PR0868,Dr. Lisa Chen,General Physician,NY,Cleveland Clinic,27,Yes,No
+PR0869,Dr. David Lee,Cardiologist,FL,Cleveland Clinic,20,Yes,No
+PR0870,Dr. David Lee,Endocrinologist,TX,Mayo Clinic,29,Yes,Yes
+PR0871,Dr. David Lee,Endocrinologist,NY,Stanford Medical,29,Yes,Yes
+PR0872,Dr. Emily Johnson,Neurologist,FL,Cleveland Clinic,29,Yes,No
+PR0873,Dr. Emily Johnson,Endocrinologist,IL,Baylor Medical,20,No,No
+PR0874,Dr. Raj Patel,Cardiologist,TX,Mount Sinai,8,Yes,No
+PR0875,Dr. Lisa Chen,Neurologist,FL,Baylor Medical,29,No,No
+PR0876,Dr. Emily Johnson,Cardiologist,TX,Baylor Medical,18,No,Yes
+PR0877,Dr. Lisa Chen,General Physician,IL,Baylor Medical,22,Yes,Yes
+PR0878,Dr. Emily Johnson,Oncologist,IL,Cleveland Clinic,17,Yes,Yes
+PR0879,Dr. Raj Patel,Cardiologist,IL,Stanford Medical,6,Yes,Yes
+PR0880,Dr. Raj Patel,Endocrinologist,CA,Mayo Clinic,30,Yes,Yes
+PR0881,Dr. Lisa Chen,General Physician,NY,Cleveland Clinic,7,No,No
+PR0882,Dr. Raj Patel,Endocrinologist,CA,Baylor Medical,25,Yes,Yes
+PR0883,Dr. Susan Clark,Cardiologist,CA,Mayo Clinic,6,No,Yes
+PR0884,Dr. Lisa Chen,Neurologist,CA,Cleveland Clinic,15,No,No
+PR0885,Dr. Raj Patel,Neurologist,NY,Mount Sinai,18,No,Yes
+PR0886,Dr. Lisa Chen,Cardiologist,FL,Baylor Medical,24,No,Yes
+PR0887,Dr. Emily Johnson,Endocrinologist,CA,Mount Sinai,29,Yes,No
+PR0888,Dr. David Lee,Endocrinologist,NY,Mayo Clinic,23,Yes,Yes
+PR0889,Dr. Emily Johnson,Neurologist,FL,Baylor Medical,30,Yes,Yes
+PR0890,Dr. Lisa Chen,Endocrinologist,IL,Cleveland Clinic,22,No,No
+PR0891,Dr. Susan Clark,Cardiologist,CA,Cleveland Clinic,20,Yes,Yes
+PR0892,Dr. David Lee,Cardiologist,TX,Mayo Clinic,8,No,Yes
+PR0893,Dr. David Lee,Oncologist,NY,Baylor Medical,16,No,No
+PR0894,Dr. Susan Clark,General Physician,CA,Mayo Clinic,19,Yes,No
+PR0895,Dr. Emily Johnson,Cardiologist,CA,Cleveland Clinic,21,Yes,Yes
+PR0896,Dr. David Lee,Oncologist,IL,Cleveland Clinic,25,No,Yes
+PR0897,Dr. Lisa Chen,Neurologist,NY,Mayo Clinic,20,Yes,Yes
+PR0898,Dr. Susan Clark,Endocrinologist,IL,Stanford Medical,13,No,Yes
+PR0899,Dr. Susan Clark,Endocrinologist,TX,Mount Sinai,13,No,No
+PR0900,Dr. Lisa Chen,Endocrinologist,NY,Cleveland Clinic,5,No,Yes
+PR0901,Dr. David Lee,General Physician,FL,Baylor Medical,22,No,No
+PR0902,Dr. Emily Johnson,Neurologist,TX,Baylor Medical,18,Yes,Yes
+PR0903,Dr. David Lee,General Physician,CA,Mount Sinai,18,No,Yes
+PR0904,Dr. Raj Patel,Endocrinologist,NY,Mount Sinai,24,No,No
+PR0905,Dr. Lisa Chen,Cardiologist,IL,Mount Sinai,26,Yes,No
+PR0906,Dr. Emily Johnson,Endocrinologist,NY,Baylor Medical,27,No,Yes
+PR0907,Dr. Emily Johnson,Neurologist,TX,Mayo Clinic,17,No,No
+PR0908,Dr. Susan Clark,Oncologist,CA,Baylor Medical,18,Yes,Yes
+PR0909,Dr. Raj Patel,Cardiologist,IL,Baylor Medical,10,No,No
+PR0910,Dr. David Lee,Endocrinologist,NY,Stanford Medical,8,Yes,Yes
+PR0911,Dr. Emily Johnson,Oncologist,FL,Baylor Medical,14,Yes,No
+PR0912,Dr. Raj Patel,General Physician,FL,Cleveland Clinic,12,No,No
+PR0913,Dr. Susan Clark,Neurologist,FL,Cleveland Clinic,23,No,Yes
+PR0914,Dr. Susan Clark,Endocrinologist,NY,Cleveland Clinic,10,Yes,No
+PR0915,Dr. Emily Johnson,Oncologist,FL,Cleveland Clinic,17,No,Yes
+PR0916,Dr. Susan Clark,Cardiologist,TX,Mount Sinai,19,Yes,No
+PR0917,Dr. Emily Johnson,Oncologist,CA,Cleveland Clinic,27,Yes,No
+PR0918,Dr. Susan Clark,Oncologist,IL,Cleveland Clinic,8,Yes,No
+PR0919,Dr. Emily Johnson,Oncologist,IL,Cleveland Clinic,19,Yes,Yes
+PR0920,Dr. David Lee,Neurologist,NY,Baylor Medical,17,No,Yes
+PR0921,Dr. David Lee,Oncologist,NY,Stanford Medical,19,No,Yes
+PR0922,Dr. Lisa Chen,Oncologist,NY,Cleveland Clinic,27,Yes,Yes
+PR0923,Dr. Lisa Chen,General Physician,FL,Baylor Medical,27,No,Yes
+PR0924,Dr. Raj Patel,Endocrinologist,IL,Cleveland Clinic,15,No,Yes
+PR0925,Dr. Raj Patel,General Physician,IL,Mayo Clinic,30,No,Yes
+PR0926,Dr. Emily Johnson,Endocrinologist,IL,Mount Sinai,19,No,No
+PR0927,Dr. Lisa Chen,Oncologist,TX,Cleveland Clinic,9,No,No
+PR0928,Dr. Lisa Chen,Oncologist,IL,Baylor Medical,13,No,No
+PR0929,Dr. Emily Johnson,Endocrinologist,FL,Mayo Clinic,14,Yes,Yes
+PR0930,Dr. Lisa Chen,Endocrinologist,FL,Mount Sinai,26,No,Yes
+PR0931,Dr. David Lee,Oncologist,IL,Cleveland Clinic,14,Yes,Yes
+PR0932,Dr. David Lee,General Physician,TX,Cleveland Clinic,24,No,Yes
+PR0933,Dr. Raj Patel,Neurologist,TX,Cleveland Clinic,9,No,No
+PR0934,Dr. Lisa Chen,Endocrinologist,NY,Baylor Medical,12,Yes,No
+PR0935,Dr. Lisa Chen,Neurologist,IL,Stanford Medical,22,Yes,No
+PR0936,Dr. David Lee,Oncologist,CA,Stanford Medical,18,Yes,Yes
+PR0937,Dr. Emily Johnson,Oncologist,CA,Baylor Medical,15,No,Yes
+PR0938,Dr. Lisa Chen,Cardiologist,CA,Mayo Clinic,29,No,No
+PR0939,Dr. Emily Johnson,Endocrinologist,FL,Mount Sinai,7,Yes,Yes
+PR0940,Dr. Raj Patel,Oncologist,FL,Stanford Medical,5,No,No
+PR0941,Dr. Raj Patel,Oncologist,CA,Mayo Clinic,25,No,Yes
+PR0942,Dr. Emily Johnson,Endocrinologist,CA,Stanford Medical,15,Yes,No
+PR0943,Dr. David Lee,Oncologist,FL,Cleveland Clinic,6,Yes,Yes
+PR0944,Dr. Susan Clark,Cardiologist,NY,Cleveland Clinic,10,No,Yes
+PR0945,Dr. Lisa Chen,Neurologist,TX,Cleveland Clinic,19,No,No
+PR0946,Dr. Susan Clark,Endocrinologist,CA,Cleveland Clinic,20,No,Yes
+PR0947,Dr. Emily Johnson,Endocrinologist,CA,Mount Sinai,6,Yes,Yes
+PR0948,Dr. Lisa Chen,General Physician,IL,Mayo Clinic,9,Yes,No
+PR0949,Dr. Raj Patel,Endocrinologist,TX,Cleveland Clinic,24,Yes,No
+PR0950,Dr. Emily Johnson,Cardiologist,TX,Cleveland Clinic,23,No,Yes
+PR0951,Dr. David Lee,Oncologist,CA,Mount Sinai,19,Yes,No
+PR0952,Dr. Susan Clark,Cardiologist,FL,Mount Sinai,8,No,No
+PR0953,Dr. Raj Patel,Endocrinologist,TX,Mount Sinai,29,Yes,Yes
+PR0954,Dr. Lisa Chen,Neurologist,IL,Baylor Medical,15,No,Yes
+PR0955,Dr. David Lee,Endocrinologist,IL,Cleveland Clinic,17,Yes,Yes
+PR0956,Dr. Lisa Chen,Neurologist,CA,Mount Sinai,17,No,Yes
+PR0957,Dr. Susan Clark,General Physician,TX,Baylor Medical,7,Yes,Yes
+PR0958,Dr. Raj Patel,Oncologist,IL,Mount Sinai,25,No,Yes
+PR0959,Dr. Emily Johnson,Endocrinologist,IL,Mayo Clinic,29,No,Yes
+PR0960,Dr. Emily Johnson,Cardiologist,NY,Mount Sinai,22,Yes,No
+PR0961,Dr. Lisa Chen,Endocrinologist,TX,Mount Sinai,18,No,No
+PR0962,Dr. Susan Clark,Endocrinologist,CA,Mayo Clinic,24,Yes,Yes
+PR0963,Dr. Susan Clark,Endocrinologist,IL,Cleveland Clinic,29,Yes,Yes
+PR0964,Dr. Susan Clark,Endocrinologist,TX,Mayo Clinic,27,No,No
+PR0965,Dr. Raj Patel,Endocrinologist,TX,Mayo Clinic,8,Yes,No
+PR0966,Dr. Lisa Chen,Cardiologist,NY,Mount Sinai,29,Yes,Yes
+PR0967,Dr. Emily Johnson,Neurologist,TX,Baylor Medical,13,No,Yes
+PR0968,Dr. Raj Patel,Cardiologist,FL,Baylor Medical,23,Yes,No
+PR0969,Dr. Lisa Chen,Oncologist,CA,Stanford Medical,13,No,No
+PR0970,Dr. Lisa Chen,Oncologist,FL,Baylor Medical,16,No,Yes
+PR0971,Dr. Susan Clark,Neurologist,NY,Baylor Medical,24,Yes,Yes
+PR0972,Dr. Susan Clark,General Physician,IL,Stanford Medical,27,No,Yes
+PR0973,Dr. Lisa Chen,General Physician,NY,Cleveland Clinic,6,Yes,No
+PR0974,Dr. Emily Johnson,General Physician,IL,Mayo Clinic,12,No,No
+PR0975,Dr. David Lee,Neurologist,IL,Cleveland Clinic,6,No,No
+PR0976,Dr. David Lee,Endocrinologist,IL,Baylor Medical,13,Yes,No
+PR0977,Dr. Raj Patel,Cardiologist,NY,Baylor Medical,11,No,No
+PR0978,Dr. Susan Clark,Cardiologist,FL,Stanford Medical,22,Yes,No
+PR0979,Dr. Raj Patel,Endocrinologist,IL,Mount Sinai,26,Yes,Yes
+PR0980,Dr. Emily Johnson,Endocrinologist,TX,Stanford Medical,20,Yes,No
+PR0981,Dr. Emily Johnson,Cardiologist,NY,Mount Sinai,24,No,No
+PR0982,Dr. David Lee,General Physician,CA,Mount Sinai,7,Yes,Yes
+PR0983,Dr. Raj Patel,Neurologist,NY,Baylor Medical,15,Yes,No
+PR0984,Dr. Susan Clark,Neurologist,IL,Mount Sinai,5,No,Yes
+PR0985,Dr. David Lee,Neurologist,IL,Cleveland Clinic,15,Yes,No
+PR0986,Dr. Emily Johnson,Oncologist,IL,Baylor Medical,30,Yes,Yes
+PR0987,Dr. Emily Johnson,Neurologist,TX,Mount Sinai,30,Yes,Yes
+PR0988,Dr. Susan Clark,Neurologist,NY,Cleveland Clinic,22,No,Yes
+PR0989,Dr. Emily Johnson,Endocrinologist,CA,Mount Sinai,22,No,Yes
+PR0990,Dr. Susan Clark,Oncologist,TX,Cleveland Clinic,13,Yes,Yes
+PR0991,Dr. Raj Patel,General Physician,FL,Cleveland Clinic,14,No,Yes
+PR0992,Dr. Raj Patel,Cardiologist,IL,Stanford Medical,16,Yes,Yes
+PR0993,Dr. Emily Johnson,Oncologist,NY,Mount Sinai,16,Yes,No
+PR0994,Dr. Raj Patel,Neurologist,TX,Mount Sinai,14,Yes,No
+PR0995,Dr. Susan Clark,Endocrinologist,FL,Mayo Clinic,29,No,No
+PR0996,Dr. Susan Clark,Cardiologist,TX,Mayo Clinic,25,No,Yes
+PR0997,Dr. David Lee,Oncologist,IL,Baylor Medical,22,Yes,Yes
+PR0998,Dr. Emily Johnson,General Physician,IL,Mayo Clinic,11,No,Yes
+PR0999,Dr. Raj Patel,General Physician,CA,Stanford Medical,26,No,No
+PR1000,Dr. David Lee,General Physician,CA,Mayo Clinic,21,No,No

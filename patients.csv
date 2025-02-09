@@ -1,0 +1,1001 @@
+Patient_ID,First_Name,Last_Name,DOB,Gender,State,Insurance_Type,Chronic_Condition,Last_Visit_Date
+P0001,Alex,Brown,1982-06-13,Male,IL,Medicaid,Asthma,2023-01-31
+P0002,Emily,Johnson,1999-03-30,Male,FL,Private,Diabetes,2023-09-16
+P0003,John,Doe,1978-04-16,Female,FL,Medicare,Heart Disease,2023-01-08
+P0004,John,Patel,1953-01-10,Female,CA,Medicaid,None,2023-10-27
+P0005,John,Smith,1981-11-09,Female,NY,Medicaid,Hypertension,2024-01-30
+P0006,Michael,Johnson,1959-05-26,Female,TX,Medicaid,Heart Disease,2024-01-17
+P0007,Alex,Johnson,1990-05-24,Female,NY,Medicare,None,2023-01-20
+P0008,John,Johnson,1987-05-03,Female,FL,Medicare,None,2023-11-14
+P0009,Alex,Doe,1969-07-04,Female,NY,Private,Diabetes,2023-05-19
+P0010,John,Johnson,1962-09-29,Male,IL,Medicaid,Asthma,2023-02-12
+P0011,Emily,Smith,1980-06-24,Female,TX,Uninsured,Hypertension,2023-06-03
+P0012,Sarah,Smith,1989-10-23,Female,NY,Medicare,None,2023-03-31
+P0013,Emily,Doe,1957-05-14,Male,CA,Private,Asthma,2023-09-06
+P0014,Sarah,Brown,1964-09-22,Female,FL,Medicaid,Asthma,2023-12-16
+P0015,Alex,Patel,2004-09-12,Female,FL,Uninsured,Asthma,2023-11-26
+P0016,Sarah,Patel,1962-10-05,Female,IL,Medicare,None,2023-02-26
+P0017,Emily,Patel,1969-01-22,Male,FL,Medicaid,Hypertension,2023-12-10
+P0018,Sarah,Brown,1980-10-09,Male,IL,Medicaid,Heart Disease,2023-10-16
+P0019,Michael,Brown,1969-07-01,Female,NY,Uninsured,Asthma,2023-12-23
+P0020,Michael,Smith,1997-08-12,Female,TX,Private,Heart Disease,2023-09-13
+P0021,Alex,Doe,1975-12-21,Female,NY,Uninsured,None,2023-04-05
+P0022,Alex,Patel,1955-09-19,Male,NY,Private,Asthma,2024-01-10
+P0023,Emily,Patel,1983-12-03,Male,TX,Uninsured,Heart Disease,2023-11-14
+P0024,John,Doe,1996-05-25,Female,CA,Medicaid,Heart Disease,2023-01-29
+P0025,Michael,Johnson,1983-11-24,Female,NY,Private,Heart Disease,2023-07-03
+P0026,John,Brown,1991-12-28,Male,TX,Uninsured,Hypertension,2023-12-04
+P0027,Emily,Smith,1976-11-19,Male,IL,Medicare,Asthma,2023-06-28
+P0028,Michael,Patel,1950-02-22,Male,FL,Medicaid,None,2023-02-05
+P0029,John,Johnson,1978-03-01,Female,FL,Uninsured,Hypertension,2023-06-05
+P0030,Michael,Smith,1996-06-22,Male,NY,Medicare,Hypertension,2023-09-15
+P0031,Michael,Brown,1963-02-16,Male,IL,Medicare,None,2024-01-13
+P0032,Alex,Johnson,1967-03-10,Female,TX,Uninsured,None,2024-01-23
+P0033,Alex,Brown,1971-09-09,Female,TX,Uninsured,None,2023-12-22
+P0034,Alex,Patel,1978-06-14,Female,IL,Private,None,2023-08-22
+P0035,Emily,Doe,1992-10-04,Male,TX,Medicaid,Diabetes,2023-09-02
+P0036,Emily,Johnson,1988-11-24,Female,TX,Uninsured,Asthma,2024-01-09
+P0037,Alex,Smith,1996-02-09,Male,NY,Uninsured,Hypertension,2024-01-07
+P0038,John,Patel,1952-10-26,Female,FL,Uninsured,Diabetes,2023-01-22
+P0039,John,Doe,1953-11-10,Male,IL,Medicaid,Heart Disease,2023-10-22
+P0040,Emily,Brown,2000-07-26,Female,IL,Uninsured,Hypertension,2023-11-26
+P0041,Alex,Brown,1986-04-30,Male,NY,Medicaid,None,2023-02-05
+P0042,Michael,Brown,1986-02-10,Male,NY,Medicare,Heart Disease,2023-01-21
+P0043,Sarah,Smith,1991-09-26,Female,TX,Medicaid,Asthma,2023-12-05
+P0044,Alex,Brown,1986-05-19,Male,IL,Medicare,Diabetes,2023-12-23
+P0045,John,Johnson,1967-04-29,Female,CA,Medicaid,Hypertension,2023-11-18
+P0046,Michael,Brown,1974-04-22,Male,CA,Medicaid,Hypertension,2023-11-17
+P0047,Emily,Johnson,1961-06-11,Female,FL,Medicaid,Heart Disease,2023-04-18
+P0048,Michael,Smith,1991-12-29,Female,FL,Uninsured,None,2023-01-27
+P0049,Emily,Brown,1973-06-30,Female,TX,Private,None,2024-01-01
+P0050,Sarah,Doe,1971-01-09,Female,NY,Medicare,Heart Disease,2023-03-04
+P0051,Alex,Patel,1986-01-28,Male,TX,Uninsured,Diabetes,2023-10-28
+P0052,Michael,Smith,1974-09-24,Female,FL,Uninsured,Diabetes,2023-05-08
+P0053,Michael,Johnson,1969-01-05,Male,CA,Medicaid,None,2023-08-25
+P0054,Michael,Patel,1967-07-02,Female,NY,Medicaid,None,2023-11-08
+P0055,Sarah,Johnson,1999-03-08,Male,IL,Medicare,None,2023-05-21
+P0056,Alex,Doe,1993-09-22,Female,NY,Private,None,2023-11-21
+P0057,Sarah,Doe,2005-02-09,Male,FL,Private,Heart Disease,2023-11-05
+P0058,Emily,Brown,1952-09-11,Male,NY,Private,Asthma,2023-10-20
+P0059,Emily,Doe,2002-08-21,Female,NY,Medicaid,Asthma,2023-11-07
+P0060,Emily,Doe,1959-11-01,Male,TX,Medicaid,Diabetes,2023-03-30
+P0061,Sarah,Johnson,1982-01-08,Female,NY,Uninsured,Asthma,2024-01-01
+P0062,Michael,Doe,2005-06-09,Male,IL,Private,Heart Disease,2023-01-26
+P0063,Sarah,Brown,1986-06-03,Female,IL,Medicare,None,2023-09-06
+P0064,Emily,Brown,1959-07-23,Female,IL,Uninsured,Asthma,2023-02-28
+P0065,John,Brown,1989-04-24,Female,NY,Private,Heart Disease,2023-12-05
+P0066,Alex,Doe,2003-11-09,Male,NY,Medicaid,Heart Disease,2024-01-27
+P0067,Sarah,Johnson,1970-04-19,Female,TX,Private,Heart Disease,2023-02-15
+P0068,Alex,Smith,1976-08-24,Male,NY,Medicare,None,2023-08-18
+P0069,John,Doe,1980-02-20,Male,IL,Medicaid,None,2023-11-04
+P0070,Sarah,Smith,1982-07-30,Male,IL,Private,Diabetes,2023-05-20
+P0071,John,Doe,1977-01-24,Female,NY,Uninsured,Hypertension,2023-05-01
+P0072,Michael,Johnson,2005-04-25,Female,FL,Private,None,2023-11-15
+P0073,Sarah,Smith,1979-01-22,Male,NY,Medicaid,Diabetes,2023-08-23
+P0074,Alex,Johnson,1980-07-26,Female,NY,Medicare,None,2023-01-04
+P0075,Emily,Doe,1988-02-01,Male,IL,Medicare,Asthma,2023-04-15
+P0076,Sarah,Brown,1978-07-26,Female,TX,Private,Hypertension,2023-07-02
+P0077,Sarah,Brown,1955-06-12,Male,IL,Medicare,Asthma,2023-07-22
+P0078,Michael,Patel,1953-08-11,Male,TX,Medicare,Heart Disease,2023-10-16
+P0079,Michael,Brown,1981-02-28,Female,NY,Medicaid,Diabetes,2023-01-30
+P0080,Emily,Johnson,1956-05-23,Female,NY,Uninsured,Asthma,2023-02-18
+P0081,Michael,Patel,1985-08-05,Female,IL,Medicaid,Diabetes,2024-01-29
+P0082,Michael,Johnson,1992-11-09,Male,CA,Medicare,Hypertension,2023-01-23
+P0083,Alex,Johnson,1965-01-26,Female,FL,Private,None,2023-01-15
+P0084,Alex,Doe,1961-12-12,Male,IL,Private,Hypertension,2024-01-05
+P0085,Alex,Patel,1989-12-09,Female,NY,Medicaid,Hypertension,2023-03-19
+P0086,John,Doe,1979-11-04,Female,FL,Medicaid,Hypertension,2023-04-26
+P0087,Michael,Brown,1995-05-20,Male,TX,Medicaid,None,2023-08-06
+P0088,John,Smith,2002-02-19,Female,TX,Medicare,Hypertension,2023-01-25
+P0089,Sarah,Patel,1978-06-01,Male,FL,Private,Asthma,2024-01-20
+P0090,Emily,Doe,1969-02-07,Female,IL,Private,Asthma,2023-04-10
+P0091,Emily,Smith,1969-03-31,Female,TX,Medicare,None,2023-05-29
+P0092,Alex,Doe,1962-03-17,Male,FL,Uninsured,Heart Disease,2023-04-22
+P0093,John,Brown,1978-03-10,Male,NY,Private,Hypertension,2023-01-29
+P0094,Emily,Brown,1979-01-26,Male,NY,Medicaid,Diabetes,2023-09-10
+P0095,Emily,Patel,1985-12-30,Male,CA,Medicaid,Heart Disease,2023-09-15
+P0096,Sarah,Brown,1969-07-10,Female,NY,Uninsured,Asthma,2024-01-07
+P0097,Sarah,Brown,1979-11-02,Female,NY,Private,Heart Disease,2023-05-09
+P0098,Sarah,Johnson,1977-02-04,Female,FL,Medicaid,Heart Disease,2023-10-05
+P0099,Alex,Johnson,1993-01-25,Female,IL,Medicare,Diabetes,2023-06-20
+P0100,Emily,Brown,1967-06-27,Female,NY,Medicare,Hypertension,2023-07-26
+P0101,Sarah,Johnson,2003-02-01,Male,TX,Private,Asthma,2023-11-08
+P0102,Sarah,Johnson,1993-02-09,Female,NY,Uninsured,Heart Disease,2023-06-29
+P0103,Emily,Doe,1960-08-24,Female,NY,Private,Diabetes,2023-07-01
+P0104,Sarah,Doe,1962-05-07,Male,TX,Private,Heart Disease,2024-01-07
+P0105,Michael,Johnson,1983-06-18,Female,IL,Private,None,2023-06-25
+P0106,Alex,Doe,1979-12-21,Male,TX,Medicaid,None,2023-04-07
+P0107,Emily,Brown,2003-03-18,Female,CA,Medicare,None,2023-02-19
+P0108,John,Smith,1993-03-06,Male,IL,Uninsured,Asthma,2023-01-24
+P0109,Alex,Johnson,1999-01-30,Female,NY,Private,Diabetes,2024-01-15
+P0110,John,Brown,1956-09-08,Male,NY,Medicare,Heart Disease,2023-09-23
+P0111,John,Patel,1972-07-25,Male,NY,Medicaid,Diabetes,2023-09-20
+P0112,Sarah,Doe,1987-04-23,Male,NY,Uninsured,None,2023-01-26
+P0113,John,Brown,2001-10-19,Male,FL,Private,None,2023-12-26
+P0114,Alex,Brown,1971-09-17,Male,IL,Private,Diabetes,2023-03-31
+P0115,Emily,Johnson,1967-09-15,Female,CA,Private,Asthma,2023-07-31
+P0116,Sarah,Smith,1992-09-29,Female,TX,Medicaid,Diabetes,2023-03-26
+P0117,John,Doe,1951-11-12,Male,CA,Medicare,Diabetes,2023-01-19
+P0118,Sarah,Patel,1989-09-29,Female,CA,Uninsured,Heart Disease,2023-02-26
+P0119,Sarah,Doe,1984-01-28,Male,FL,Medicare,Hypertension,2023-05-16
+P0120,Sarah,Patel,1958-02-06,Female,IL,Private,Diabetes,2023-10-11
+P0121,Emily,Doe,1954-06-30,Male,TX,Private,Heart Disease,2023-01-03
+P0122,John,Smith,1992-08-29,Female,TX,Uninsured,Diabetes,2023-07-29
+P0123,Sarah,Smith,1990-05-09,Female,TX,Uninsured,Diabetes,2023-12-14
+P0124,Michael,Johnson,1990-09-23,Female,FL,Private,Diabetes,2023-06-11
+P0125,Sarah,Smith,1999-03-29,Male,TX,Private,Heart Disease,2023-11-03
+P0126,Michael,Doe,1965-06-11,Female,IL,Uninsured,Asthma,2023-08-26
+P0127,Emily,Smith,1964-09-25,Male,NY,Medicare,Hypertension,2023-03-11
+P0128,John,Smith,1958-03-07,Female,NY,Medicaid,Diabetes,2023-12-03
+P0129,Emily,Johnson,1985-03-06,Female,FL,Uninsured,Hypertension,2023-06-21
+P0130,Emily,Brown,1987-02-23,Male,FL,Medicare,None,2023-01-23
+P0131,John,Johnson,1970-09-18,Male,IL,Private,Asthma,2023-05-31
+P0132,John,Johnson,1986-08-15,Male,CA,Medicaid,None,2023-06-27
+P0133,Michael,Smith,1985-04-25,Male,CA,Medicaid,None,2023-07-15
+P0134,Alex,Smith,1952-05-26,Male,NY,Medicare,Heart Disease,2024-01-19
+P0135,Alex,Smith,1994-04-09,Female,FL,Uninsured,Heart Disease,2023-09-10
+P0136,Sarah,Johnson,1981-03-17,Female,IL,Private,None,2023-12-19
+P0137,Sarah,Brown,1988-12-06,Female,IL,Uninsured,Diabetes,2024-01-27
+P0138,Emily,Smith,1993-10-02,Male,FL,Uninsured,None,2023-07-25
+P0139,Michael,Smith,1962-07-23,Male,FL,Private,Diabetes,2024-01-25
+P0140,Sarah,Doe,1997-08-17,Female,NY,Medicare,Diabetes,2023-12-15
+P0141,Michael,Doe,1988-08-21,Male,TX,Medicare,Hypertension,2023-09-06
+P0142,Alex,Smith,1991-07-17,Female,TX,Medicare,Asthma,2023-03-30
+P0143,Emily,Johnson,1954-04-30,Male,TX,Medicare,None,2023-10-15
+P0144,John,Smith,1987-11-13,Male,IL,Private,None,2023-07-25
+P0145,Alex,Brown,1979-07-14,Male,IL,Private,None,2023-05-06
+P0146,Michael,Brown,1998-04-03,Male,FL,Uninsured,Diabetes,2023-08-05
+P0147,Michael,Doe,1975-05-23,Female,CA,Uninsured,Hypertension,2023-12-02
+P0148,Michael,Doe,1957-06-03,Male,IL,Medicaid,None,2023-11-29
+P0149,Sarah,Johnson,1966-10-23,Male,FL,Medicare,Asthma,2023-04-19
+P0150,Michael,Brown,1950-07-25,Male,CA,Private,Heart Disease,2023-02-20
+P0151,John,Smith,1972-04-17,Male,TX,Private,Diabetes,2023-09-14
+P0152,Emily,Smith,1958-12-30,Female,TX,Uninsured,Hypertension,2024-01-18
+P0153,Emily,Patel,1971-09-06,Female,TX,Private,Hypertension,2023-01-25
+P0154,Alex,Doe,1973-04-21,Male,TX,Uninsured,Hypertension,2023-10-13
+P0155,Emily,Doe,1991-01-26,Male,CA,Uninsured,None,2023-05-10
+P0156,John,Brown,1950-04-14,Female,IL,Medicaid,Heart Disease,2023-11-26
+P0157,Emily,Doe,1968-03-12,Male,FL,Medicare,Heart Disease,2023-08-12
+P0158,Alex,Smith,1977-03-28,Male,CA,Private,Hypertension,2024-01-16
+P0159,Sarah,Patel,1979-06-04,Female,FL,Private,None,2023-10-13
+P0160,Michael,Johnson,1970-06-10,Male,CA,Private,Diabetes,2023-04-11
+P0161,Emily,Brown,1984-11-17,Male,CA,Uninsured,None,2023-03-11
+P0162,Sarah,Doe,1950-03-04,Male,NY,Medicare,Heart Disease,2023-07-05
+P0163,Sarah,Patel,1979-01-04,Male,IL,Medicaid,Heart Disease,2024-01-19
+P0164,Emily,Doe,1989-11-06,Male,TX,Medicaid,Asthma,2023-11-13
+P0165,Alex,Doe,1999-12-15,Female,CA,Medicare,Asthma,2023-06-01
+P0166,John,Doe,1968-07-03,Female,TX,Medicare,None,2023-05-10
+P0167,Michael,Smith,1984-12-02,Male,CA,Uninsured,None,2023-01-10
+P0168,Emily,Smith,1979-04-02,Female,IL,Medicaid,Diabetes,2023-06-16
+P0169,Sarah,Brown,1970-03-26,Male,NY,Medicare,Diabetes,2023-03-15
+P0170,Emily,Johnson,1982-01-11,Male,IL,Medicare,Hypertension,2023-01-19
+P0171,Alex,Patel,1969-12-12,Male,NY,Private,Diabetes,2023-10-20
+P0172,Alex,Smith,1977-12-20,Male,FL,Uninsured,Heart Disease,2023-04-09
+P0173,Emily,Johnson,1981-09-23,Male,TX,Uninsured,None,2023-09-13
+P0174,Alex,Smith,1961-11-29,Male,IL,Medicaid,Hypertension,2023-04-09
+P0175,John,Doe,1988-07-26,Male,FL,Private,Diabetes,2023-01-09
+P0176,Alex,Doe,1967-10-23,Female,IL,Private,Diabetes,2023-05-12
+P0177,Alex,Doe,1968-06-10,Female,NY,Medicaid,Asthma,2023-02-14
+P0178,Michael,Doe,1970-01-26,Female,TX,Medicaid,Diabetes,2023-04-27
+P0179,Sarah,Brown,1954-06-09,Female,TX,Uninsured,Asthma,2023-03-17
+P0180,Emily,Doe,1985-04-24,Female,NY,Private,Asthma,2023-08-07
+P0181,Emily,Smith,1980-03-24,Female,NY,Uninsured,Heart Disease,2023-12-26
+P0182,John,Smith,1983-03-28,Female,FL,Medicare,Heart Disease,2023-10-23
+P0183,Alex,Johnson,1952-03-04,Male,IL,Medicaid,Heart Disease,2023-03-09
+P0184,Michael,Doe,1978-07-31,Female,IL,Uninsured,Asthma,2023-10-14
+P0185,Emily,Brown,1982-01-20,Male,IL,Medicaid,Heart Disease,2023-04-24
+P0186,Michael,Johnson,1960-12-15,Female,TX,Private,Heart Disease,2023-03-25
+P0187,Michael,Doe,1992-07-05,Male,IL,Uninsured,Hypertension,2023-08-07
+P0188,Michael,Doe,2000-06-09,Female,NY,Uninsured,Diabetes,2023-09-19
+P0189,Alex,Doe,1995-07-31,Female,NY,Private,Asthma,2023-09-11
+P0190,Alex,Brown,2005-09-01,Male,FL,Medicare,Diabetes,2023-06-30
+P0191,Michael,Patel,1973-02-07,Male,NY,Uninsured,None,2023-07-03
+P0192,Emily,Smith,1967-01-27,Male,FL,Medicaid,Hypertension,2023-10-01
+P0193,John,Smith,1968-05-09,Female,CA,Uninsured,Hypertension,2023-07-29
+P0194,Sarah,Smith,1963-04-13,Male,IL,Medicaid,Diabetes,2023-03-01
+P0195,John,Brown,1976-08-22,Male,TX,Private,None,2023-04-07
+P0196,Emily,Smith,2002-08-09,Male,TX,Medicare,Asthma,2023-04-28
+P0197,Alex,Johnson,1971-04-18,Female,FL,Medicaid,Hypertension,2023-09-13
+P0198,Emily,Doe,1982-09-27,Male,TX,Medicaid,Asthma,2023-09-13
+P0199,John,Johnson,1957-02-09,Male,IL,Medicaid,Asthma,2023-05-31
+P0200,Emily,Smith,1958-08-07,Female,TX,Uninsured,None,2023-08-28
+P0201,John,Brown,1967-11-21,Female,CA,Medicare,Hypertension,2023-04-29
+P0202,Sarah,Patel,2001-11-27,Female,TX,Medicare,Asthma,2023-07-28
+P0203,John,Doe,1969-08-18,Male,TX,Uninsured,Asthma,2023-12-14
+P0204,Emily,Smith,1951-08-25,Female,FL,Medicare,Heart Disease,2023-01-28
+P0205,Michael,Doe,1990-05-31,Male,NY,Private,None,2023-07-12
+P0206,Emily,Smith,1995-07-03,Female,IL,Medicaid,None,2023-11-14
+P0207,John,Patel,1978-08-30,Male,NY,Medicaid,Asthma,2023-07-30
+P0208,Michael,Doe,1974-12-11,Female,NY,Private,Diabetes,2023-10-13
+P0209,Sarah,Patel,1979-01-06,Female,NY,Medicare,Asthma,2023-05-16
+P0210,Michael,Smith,1956-05-20,Female,IL,Medicare,None,2023-10-24
+P0211,Sarah,Patel,1991-10-11,Male,NY,Uninsured,None,2023-09-18
+P0212,Sarah,Johnson,1958-06-28,Male,FL,Medicare,Diabetes,2023-07-11
+P0213,Sarah,Brown,1998-05-13,Female,NY,Medicaid,Hypertension,2023-10-31
+P0214,Sarah,Patel,1993-11-27,Male,IL,Private,Heart Disease,2023-05-02
+P0215,Michael,Brown,2002-12-22,Female,CA,Uninsured,None,2023-08-22
+P0216,Michael,Patel,1982-01-01,Male,CA,Medicare,Heart Disease,2023-03-05
+P0217,Alex,Patel,1989-03-04,Male,TX,Private,Asthma,2023-01-13
+P0218,Emily,Johnson,1953-10-08,Female,FL,Private,Diabetes,2023-10-07
+P0219,Alex,Smith,1957-05-03,Female,IL,Medicare,None,2023-11-23
+P0220,Alex,Smith,1955-06-04,Female,FL,Medicaid,Heart Disease,2023-10-10
+P0221,John,Johnson,1959-07-16,Female,TX,Private,Diabetes,2023-10-06
+P0222,Alex,Doe,1955-04-17,Female,CA,Uninsured,Diabetes,2023-12-24
+P0223,Sarah,Smith,1992-06-29,Female,NY,Medicare,Diabetes,2023-09-20
+P0224,John,Johnson,1969-06-24,Male,IL,Uninsured,None,2023-06-28
+P0225,Alex,Smith,1986-02-03,Female,IL,Uninsured,Asthma,2023-01-14
+P0226,John,Johnson,1999-07-29,Male,CA,Private,Asthma,2023-04-02
+P0227,Emily,Patel,1997-12-18,Female,CA,Private,Hypertension,2023-11-17
+P0228,Emily,Doe,1993-09-27,Female,CA,Private,Asthma,2023-06-02
+P0229,Michael,Smith,1993-07-27,Male,TX,Uninsured,Asthma,2023-12-13
+P0230,Emily,Doe,1963-05-21,Female,FL,Medicare,Asthma,2023-08-26
+P0231,Michael,Brown,1999-04-24,Male,CA,Medicaid,Heart Disease,2024-01-26
+P0232,Alex,Johnson,1966-06-04,Female,CA,Medicaid,None,2023-03-31
+P0233,Sarah,Johnson,1975-07-08,Male,IL,Medicaid,None,2023-05-21
+P0234,Emily,Patel,1970-11-07,Female,TX,Private,Hypertension,2023-03-17
+P0235,Michael,Smith,1977-11-16,Female,NY,Private,Asthma,2024-01-29
+P0236,Michael,Brown,1976-09-01,Female,NY,Uninsured,Asthma,2023-09-21
+P0237,Alex,Smith,1960-09-29,Female,IL,Uninsured,Asthma,2024-01-04
+P0238,John,Brown,1966-12-20,Male,TX,Medicare,None,2023-08-25
+P0239,Sarah,Johnson,1959-04-27,Male,FL,Uninsured,Asthma,2024-01-14
+P0240,John,Johnson,1967-09-18,Male,IL,Private,Heart Disease,2023-05-19
+P0241,Michael,Patel,2002-02-03,Male,TX,Uninsured,Heart Disease,2023-10-03
+P0242,John,Smith,1994-04-24,Male,NY,Uninsured,Asthma,2023-03-10
+P0243,Emily,Brown,1965-01-01,Female,FL,Private,Hypertension,2023-06-10
+P0244,Michael,Patel,1992-06-25,Male,FL,Private,Hypertension,2024-01-03
+P0245,John,Johnson,1982-09-20,Female,FL,Medicare,Heart Disease,2023-04-21
+P0246,Emily,Patel,1974-10-19,Female,FL,Medicaid,Hypertension,2023-11-19
+P0247,Emily,Johnson,1958-03-11,Male,TX,Uninsured,None,2023-12-10
+P0248,Michael,Doe,1953-02-24,Male,NY,Medicare,Hypertension,2023-04-25
+P0249,John,Smith,1969-01-13,Male,NY,Uninsured,Diabetes,2024-01-31
+P0250,Michael,Smith,1959-04-02,Male,FL,Medicaid,None,2023-08-24
+P0251,John,Smith,1993-08-06,Female,CA,Uninsured,Diabetes,2023-11-12
+P0252,Michael,Smith,2001-08-15,Male,CA,Medicaid,Hypertension,2023-01-29
+P0253,Michael,Johnson,1958-02-03,Female,TX,Medicaid,Hypertension,2023-06-01
+P0254,Alex,Patel,1975-01-18,Female,NY,Uninsured,Asthma,2023-03-24
+P0255,Alex,Brown,2002-10-22,Male,NY,Private,Hypertension,2023-11-22
+P0256,John,Smith,2001-11-25,Male,CA,Medicare,Asthma,2023-08-25
+P0257,Sarah,Smith,1973-06-26,Male,CA,Uninsured,Asthma,2024-01-24
+P0258,Emily,Johnson,2000-08-02,Female,IL,Medicaid,Diabetes,2023-10-14
+P0259,Sarah,Patel,1966-07-19,Male,CA,Uninsured,Hypertension,2023-01-01
+P0260,Emily,Johnson,1952-10-18,Male,CA,Medicare,Diabetes,2023-10-31
+P0261,John,Johnson,1968-02-10,Male,TX,Private,Heart Disease,2023-04-19
+P0262,Alex,Doe,1966-12-20,Female,NY,Medicaid,Diabetes,2023-03-29
+P0263,Emily,Smith,1957-03-04,Male,CA,Private,Asthma,2023-09-02
+P0264,Emily,Brown,1978-02-02,Female,FL,Medicaid,Diabetes,2023-07-06
+P0265,Alex,Brown,1976-05-03,Male,CA,Private,None,2023-07-02
+P0266,Michael,Patel,1982-04-07,Male,IL,Medicare,None,2023-06-13
+P0267,John,Patel,1995-12-28,Male,IL,Uninsured,Asthma,2023-08-14
+P0268,Sarah,Brown,1994-07-20,Male,NY,Private,Diabetes,2023-08-09
+P0269,Emily,Brown,1989-09-21,Male,IL,Private,Heart Disease,2023-06-20
+P0270,Sarah,Patel,1967-04-22,Female,NY,Uninsured,Heart Disease,2023-05-27
+P0271,John,Patel,1966-06-10,Female,TX,Uninsured,Heart Disease,2023-07-25
+P0272,Sarah,Smith,1986-12-31,Male,TX,Medicaid,None,2023-02-15
+P0273,Sarah,Patel,1951-12-18,Female,TX,Uninsured,Asthma,2023-01-08
+P0274,Alex,Johnson,1968-06-23,Female,CA,Uninsured,None,2023-03-06
+P0275,John,Johnson,1973-07-20,Female,NY,Medicaid,Hypertension,2023-06-11
+P0276,Alex,Doe,1971-10-24,Male,CA,Private,Diabetes,2023-05-10
+P0277,Alex,Brown,1968-04-28,Female,IL,Uninsured,Hypertension,2023-01-03
+P0278,John,Johnson,2005-01-26,Female,NY,Private,Heart Disease,2023-10-20
+P0279,Sarah,Doe,1975-02-23,Female,IL,Uninsured,None,2023-09-22
+P0280,John,Brown,1980-03-26,Female,NY,Private,None,2023-02-14
+P0281,Sarah,Doe,1973-12-13,Male,NY,Private,Heart Disease,2023-12-28
+P0282,Alex,Smith,1974-09-06,Female,IL,Medicaid,Asthma,2024-01-03
+P0283,Emily,Doe,1953-06-17,Male,IL,Medicare,Diabetes,2023-08-27
+P0284,Alex,Johnson,1975-07-19,Female,IL,Medicaid,Heart Disease,2024-02-01
+P0285,Alex,Brown,1968-05-02,Female,NY,Medicaid,Heart Disease,2024-01-08
+P0286,Alex,Doe,2005-10-04,Female,TX,Medicaid,Hypertension,2024-01-08
+P0287,Sarah,Smith,1978-11-15,Male,NY,Medicare,Hypertension,2023-12-07
+P0288,Alex,Brown,1975-02-06,Female,TX,Medicare,Hypertension,2023-03-07
+P0289,Emily,Smith,1989-03-11,Female,FL,Medicare,Asthma,2023-09-17
+P0290,Sarah,Patel,1980-11-19,Male,CA,Medicaid,Diabetes,2023-10-18
+P0291,Emily,Doe,2002-04-09,Female,NY,Uninsured,Heart Disease,2023-02-02
+P0292,Michael,Patel,1956-06-30,Male,CA,Medicaid,Hypertension,2023-02-06
+P0293,John,Smith,1971-12-13,Male,CA,Medicare,None,2023-02-14
+P0294,Emily,Smith,1987-06-14,Female,FL,Uninsured,Diabetes,2023-02-22
+P0295,Sarah,Johnson,2002-10-13,Male,NY,Private,Asthma,2023-03-05
+P0296,Sarah,Brown,1963-02-13,Male,IL,Private,Hypertension,2023-09-19
+P0297,John,Brown,1952-08-31,Male,TX,Medicaid,Asthma,2023-12-29
+P0298,Sarah,Doe,2000-08-21,Male,TX,Medicare,None,2023-05-02
+P0299,Michael,Smith,1975-04-25,Female,IL,Uninsured,Asthma,2023-06-07
+P0300,Michael,Johnson,1971-08-20,Male,IL,Medicare,Heart Disease,2023-01-30
+P0301,Michael,Brown,1955-02-02,Female,IL,Private,Diabetes,2023-05-12
+P0302,Michael,Patel,2004-10-20,Male,TX,Medicare,Heart Disease,2023-07-17
+P0303,Alex,Brown,1960-09-15,Female,NY,Medicare,Heart Disease,2024-01-05
+P0304,Sarah,Patel,1956-10-15,Male,FL,Medicare,None,2024-01-14
+P0305,Alex,Brown,1957-10-17,Female,CA,Medicaid,Heart Disease,2023-03-20
+P0306,John,Johnson,1973-10-18,Female,IL,Medicaid,Hypertension,2023-02-08
+P0307,Alex,Smith,1950-09-26,Male,NY,Medicaid,Heart Disease,2023-12-06
+P0308,Emily,Johnson,1956-03-02,Female,NY,Private,Asthma,2023-04-29
+P0309,Emily,Doe,1960-02-25,Female,NY,Uninsured,Heart Disease,2023-08-08
+P0310,Alex,Johnson,1974-06-23,Female,FL,Medicare,None,2023-06-09
+P0311,Emily,Brown,2000-04-25,Male,IL,Uninsured,Heart Disease,2023-08-01
+P0312,Alex,Smith,1982-05-31,Male,NY,Uninsured,None,2023-05-31
+P0313,Emily,Doe,1959-03-24,Female,NY,Uninsured,None,2023-03-11
+P0314,Michael,Doe,1978-07-13,Male,NY,Private,None,2023-06-04
+P0315,Sarah,Patel,1959-08-24,Female,NY,Private,Diabetes,2023-11-24
+P0316,Sarah,Johnson,1951-04-10,Female,IL,Private,Heart Disease,2024-01-07
+P0317,Sarah,Johnson,1987-01-16,Male,TX,Private,Hypertension,2023-06-21
+P0318,Michael,Johnson,2000-08-21,Female,NY,Uninsured,Heart Disease,2023-12-11
+P0319,Emily,Brown,1954-09-27,Male,IL,Private,Heart Disease,2024-01-31
+P0320,Emily,Johnson,1960-04-17,Male,IL,Private,Asthma,2023-09-24
+P0321,John,Doe,1979-03-10,Female,TX,Uninsured,Heart Disease,2023-12-08
+P0322,Emily,Doe,1988-09-07,Male,NY,Uninsured,Diabetes,2024-01-04
+P0323,Emily,Johnson,1982-09-02,Male,TX,Medicare,None,2023-06-24
+P0324,Sarah,Doe,1955-11-26,Male,CA,Medicaid,Heart Disease,2023-01-10
+P0325,Emily,Johnson,2002-04-02,Female,IL,Private,Asthma,2023-06-08
+P0326,Sarah,Brown,1976-04-27,Female,FL,Medicare,Asthma,2023-03-08
+P0327,Sarah,Patel,1970-09-11,Female,NY,Private,Hypertension,2023-01-29
+P0328,Emily,Smith,1986-01-14,Female,FL,Medicare,Heart Disease,2023-08-17
+P0329,Michael,Brown,1997-03-18,Female,TX,Medicaid,Heart Disease,2023-04-13
+P0330,Alex,Brown,1973-06-19,Female,NY,Medicaid,None,2023-06-14
+P0331,John,Doe,1960-06-27,Female,CA,Medicare,None,2023-11-02
+P0332,Alex,Brown,1978-04-26,Female,FL,Medicare,Heart Disease,2023-08-19
+P0333,Emily,Johnson,1991-03-23,Female,TX,Uninsured,Diabetes,2023-08-25
+P0334,Alex,Brown,1986-05-22,Female,NY,Medicare,Diabetes,2023-01-22
+P0335,Sarah,Smith,1988-07-10,Female,NY,Medicare,Diabetes,2023-06-15
+P0336,Emily,Doe,1951-06-22,Female,IL,Uninsured,Hypertension,2023-06-12
+P0337,John,Patel,1957-03-10,Female,NY,Private,Diabetes,2023-08-07
+P0338,Michael,Doe,2003-01-07,Female,NY,Uninsured,Heart Disease,2023-09-04
+P0339,Sarah,Doe,1975-08-02,Female,IL,Medicare,Diabetes,2023-11-17
+P0340,Sarah,Doe,1992-11-17,Female,TX,Private,Heart Disease,2024-01-28
+P0341,Michael,Smith,1956-04-05,Female,NY,Private,Hypertension,2023-09-14
+P0342,Emily,Smith,2000-02-01,Male,IL,Medicaid,Asthma,2023-08-17
+P0343,Alex,Brown,2003-03-07,Female,FL,Medicaid,Asthma,2023-03-26
+P0344,John,Johnson,1995-11-05,Female,FL,Medicaid,Heart Disease,2023-11-17
+P0345,Sarah,Doe,1952-02-27,Male,NY,Medicare,Asthma,2023-09-14
+P0346,John,Smith,1977-07-24,Female,NY,Medicaid,None,2023-05-06
+P0347,Sarah,Doe,1960-04-23,Female,TX,Medicaid,None,2023-09-05
+P0348,John,Brown,1953-02-28,Male,NY,Uninsured,Hypertension,2023-06-20
+P0349,Emily,Patel,1988-03-12,Male,CA,Medicare,Heart Disease,2023-11-22
+P0350,Alex,Doe,2005-05-20,Female,CA,Uninsured,Heart Disease,2023-04-19
+P0351,Emily,Patel,1961-03-29,Male,CA,Uninsured,Hypertension,2023-01-07
+P0352,Emily,Smith,1953-04-24,Female,TX,Private,Asthma,2023-06-06
+P0353,John,Doe,2004-02-21,Female,FL,Private,Asthma,2023-05-20
+P0354,Sarah,Brown,2004-04-15,Male,CA,Uninsured,Heart Disease,2023-09-28
+P0355,Sarah,Patel,1983-03-15,Male,NY,Uninsured,Heart Disease,2023-11-29
+P0356,Michael,Brown,1986-06-02,Female,FL,Uninsured,Hypertension,2023-03-01
+P0357,Sarah,Patel,1998-08-03,Female,NY,Medicare,Heart Disease,2023-11-26
+P0358,John,Patel,1977-01-07,Female,NY,Private,Asthma,2023-12-06
+P0359,Emily,Patel,2000-10-27,Male,IL,Medicare,None,2023-04-27
+P0360,Alex,Brown,1965-12-15,Male,CA,Private,Hypertension,2023-07-03
+P0361,Alex,Smith,1973-11-09,Female,FL,Private,Diabetes,2023-06-29
+P0362,Sarah,Brown,1987-08-05,Female,FL,Private,Diabetes,2023-01-21
+P0363,Alex,Smith,1971-04-28,Female,IL,Private,None,2023-08-24
+P0364,Emily,Smith,1984-05-12,Male,NY,Private,Diabetes,2024-01-14
+P0365,John,Johnson,1975-08-25,Female,TX,Medicaid,Heart Disease,2023-05-26
+P0366,John,Johnson,1975-05-04,Male,CA,Medicaid,Diabetes,2023-09-26
+P0367,Michael,Patel,1958-08-03,Female,CA,Medicaid,Asthma,2023-11-23
+P0368,Emily,Brown,2000-09-18,Male,IL,Medicare,None,2023-11-14
+P0369,Michael,Patel,1988-08-13,Female,IL,Uninsured,None,2023-05-16
+P0370,Sarah,Brown,1953-08-11,Male,NY,Medicaid,Hypertension,2023-04-19
+P0371,Michael,Patel,1958-02-09,Female,FL,Uninsured,Hypertension,2023-10-23
+P0372,Michael,Johnson,1958-07-11,Female,TX,Private,Asthma,2023-05-05
+P0373,Emily,Brown,1962-01-31,Male,FL,Private,None,2024-01-20
+P0374,John,Johnson,1970-11-28,Female,IL,Medicaid,Asthma,2023-12-04
+P0375,Michael,Brown,1961-01-12,Female,CA,Medicaid,None,2023-02-19
+P0376,Emily,Brown,1971-09-09,Female,TX,Uninsured,Hypertension,2023-09-25
+P0377,Sarah,Smith,1952-11-30,Male,FL,Uninsured,Hypertension,2023-10-11
+P0378,Emily,Doe,1993-02-17,Female,NY,Uninsured,Diabetes,2024-01-31
+P0379,Michael,Doe,1992-11-25,Female,NY,Medicaid,Asthma,2023-04-29
+P0380,John,Doe,1977-04-16,Female,FL,Medicare,None,2023-10-30
+P0381,Sarah,Patel,1960-07-02,Female,CA,Medicaid,Heart Disease,2024-01-20
+P0382,Michael,Smith,1999-07-28,Male,CA,Medicare,Diabetes,2023-11-05
+P0383,John,Brown,1980-10-01,Male,CA,Private,None,2023-01-17
+P0384,Sarah,Johnson,1978-11-28,Male,TX,Medicare,Asthma,2023-05-12
+P0385,Sarah,Patel,2005-08-30,Male,TX,Medicare,Hypertension,2023-10-08
+P0386,John,Patel,1981-12-22,Male,CA,Uninsured,None,2023-10-03
+P0387,John,Johnson,1999-04-06,Female,NY,Medicare,Asthma,2023-06-30
+P0388,John,Smith,1974-04-23,Male,NY,Medicare,Asthma,2023-09-30
+P0389,Sarah,Patel,1954-08-28,Male,CA,Private,None,2023-10-21
+P0390,Emily,Patel,1971-11-28,Male,NY,Medicare,Hypertension,2023-06-18
+P0391,Alex,Brown,1996-04-23,Male,TX,Medicare,None,2023-09-24
+P0392,John,Brown,1962-03-30,Female,FL,Private,Hypertension,2024-01-08
+P0393,Emily,Doe,1987-10-06,Male,IL,Private,Asthma,2023-01-10
+P0394,John,Doe,1967-10-30,Female,NY,Private,Heart Disease,2023-05-02
+P0395,Emily,Patel,1959-04-22,Female,CA,Medicare,Diabetes,2023-05-11
+P0396,Alex,Doe,1977-07-13,Male,TX,Uninsured,Diabetes,2024-01-24
+P0397,Sarah,Doe,1986-09-04,Male,FL,Medicaid,Hypertension,2023-01-15
+P0398,Alex,Johnson,1964-08-19,Male,NY,Medicaid,None,2023-11-16
+P0399,Alex,Johnson,1959-09-12,Male,CA,Medicaid,Asthma,2023-10-01
+P0400,John,Smith,1988-08-20,Male,IL,Medicare,None,2023-09-06
+P0401,Sarah,Patel,1992-11-17,Male,TX,Uninsured,Diabetes,2023-01-19
+P0402,Michael,Smith,1970-01-26,Female,NY,Private,Heart Disease,2023-03-23
+P0403,Emily,Smith,1971-03-28,Male,CA,Medicaid,Diabetes,2023-04-18
+P0404,Emily,Patel,1966-07-03,Female,TX,Private,Hypertension,2023-08-28
+P0405,Emily,Brown,1980-08-12,Female,TX,Medicaid,Diabetes,2024-01-04
+P0406,Michael,Johnson,2002-12-14,Male,FL,Private,Heart Disease,2023-12-24
+P0407,Emily,Doe,1982-12-20,Male,TX,Medicaid,Asthma,2023-07-19
+P0408,Michael,Brown,1967-06-24,Female,FL,Medicaid,Heart Disease,2023-10-14
+P0409,Alex,Brown,1971-02-27,Male,CA,Medicare,Asthma,2023-05-19
+P0410,Alex,Johnson,2004-10-22,Male,NY,Medicaid,Diabetes,2023-01-12
+P0411,Michael,Brown,1992-10-05,Female,NY,Uninsured,Hypertension,2023-07-24
+P0412,Sarah,Smith,1975-03-29,Female,NY,Medicaid,Diabetes,2024-01-20
+P0413,John,Johnson,1964-11-15,Female,TX,Medicare,Asthma,2023-03-17
+P0414,Emily,Patel,1964-03-09,Male,FL,Medicare,Asthma,2023-04-02
+P0415,Alex,Smith,1984-08-10,Female,FL,Private,Heart Disease,2023-09-06
+P0416,Sarah,Patel,2003-12-02,Female,TX,Medicaid,Heart Disease,2023-01-15
+P0417,Alex,Patel,1970-11-11,Male,IL,Medicaid,Heart Disease,2023-11-05
+P0418,Alex,Smith,2002-02-28,Male,CA,Uninsured,None,2023-06-27
+P0419,Sarah,Brown,1951-03-10,Male,NY,Private,None,2023-07-11
+P0420,John,Doe,1991-02-15,Male,TX,Medicare,Hypertension,2023-03-25
+P0421,Michael,Patel,1977-09-23,Male,CA,Uninsured,Asthma,2023-08-26
+P0422,Emily,Johnson,1977-06-27,Female,IL,Medicaid,Diabetes,2024-01-03
+P0423,Sarah,Smith,2002-02-26,Female,TX,Uninsured,Asthma,2023-10-23
+P0424,Emily,Johnson,1976-05-02,Female,NY,Uninsured,Asthma,2023-06-27
+P0425,Alex,Smith,1968-04-06,Female,NY,Uninsured,Heart Disease,2023-03-16
+P0426,Sarah,Smith,1973-04-13,Male,FL,Private,Asthma,2023-05-12
+P0427,Alex,Brown,1967-12-03,Male,CA,Medicaid,Asthma,2023-08-09
+P0428,John,Patel,1965-01-21,Male,CA,Private,Diabetes,2023-01-25
+P0429,Alex,Patel,1985-07-10,Male,NY,Medicare,None,2023-08-10
+P0430,Sarah,Smith,1984-06-24,Male,NY,Private,Diabetes,2023-01-07
+P0431,Michael,Doe,1952-08-12,Female,NY,Uninsured,None,2023-01-11
+P0432,Sarah,Brown,1965-12-28,Female,FL,Medicare,Asthma,2023-02-06
+P0433,Emily,Doe,1961-03-09,Female,NY,Uninsured,Hypertension,2023-08-13
+P0434,Sarah,Patel,1989-04-13,Female,NY,Private,Hypertension,2023-12-09
+P0435,Alex,Patel,1952-01-01,Male,TX,Uninsured,Diabetes,2023-04-25
+P0436,Sarah,Smith,1957-01-29,Male,IL,Uninsured,Diabetes,2023-12-15
+P0437,John,Smith,2005-03-17,Male,NY,Medicare,Heart Disease,2023-03-18
+P0438,Sarah,Brown,1953-03-20,Male,FL,Uninsured,Hypertension,2023-04-02
+P0439,John,Brown,1967-08-27,Female,NY,Private,Hypertension,2023-01-29
+P0440,John,Brown,1984-11-08,Male,IL,Uninsured,None,2023-10-31
+P0441,Emily,Johnson,1994-08-11,Male,TX,Medicaid,None,2023-11-02
+P0442,Alex,Johnson,1952-04-19,Female,FL,Private,Heart Disease,2023-03-18
+P0443,Emily,Patel,2004-08-21,Male,FL,Private,Asthma,2024-01-25
+P0444,Sarah,Smith,1983-12-19,Male,FL,Medicare,Heart Disease,2023-07-04
+P0445,John,Smith,1974-10-07,Male,CA,Uninsured,None,2023-04-19
+P0446,Michael,Smith,1990-10-19,Female,NY,Uninsured,Asthma,2023-12-28
+P0447,Emily,Patel,2003-07-11,Male,TX,Medicare,Heart Disease,2023-08-26
+P0448,Sarah,Doe,1992-10-03,Male,CA,Private,Hypertension,2023-03-26
+P0449,John,Doe,1998-10-06,Female,IL,Private,Hypertension,2023-11-14
+P0450,Alex,Smith,1977-08-23,Male,IL,Medicaid,Hypertension,2023-11-24
+P0451,Michael,Patel,1992-06-06,Male,TX,Private,Asthma,2023-05-31
+P0452,Alex,Smith,1987-06-02,Male,TX,Private,Diabetes,2023-02-17
+P0453,John,Patel,1977-03-18,Male,NY,Private,Hypertension,2023-09-29
+P0454,Sarah,Patel,1962-02-26,Female,NY,Medicare,Heart Disease,2023-08-10
+P0455,Michael,Doe,1956-01-06,Male,TX,Uninsured,Hypertension,2023-07-07
+P0456,Sarah,Doe,2000-09-28,Female,IL,Private,Hypertension,2023-12-04
+P0457,John,Smith,1991-12-14,Male,FL,Private,Diabetes,2024-01-01
+P0458,Sarah,Brown,1985-08-24,Female,CA,Medicare,None,2023-01-26
+P0459,Emily,Smith,1994-06-22,Female,FL,Medicare,Hypertension,2023-06-11
+P0460,Alex,Johnson,1951-12-20,Female,IL,Uninsured,Heart Disease,2023-12-12
+P0461,Emily,Johnson,1993-02-27,Female,CA,Medicaid,Diabetes,2024-01-09
+P0462,John,Doe,1986-08-16,Male,CA,Medicare,Hypertension,2023-03-27
+P0463,Sarah,Smith,1950-03-01,Female,FL,Uninsured,Diabetes,2023-05-06
+P0464,John,Johnson,1991-09-18,Male,FL,Medicaid,Diabetes,2023-10-30
+P0465,Michael,Patel,1987-12-25,Male,TX,Private,Diabetes,2023-11-13
+P0466,Emily,Johnson,1961-10-31,Male,FL,Medicare,Asthma,2024-01-04
+P0467,Alex,Patel,1951-11-26,Male,TX,Medicare,Hypertension,2023-03-07
+P0468,Alex,Brown,1976-03-08,Male,CA,Private,Asthma,2023-04-28
+P0469,Emily,Brown,1969-11-29,Female,TX,Uninsured,Diabetes,2023-09-02
+P0470,Sarah,Brown,1986-04-20,Male,TX,Medicare,Asthma,2023-05-15
+P0471,Sarah,Johnson,1965-09-25,Male,TX,Uninsured,None,2023-07-06
+P0472,John,Brown,1961-04-27,Male,FL,Uninsured,Asthma,2023-07-24
+P0473,Alex,Doe,1966-04-13,Male,IL,Private,Asthma,2023-12-21
+P0474,Michael,Patel,1951-06-26,Female,CA,Medicaid,Asthma,2023-12-15
+P0475,Emily,Johnson,2003-09-23,Male,IL,Medicaid,Diabetes,2023-12-12
+P0476,Michael,Doe,1958-09-30,Male,NY,Private,Hypertension,2023-05-01
+P0477,Alex,Doe,1951-11-24,Male,TX,Medicaid,Asthma,2023-08-19
+P0478,Emily,Patel,1991-12-06,Female,CA,Private,Heart Disease,2023-11-24
+P0479,Sarah,Johnson,2000-08-27,Male,FL,Medicare,None,2023-01-01
+P0480,Alex,Patel,1960-09-03,Female,FL,Medicare,Asthma,2024-01-17
+P0481,Alex,Johnson,1989-05-11,Male,TX,Medicaid,Heart Disease,2023-08-18
+P0482,Sarah,Patel,1964-03-18,Female,IL,Medicare,Heart Disease,2023-11-15
+P0483,Sarah,Smith,1980-05-31,Male,FL,Uninsured,Diabetes,2023-10-05
+P0484,Alex,Brown,1972-04-17,Male,IL,Medicaid,Hypertension,2023-09-10
+P0485,John,Patel,2005-08-13,Male,NY,Private,Diabetes,2023-12-10
+P0486,Sarah,Smith,1975-08-03,Female,NY,Medicaid,Diabetes,2023-08-06
+P0487,Sarah,Patel,2001-05-31,Female,NY,Medicare,None,2024-01-17
+P0488,Sarah,Johnson,1985-06-22,Female,IL,Uninsured,Heart Disease,2024-01-12
+P0489,Sarah,Smith,1967-06-01,Male,CA,Medicare,Heart Disease,2023-09-17
+P0490,John,Patel,1989-04-08,Male,IL,Medicare,Heart Disease,2023-03-03
+P0491,Sarah,Smith,1965-09-29,Male,FL,Private,Hypertension,2023-07-18
+P0492,Emily,Johnson,1991-01-02,Male,FL,Medicaid,None,2023-02-02
+P0493,Sarah,Smith,1977-07-03,Male,IL,Private,Hypertension,2023-05-26
+P0494,Emily,Patel,2005-02-16,Female,NY,Medicaid,Diabetes,2023-11-02
+P0495,Michael,Smith,1965-12-20,Male,IL,Private,Asthma,2024-01-16
+P0496,Michael,Smith,1988-07-26,Female,IL,Medicare,Diabetes,2023-12-29
+P0497,Sarah,Brown,1977-09-29,Male,NY,Uninsured,Diabetes,2023-12-15
+P0498,Sarah,Brown,1999-11-09,Male,NY,Medicaid,Diabetes,2023-10-30
+P0499,Sarah,Johnson,1999-03-25,Male,FL,Uninsured,Hypertension,2023-03-01
+P0500,John,Patel,2000-04-23,Female,CA,Private,Hypertension,2024-01-31
+P0501,John,Brown,1993-05-16,Male,CA,Medicaid,Heart Disease,2024-01-22
+P0502,Alex,Patel,1952-11-06,Female,NY,Uninsured,Diabetes,2023-06-26
+P0503,Alex,Doe,1987-07-31,Male,CA,Medicare,Hypertension,2023-04-18
+P0504,John,Johnson,1990-08-06,Female,CA,Medicare,Diabetes,2023-03-18
+P0505,Alex,Smith,1956-08-21,Female,IL,Uninsured,Asthma,2023-12-04
+P0506,Alex,Johnson,1979-10-12,Male,TX,Private,Hypertension,2023-01-05
+P0507,Alex,Johnson,1984-06-08,Female,CA,Private,Diabetes,2023-12-08
+P0508,Michael,Johnson,1967-11-12,Male,FL,Medicare,Diabetes,2023-12-10
+P0509,Sarah,Doe,1953-06-08,Male,TX,Uninsured,None,2023-04-09
+P0510,John,Brown,2001-05-05,Male,NY,Medicaid,Asthma,2023-09-29
+P0511,Emily,Patel,1997-01-13,Female,FL,Uninsured,Heart Disease,2023-08-28
+P0512,Michael,Brown,1999-03-06,Male,NY,Uninsured,None,2023-10-08
+P0513,Emily,Brown,1963-03-01,Male,TX,Medicare,Diabetes,2023-01-05
+P0514,Emily,Doe,1952-07-19,Male,TX,Private,Diabetes,2023-10-28
+P0515,Alex,Patel,1994-03-02,Female,IL,Uninsured,Asthma,2023-02-28
+P0516,Alex,Brown,1967-08-01,Male,FL,Private,Hypertension,2023-07-25
+P0517,Alex,Smith,1992-05-05,Female,TX,Medicare,None,2023-11-06
+P0518,Sarah,Patel,1976-04-26,Male,IL,Medicare,Diabetes,2023-07-06
+P0519,Sarah,Johnson,2002-05-20,Male,CA,Private,Diabetes,2023-02-13
+P0520,Michael,Johnson,1974-05-31,Male,TX,Medicaid,Diabetes,2023-02-07
+P0521,Emily,Patel,1982-05-30,Female,TX,Uninsured,Diabetes,2023-09-27
+P0522,Alex,Doe,1970-02-12,Female,IL,Uninsured,Diabetes,2023-12-17
+P0523,Sarah,Johnson,1957-06-11,Male,NY,Medicare,Diabetes,2023-06-25
+P0524,Emily,Johnson,1978-03-04,Female,NY,Uninsured,Hypertension,2023-06-19
+P0525,John,Brown,1965-10-07,Female,IL,Private,None,2023-08-26
+P0526,Michael,Brown,1967-01-06,Female,TX,Uninsured,Hypertension,2023-12-30
+P0527,John,Johnson,2005-03-08,Male,IL,Private,Asthma,2023-09-06
+P0528,Alex,Smith,1982-04-14,Male,IL,Uninsured,Asthma,2023-02-20
+P0529,Emily,Smith,1963-10-22,Male,IL,Private,None,2023-05-24
+P0530,Emily,Patel,1968-02-27,Female,FL,Medicare,Hypertension,2023-08-12
+P0531,Sarah,Smith,1996-03-23,Male,FL,Medicaid,Asthma,2023-07-15
+P0532,Michael,Doe,1969-06-07,Male,FL,Medicaid,Asthma,2023-09-25
+P0533,Michael,Brown,2005-04-17,Female,CA,Private,Diabetes,2023-01-18
+P0534,Michael,Doe,1985-11-24,Female,NY,Private,Heart Disease,2023-03-25
+P0535,John,Brown,2004-10-11,Male,IL,Medicaid,Hypertension,2023-08-17
+P0536,Sarah,Brown,2004-03-30,Female,NY,Medicare,Diabetes,2023-08-08
+P0537,John,Johnson,1972-07-16,Male,TX,Medicaid,Hypertension,2023-11-24
+P0538,Michael,Patel,1993-04-05,Male,TX,Medicare,Hypertension,2023-08-11
+P0539,Michael,Brown,1959-06-10,Female,FL,Medicare,Heart Disease,2023-06-08
+P0540,John,Doe,1991-05-16,Male,CA,Medicaid,Heart Disease,2023-09-10
+P0541,Alex,Johnson,1950-02-15,Male,TX,Uninsured,Hypertension,2023-11-14
+P0542,Alex,Patel,1991-06-05,Female,FL,Private,Asthma,2023-10-09
+P0543,Alex,Doe,1983-09-02,Male,NY,Uninsured,None,2023-01-17
+P0544,Alex,Patel,1990-11-20,Female,CA,Medicare,None,2023-01-25
+P0545,John,Brown,1980-04-12,Male,NY,Medicaid,Asthma,2024-01-12
+P0546,Michael,Patel,1998-08-11,Male,IL,Private,Heart Disease,2023-03-14
+P0547,Alex,Johnson,1960-06-09,Male,NY,Uninsured,Asthma,2023-07-09
+P0548,Sarah,Brown,1955-09-22,Female,IL,Private,None,2023-08-31
+P0549,Michael,Johnson,1972-02-17,Female,CA,Medicare,Asthma,2023-08-28
+P0550,Alex,Smith,1993-07-27,Female,FL,Medicaid,Heart Disease,2023-09-02
+P0551,Alex,Brown,1964-05-08,Male,CA,Uninsured,Asthma,2023-09-02
+P0552,Emily,Smith,1978-06-28,Male,NY,Private,None,2023-12-08
+P0553,Emily,Patel,2001-06-11,Male,TX,Uninsured,Heart Disease,2023-07-02
+P0554,Emily,Brown,1980-01-14,Male,FL,Medicaid,Hypertension,2023-09-16
+P0555,Emily,Smith,1986-08-28,Male,NY,Private,Asthma,2023-02-16
+P0556,John,Brown,1988-12-16,Male,TX,Private,None,2023-10-03
+P0557,Alex,Doe,1978-03-14,Male,CA,Uninsured,Heart Disease,2023-06-15
+P0558,Emily,Johnson,1992-02-27,Female,CA,Uninsured,None,2024-01-03
+P0559,Sarah,Doe,1956-10-20,Female,CA,Uninsured,Asthma,2023-05-21
+P0560,Sarah,Johnson,1963-09-30,Female,NY,Medicaid,Diabetes,2023-09-04
+P0561,Sarah,Patel,1982-06-03,Male,TX,Uninsured,Diabetes,2023-04-02
+P0562,Alex,Brown,1953-06-15,Male,CA,Medicaid,Heart Disease,2023-10-22
+P0563,Sarah,Patel,2005-01-23,Male,IL,Uninsured,Diabetes,2023-01-03
+P0564,Alex,Brown,1965-03-31,Female,CA,Medicaid,None,2023-05-02
+P0565,Emily,Johnson,1974-06-21,Male,IL,Uninsured,Hypertension,2023-12-21
+P0566,John,Brown,2001-07-12,Male,CA,Medicaid,Hypertension,2023-08-06
+P0567,Sarah,Brown,2004-05-11,Female,FL,Uninsured,Heart Disease,2023-09-20
+P0568,Sarah,Doe,1968-01-17,Male,CA,Medicare,Hypertension,2023-11-28
+P0569,Emily,Smith,1953-10-10,Female,CA,Private,Diabetes,2023-07-24
+P0570,John,Brown,1991-03-30,Female,TX,Medicaid,None,2023-07-10
+P0571,Michael,Brown,2000-03-22,Male,IL,Medicaid,Diabetes,2023-05-17
+P0572,Emily,Smith,2000-10-11,Female,IL,Medicaid,Hypertension,2023-04-09
+P0573,Emily,Smith,1961-10-21,Male,FL,Uninsured,Asthma,2023-03-28
+P0574,Sarah,Brown,1958-11-26,Female,IL,Private,Diabetes,2023-11-07
+P0575,John,Doe,1982-03-20,Male,CA,Medicaid,Diabetes,2023-03-04
+P0576,Michael,Doe,1972-02-20,Female,TX,Uninsured,Asthma,2023-05-30
+P0577,Alex,Johnson,1953-05-12,Female,TX,Uninsured,Hypertension,2023-09-12
+P0578,Alex,Smith,1951-06-04,Male,NY,Medicare,Diabetes,2023-09-06
+P0579,Sarah,Brown,1994-06-24,Male,IL,Private,Hypertension,2023-06-14
+P0580,Michael,Johnson,2002-11-03,Male,NY,Medicaid,None,2024-01-27
+P0581,John,Johnson,2000-10-22,Male,NY,Private,Diabetes,2023-03-29
+P0582,Sarah,Johnson,1971-05-07,Male,TX,Medicare,Asthma,2023-05-25
+P0583,Alex,Brown,1985-08-22,Male,FL,Medicare,None,2023-08-19
+P0584,John,Patel,2001-12-04,Male,FL,Uninsured,Asthma,2023-06-29
+P0585,John,Smith,1992-08-28,Male,NY,Uninsured,Hypertension,2023-07-23
+P0586,Sarah,Smith,1991-11-25,Female,FL,Private,None,2023-09-05
+P0587,Michael,Brown,2003-07-12,Female,IL,Medicaid,Hypertension,2023-08-19
+P0588,Sarah,Smith,1998-05-14,Female,TX,Private,Diabetes,2023-01-13
+P0589,Emily,Brown,1951-12-02,Female,CA,Uninsured,Diabetes,2023-12-13
+P0590,Michael,Brown,2002-03-22,Male,CA,Uninsured,Asthma,2023-12-08
+P0591,Sarah,Johnson,1954-10-27,Female,FL,Uninsured,Heart Disease,2023-09-30
+P0592,Emily,Doe,1973-10-31,Female,IL,Private,Diabetes,2023-04-23
+P0593,Michael,Smith,1974-02-10,Male,TX,Private,None,2023-08-30
+P0594,Alex,Smith,1977-09-17,Female,NY,Medicaid,Hypertension,2023-01-05
+P0595,Michael,Patel,1998-12-26,Female,FL,Private,Asthma,2023-05-16
+P0596,John,Johnson,1959-04-04,Male,FL,Medicare,Diabetes,2023-10-04
+P0597,Emily,Johnson,1991-02-17,Female,TX,Medicaid,Diabetes,2023-11-30
+P0598,John,Smith,1989-08-15,Female,FL,Uninsured,Hypertension,2023-12-29
+P0599,Michael,Doe,2002-12-03,Male,TX,Private,Hypertension,2023-11-25
+P0600,Alex,Brown,1977-09-05,Male,FL,Uninsured,Diabetes,2023-07-12
+P0601,Emily,Patel,1984-05-31,Male,IL,Medicare,Diabetes,2023-03-13
+P0602,Emily,Brown,1983-08-30,Female,CA,Medicare,None,2023-07-29
+P0603,Emily,Johnson,1957-03-13,Male,TX,Private,Hypertension,2023-08-04
+P0604,Alex,Doe,1973-11-11,Male,NY,Medicare,Heart Disease,2023-12-31
+P0605,Alex,Johnson,1988-11-25,Female,NY,Medicare,Heart Disease,2023-02-11
+P0606,Alex,Doe,1985-03-06,Male,NY,Medicaid,None,2023-06-12
+P0607,John,Doe,1969-02-17,Female,TX,Private,Asthma,2023-08-10
+P0608,John,Doe,1977-05-09,Female,FL,Medicaid,Asthma,2023-03-26
+P0609,Michael,Johnson,1966-10-20,Female,TX,Medicare,Hypertension,2023-01-25
+P0610,Michael,Brown,2003-07-24,Female,IL,Uninsured,Asthma,2023-10-21
+P0611,John,Doe,1986-11-24,Male,CA,Medicare,Diabetes,2023-12-07
+P0612,John,Patel,1979-03-16,Male,IL,Medicare,None,2023-09-05
+P0613,Sarah,Smith,1953-08-25,Male,FL,Private,Heart Disease,2023-09-01
+P0614,Sarah,Patel,1967-09-08,Female,FL,Uninsured,Heart Disease,2023-12-01
+P0615,John,Brown,1957-12-01,Male,TX,Medicare,Hypertension,2023-10-27
+P0616,Michael,Johnson,1991-09-24,Male,NY,Uninsured,Asthma,2023-08-23
+P0617,Michael,Patel,1996-05-22,Female,IL,Medicaid,Heart Disease,2023-10-25
+P0618,John,Johnson,1988-09-11,Male,CA,Private,Heart Disease,2023-09-29
+P0619,John,Brown,1964-11-02,Female,FL,Uninsured,None,2023-05-31
+P0620,Emily,Patel,1997-10-03,Male,CA,Medicare,None,2023-07-11
+P0621,Sarah,Johnson,2002-02-10,Male,TX,Uninsured,Diabetes,2023-08-17
+P0622,Sarah,Brown,1978-10-20,Female,NY,Uninsured,Asthma,2023-03-09
+P0623,John,Johnson,1955-12-24,Female,FL,Medicare,Heart Disease,2023-04-19
+P0624,Michael,Patel,1982-08-23,Female,IL,Uninsured,None,2023-04-27
+P0625,Michael,Johnson,1991-06-16,Male,NY,Medicaid,Heart Disease,2023-04-16
+P0626,John,Brown,1983-04-19,Female,CA,Medicaid,Heart Disease,2023-04-20
+P0627,Sarah,Brown,1952-07-30,Female,TX,Private,Asthma,2023-01-23
+P0628,Alex,Johnson,1951-01-21,Male,CA,Medicare,Asthma,2023-02-23
+P0629,Sarah,Smith,1964-04-11,Female,CA,Uninsured,Hypertension,2023-04-28
+P0630,Emily,Doe,2005-03-04,Female,TX,Medicare,Diabetes,2024-01-14
+P0631,Michael,Patel,1974-02-23,Female,NY,Uninsured,None,2023-11-09
+P0632,Sarah,Patel,1956-07-18,Male,IL,Medicaid,Heart Disease,2023-03-18
+P0633,Sarah,Patel,1974-08-06,Male,TX,Uninsured,Diabetes,2023-05-02
+P0634,Alex,Johnson,1957-05-29,Male,TX,Private,None,2023-04-23
+P0635,Sarah,Johnson,1958-09-05,Female,TX,Uninsured,Diabetes,2023-03-12
+P0636,Sarah,Smith,1983-10-11,Male,CA,Medicare,None,2023-02-22
+P0637,Sarah,Brown,1952-10-13,Female,TX,Uninsured,Asthma,2023-01-06
+P0638,John,Johnson,1966-04-15,Female,TX,Uninsured,Asthma,2023-04-07
+P0639,Emily,Smith,1977-02-15,Male,TX,Uninsured,None,2023-01-16
+P0640,Sarah,Patel,1984-10-18,Male,IL,Medicare,None,2023-01-16
+P0641,Alex,Patel,1991-06-18,Male,FL,Private,Asthma,2023-11-14
+P0642,Michael,Brown,1976-01-06,Male,TX,Medicare,Asthma,2023-02-02
+P0643,John,Doe,1951-10-20,Female,FL,Medicare,None,2023-10-25
+P0644,Sarah,Doe,1965-11-02,Female,NY,Private,Heart Disease,2023-05-10
+P0645,John,Brown,1987-10-29,Male,IL,Medicaid,Heart Disease,2023-12-03
+P0646,Emily,Johnson,1965-04-08,Male,NY,Private,Diabetes,2023-10-15
+P0647,Alex,Smith,1999-10-23,Female,NY,Medicaid,Hypertension,2024-01-26
+P0648,Michael,Patel,1985-01-13,Female,CA,Uninsured,Asthma,2023-02-04
+P0649,Emily,Smith,1985-07-03,Male,TX,Uninsured,Asthma,2023-09-20
+P0650,Sarah,Doe,1978-04-11,Female,FL,Medicaid,Hypertension,2023-05-07
+P0651,Alex,Patel,1969-04-05,Male,NY,Medicaid,None,2023-03-21
+P0652,Emily,Patel,1959-09-21,Male,IL,Private,Heart Disease,2024-01-19
+P0653,Michael,Brown,1990-02-26,Female,FL,Medicaid,None,2023-12-11
+P0654,Alex,Johnson,1973-04-25,Male,NY,Private,None,2023-11-05
+P0655,Alex,Patel,1957-02-01,Female,IL,Medicare,None,2023-09-16
+P0656,Michael,Patel,1995-10-21,Male,FL,Uninsured,Asthma,2024-01-25
+P0657,Sarah,Smith,1981-05-06,Female,TX,Uninsured,Hypertension,2024-01-22
+P0658,Emily,Patel,1974-01-02,Male,FL,Uninsured,Heart Disease,2023-02-08
+P0659,Emily,Smith,1992-06-04,Female,IL,Medicare,Diabetes,2023-12-23
+P0660,John,Smith,1995-07-09,Male,CA,Private,Heart Disease,2023-07-11
+P0661,Sarah,Patel,1975-11-26,Male,IL,Private,Hypertension,2023-10-22
+P0662,John,Johnson,1989-08-14,Male,CA,Private,Hypertension,2023-05-21
+P0663,Emily,Johnson,2005-01-06,Male,TX,Uninsured,Asthma,2023-12-26
+P0664,Emily,Patel,1968-03-05,Male,FL,Uninsured,Hypertension,2023-11-24
+P0665,John,Smith,1956-08-15,Male,TX,Private,Diabetes,2023-07-28
+P0666,Michael,Patel,1956-08-24,Female,NY,Uninsured,None,2023-02-01
+P0667,Alex,Patel,1972-10-14,Male,TX,Uninsured,Asthma,2023-04-29
+P0668,Emily,Doe,1950-07-23,Female,CA,Private,Asthma,2024-01-19
+P0669,Michael,Smith,1955-12-29,Female,IL,Private,None,2023-07-14
+P0670,Michael,Doe,1996-04-14,Male,NY,Uninsured,Heart Disease,2023-07-07
+P0671,Emily,Doe,1976-05-02,Male,IL,Private,Heart Disease,2023-04-26
+P0672,Emily,Brown,1958-12-06,Female,IL,Medicare,Diabetes,2023-12-16
+P0673,Sarah,Smith,1974-11-16,Male,CA,Private,Asthma,2023-02-24
+P0674,Emily,Doe,2000-09-24,Male,TX,Medicare,Heart Disease,2023-12-31
+P0675,Sarah,Doe,2001-09-26,Female,NY,Uninsured,Asthma,2023-12-30
+P0676,Michael,Patel,1980-11-04,Female,TX,Medicare,Diabetes,2023-10-13
+P0677,Sarah,Doe,1950-10-04,Female,NY,Medicaid,None,2023-07-12
+P0678,John,Brown,2002-05-30,Female,TX,Private,None,2023-05-20
+P0679,Alex,Brown,1963-01-05,Male,FL,Medicaid,None,2023-02-18
+P0680,Sarah,Brown,1978-08-17,Male,NY,Uninsured,Asthma,2023-09-30
+P0681,John,Doe,1963-10-31,Female,NY,Uninsured,Asthma,2023-09-11
+P0682,Sarah,Johnson,1968-05-16,Male,IL,Medicare,Asthma,2023-11-30
+P0683,Alex,Johnson,1969-07-04,Female,IL,Uninsured,None,2023-04-22
+P0684,Michael,Johnson,1998-10-16,Female,TX,Private,None,2023-09-26
+P0685,Michael,Johnson,1999-09-22,Female,NY,Medicare,Diabetes,2023-09-04
+P0686,John,Patel,1957-09-08,Male,NY,Private,Asthma,2023-02-19
+P0687,Alex,Brown,2003-04-22,Male,FL,Medicaid,Hypertension,2023-07-13
+P0688,Sarah,Brown,1998-02-22,Female,FL,Private,Diabetes,2023-06-27
+P0689,Sarah,Brown,1957-01-15,Male,TX,Medicaid,Hypertension,2023-08-20
+P0690,Sarah,Johnson,2000-02-03,Male,FL,Private,Asthma,2023-10-19
+P0691,Michael,Johnson,1958-07-14,Male,FL,Private,None,2023-11-06
+P0692,Sarah,Johnson,1977-06-27,Male,IL,Medicaid,Asthma,2023-08-03
+P0693,Alex,Patel,1963-10-05,Female,TX,Private,Diabetes,2023-10-16
+P0694,Emily,Smith,1961-05-17,Female,CA,Uninsured,Diabetes,2023-01-17
+P0695,Emily,Patel,2002-06-29,Female,FL,Medicare,Heart Disease,2023-10-27
+P0696,Emily,Doe,1983-06-23,Male,NY,Medicaid,Asthma,2023-12-23
+P0697,Michael,Brown,1977-05-06,Male,TX,Uninsured,Diabetes,2023-06-18
+P0698,Michael,Brown,1980-02-04,Male,CA,Medicaid,Hypertension,2024-01-28
+P0699,Emily,Patel,1967-08-08,Male,IL,Uninsured,Diabetes,2023-08-20
+P0700,John,Doe,2005-08-27,Male,NY,Medicaid,Diabetes,2023-04-30
+P0701,Michael,Smith,1985-06-08,Female,FL,Medicare,Diabetes,2023-06-25
+P0702,Sarah,Doe,1950-09-21,Male,TX,Private,Diabetes,2023-11-18
+P0703,John,Patel,2001-02-16,Female,NY,Private,Diabetes,2023-04-27
+P0704,Alex,Smith,1996-10-29,Male,NY,Private,Asthma,2023-03-22
+P0705,Sarah,Patel,1964-06-12,Male,FL,Medicaid,None,2023-06-21
+P0706,Michael,Doe,1952-11-14,Female,NY,Medicaid,Asthma,2024-01-19
+P0707,Sarah,Brown,1952-02-06,Female,FL,Medicaid,Heart Disease,2023-06-15
+P0708,Emily,Smith,1965-05-03,Female,FL,Medicare,Diabetes,2023-12-21
+P0709,Alex,Smith,1994-07-27,Female,NY,Private,Heart Disease,2023-07-19
+P0710,Alex,Johnson,1963-09-01,Female,FL,Private,Hypertension,2023-12-26
+P0711,Alex,Doe,1973-01-17,Male,TX,Private,Hypertension,2023-10-31
+P0712,Emily,Smith,1979-07-18,Female,NY,Medicaid,Heart Disease,2023-04-25
+P0713,Emily,Smith,2000-10-17,Male,TX,Private,Heart Disease,2023-10-13
+P0714,Sarah,Doe,1985-08-13,Male,FL,Uninsured,Hypertension,2023-03-07
+P0715,Michael,Johnson,1956-07-15,Male,TX,Medicaid,Diabetes,2023-08-19
+P0716,Emily,Patel,2005-10-07,Female,CA,Medicaid,Heart Disease,2023-04-05
+P0717,Sarah,Brown,1992-01-29,Female,IL,Medicare,Diabetes,2023-09-19
+P0718,Alex,Smith,1989-12-18,Female,IL,Uninsured,Heart Disease,2023-05-25
+P0719,Emily,Smith,1959-07-24,Male,IL,Medicaid,Diabetes,2023-05-26
+P0720,Sarah,Patel,1967-02-16,Female,CA,Private,Hypertension,2023-02-05
+P0721,Michael,Brown,1963-11-28,Male,NY,Medicaid,Hypertension,2023-08-09
+P0722,John,Brown,2002-02-28,Female,IL,Medicaid,Heart Disease,2023-07-28
+P0723,Michael,Brown,2005-02-23,Male,NY,Medicaid,None,2023-08-01
+P0724,Michael,Brown,1966-07-19,Male,TX,Uninsured,Asthma,2023-12-19
+P0725,Michael,Smith,1990-02-27,Female,TX,Uninsured,Diabetes,2023-03-04
+P0726,John,Johnson,1999-11-13,Female,TX,Medicaid,Asthma,2023-06-03
+P0727,Emily,Johnson,1997-04-24,Male,IL,Private,Asthma,2023-02-03
+P0728,Sarah,Johnson,1989-04-09,Male,CA,Medicare,Hypertension,2023-09-04
+P0729,Sarah,Doe,1979-03-16,Female,FL,Uninsured,Hypertension,2023-01-14
+P0730,Sarah,Doe,1956-03-16,Male,CA,Medicaid,Hypertension,2023-08-29
+P0731,Michael,Smith,1985-01-22,Male,NY,Private,Heart Disease,2023-02-04
+P0732,Sarah,Brown,1950-10-20,Female,NY,Medicaid,Hypertension,2023-02-05
+P0733,Michael,Smith,1983-05-05,Male,IL,Uninsured,Heart Disease,2023-03-17
+P0734,Emily,Johnson,1977-09-05,Male,TX,Medicaid,Asthma,2023-08-28
+P0735,Michael,Brown,1990-09-22,Male,CA,Medicaid,Heart Disease,2023-08-19
+P0736,Alex,Smith,1967-09-06,Female,FL,Private,Asthma,2023-03-31
+P0737,John,Smith,1982-12-11,Male,FL,Uninsured,Heart Disease,2024-01-28
+P0738,Alex,Patel,1993-08-01,Male,CA,Medicaid,Asthma,2023-11-21
+P0739,Alex,Doe,1961-09-06,Female,CA,Private,Hypertension,2023-01-04
+P0740,Emily,Johnson,1992-05-06,Male,CA,Uninsured,None,2023-12-15
+P0741,Sarah,Doe,1987-11-06,Male,NY,Medicare,Hypertension,2023-02-17
+P0742,John,Brown,1960-10-08,Female,CA,Medicaid,Asthma,2023-07-31
+P0743,Sarah,Brown,2002-09-28,Male,NY,Uninsured,Heart Disease,2023-12-15
+P0744,Sarah,Brown,1975-04-10,Male,CA,Medicare,Hypertension,2023-08-06
+P0745,Sarah,Smith,2003-03-27,Female,CA,Private,Asthma,2023-04-12
+P0746,Sarah,Johnson,1968-08-23,Female,NY,Medicaid,Asthma,2023-03-30
+P0747,John,Brown,1999-02-12,Female,FL,Uninsured,Diabetes,2023-07-18
+P0748,Alex,Doe,1991-11-05,Male,IL,Uninsured,None,2024-01-21
+P0749,Michael,Doe,1988-02-01,Male,TX,Medicaid,None,2023-07-24
+P0750,Alex,Smith,1959-09-12,Female,IL,Uninsured,Hypertension,2023-01-26
+P0751,Michael,Doe,2005-12-04,Female,IL,Medicare,Hypertension,2023-08-08
+P0752,Emily,Smith,1974-02-09,Female,CA,Uninsured,Asthma,2023-11-10
+P0753,Sarah,Patel,2000-04-04,Female,FL,Uninsured,Diabetes,2023-03-18
+P0754,John,Smith,1966-12-27,Male,FL,Private,None,2023-04-13
+P0755,Alex,Patel,1972-04-10,Male,FL,Medicare,Heart Disease,2023-07-22
+P0756,John,Patel,1960-08-23,Female,TX,Medicare,Asthma,2023-09-16
+P0757,Sarah,Smith,1993-05-12,Female,CA,Private,Hypertension,2023-07-28
+P0758,Alex,Patel,1982-12-31,Male,NY,Medicare,Hypertension,2023-06-09
+P0759,Emily,Doe,1986-08-06,Male,CA,Medicare,Diabetes,2023-01-12
+P0760,John,Smith,1967-01-18,Female,NY,Uninsured,None,2023-05-31
+P0761,Emily,Patel,1990-03-18,Female,NY,Private,Asthma,2023-10-17
+P0762,John,Doe,1979-08-06,Male,NY,Uninsured,Diabetes,2023-06-22
+P0763,Sarah,Doe,1984-06-14,Female,IL,Private,None,2024-01-31
+P0764,Alex,Brown,2005-08-13,Male,CA,Medicare,Heart Disease,2023-04-23
+P0765,Michael,Johnson,2004-03-28,Male,CA,Private,Hypertension,2023-11-09
+P0766,Emily,Johnson,1970-07-30,Female,CA,Medicaid,Heart Disease,2023-08-16
+P0767,Sarah,Doe,1976-11-09,Male,CA,Uninsured,Asthma,2023-10-02
+P0768,Michael,Doe,1959-07-28,Male,CA,Medicaid,Hypertension,2023-10-04
+P0769,Sarah,Brown,1981-09-03,Female,TX,Medicare,Diabetes,2023-11-19
+P0770,Sarah,Brown,1997-07-13,Female,NY,Uninsured,Hypertension,2023-08-12
+P0771,Emily,Smith,1957-11-16,Male,FL,Medicare,Hypertension,2023-07-18
+P0772,Emily,Brown,1998-09-06,Female,TX,Medicare,Hypertension,2023-10-30
+P0773,Alex,Brown,1992-11-08,Male,NY,Medicaid,Hypertension,2023-01-06
+P0774,Alex,Patel,1994-09-22,Female,FL,Uninsured,None,2023-04-24
+P0775,Sarah,Doe,1990-11-06,Female,FL,Private,Heart Disease,2023-03-24
+P0776,Emily,Smith,1951-11-07,Male,FL,Medicare,Asthma,2023-11-22
+P0777,Emily,Brown,1962-10-09,Male,CA,Medicaid,Heart Disease,2023-11-02
+P0778,Sarah,Johnson,1993-10-26,Female,NY,Private,Hypertension,2024-01-10
+P0779,Alex,Brown,1963-01-25,Female,FL,Uninsured,Hypertension,2023-05-10
+P0780,Emily,Patel,1957-03-17,Female,IL,Medicaid,Diabetes,2023-05-08
+P0781,Emily,Johnson,1951-10-22,Female,CA,Medicaid,Heart Disease,2024-01-28
+P0782,Emily,Johnson,1951-07-11,Female,CA,Private,Heart Disease,2023-09-08
+P0783,John,Patel,1983-09-30,Male,IL,Medicaid,Hypertension,2023-07-06
+P0784,Michael,Brown,1972-06-01,Male,TX,Uninsured,Asthma,2023-09-07
+P0785,Emily,Johnson,1954-04-08,Male,TX,Private,Hypertension,2023-10-13
+P0786,Sarah,Johnson,1978-02-10,Male,IL,Medicaid,Heart Disease,2023-09-04
+P0787,Alex,Doe,1976-11-15,Male,IL,Private,Hypertension,2023-09-24
+P0788,Alex,Johnson,1980-08-26,Male,IL,Medicare,Heart Disease,2023-11-04
+P0789,Alex,Brown,2001-03-09,Female,IL,Private,Asthma,2023-08-09
+P0790,Michael,Doe,1972-11-25,Male,TX,Medicaid,Hypertension,2023-11-30
+P0791,Alex,Patel,1969-11-17,Male,FL,Medicare,Heart Disease,2024-01-15
+P0792,Michael,Patel,1969-02-06,Female,FL,Private,Asthma,2023-01-10
+P0793,Alex,Smith,1991-02-22,Male,FL,Medicaid,None,2023-09-15
+P0794,Emily,Johnson,1969-05-02,Female,NY,Uninsured,Hypertension,2023-03-21
+P0795,Alex,Johnson,1971-11-06,Male,TX,Medicaid,Hypertension,2023-10-08
+P0796,Sarah,Brown,1979-10-05,Female,NY,Medicare,None,2023-04-22
+P0797,Sarah,Doe,2000-03-11,Male,NY,Private,Asthma,2023-03-27
+P0798,Michael,Brown,2000-11-07,Male,NY,Private,None,2023-05-27
+P0799,Emily,Johnson,1996-10-22,Female,IL,Private,Heart Disease,2023-04-02
+P0800,Alex,Brown,1977-05-26,Male,IL,Uninsured,Hypertension,2023-04-28
+P0801,Alex,Patel,1986-10-02,Male,FL,Medicaid,Heart Disease,2023-10-27
+P0802,Emily,Brown,1994-06-17,Female,FL,Uninsured,Heart Disease,2023-09-08
+P0803,Michael,Johnson,1975-08-12,Male,TX,Medicare,Hypertension,2023-12-15
+P0804,Sarah,Brown,2004-03-15,Male,CA,Medicaid,None,2023-08-20
+P0805,Sarah,Brown,1995-04-29,Male,IL,Uninsured,Diabetes,2023-08-26
+P0806,John,Johnson,1991-08-29,Male,NY,Private,Diabetes,2023-09-01
+P0807,Michael,Patel,1957-12-01,Male,IL,Uninsured,Heart Disease,2024-02-01
+P0808,John,Doe,1960-08-06,Female,NY,Medicare,None,2023-05-31
+P0809,Emily,Doe,1996-01-18,Female,FL,Medicaid,Hypertension,2023-11-09
+P0810,Sarah,Patel,1978-11-08,Female,NY,Medicare,Diabetes,2023-08-16
+P0811,Alex,Doe,1953-08-18,Male,TX,Medicaid,Hypertension,2023-05-30
+P0812,Michael,Johnson,1958-10-26,Male,CA,Private,None,2023-03-24
+P0813,Michael,Doe,1992-11-13,Female,CA,Medicaid,Asthma,2023-03-22
+P0814,Sarah,Doe,1960-05-21,Male,NY,Medicare,Hypertension,2024-01-31
+P0815,Michael,Johnson,1979-01-03,Female,NY,Medicare,Asthma,2023-04-02
+P0816,Sarah,Patel,1997-10-09,Male,IL,Medicare,Asthma,2023-04-20
+P0817,John,Brown,1969-12-06,Male,TX,Private,Heart Disease,2023-06-16
+P0818,Emily,Brown,1957-01-06,Female,FL,Medicaid,Heart Disease,2023-10-19
+P0819,Sarah,Brown,1997-06-18,Male,FL,Private,Diabetes,2023-09-21
+P0820,John,Doe,1991-10-08,Male,NY,Medicare,None,2023-05-07
+P0821,Sarah,Patel,1978-02-13,Female,FL,Medicaid,None,2023-04-23
+P0822,Alex,Patel,1971-03-06,Male,IL,Private,Heart Disease,2023-04-18
+P0823,Emily,Brown,1980-02-24,Male,NY,Medicare,Hypertension,2023-01-30
+P0824,Michael,Doe,1997-11-10,Female,CA,Medicare,Asthma,2023-07-10
+P0825,Alex,Johnson,1981-05-28,Male,TX,Medicaid,Asthma,2023-10-28
+P0826,Emily,Brown,2002-10-13,Female,IL,Uninsured,Heart Disease,2023-08-18
+P0827,Alex,Doe,1978-08-20,Female,TX,Private,Diabetes,2024-01-29
+P0828,Sarah,Doe,1974-04-11,Male,IL,Medicare,Asthma,2023-11-19
+P0829,Alex,Smith,1953-08-22,Female,FL,Uninsured,Diabetes,2023-08-18
+P0830,Emily,Johnson,1980-10-14,Male,TX,Medicare,Asthma,2023-06-08
+P0831,Alex,Patel,1955-12-13,Female,FL,Private,Diabetes,2023-04-02
+P0832,Michael,Johnson,1953-03-24,Male,FL,Medicare,Diabetes,2023-09-03
+P0833,Alex,Doe,1961-05-24,Male,CA,Medicare,Diabetes,2023-05-01
+P0834,Michael,Smith,1955-09-24,Female,CA,Private,Hypertension,2023-04-20
+P0835,Michael,Smith,1961-09-03,Female,IL,Medicare,Diabetes,2023-11-05
+P0836,Sarah,Patel,1965-02-20,Female,TX,Uninsured,Diabetes,2023-12-08
+P0837,John,Doe,1990-06-01,Female,FL,Private,Hypertension,2023-07-02
+P0838,John,Johnson,2004-05-02,Male,FL,Medicaid,Hypertension,2023-07-22
+P0839,John,Johnson,2004-03-04,Female,TX,Private,Diabetes,2023-05-31
+P0840,Michael,Patel,2004-10-10,Female,IL,Medicaid,Heart Disease,2023-05-05
+P0841,John,Patel,1981-08-15,Male,IL,Medicaid,Asthma,2023-01-27
+P0842,John,Doe,1969-04-18,Female,NY,Uninsured,Asthma,2023-04-22
+P0843,Michael,Brown,1976-11-12,Male,TX,Uninsured,None,2023-08-26
+P0844,Sarah,Doe,1967-03-15,Male,IL,Uninsured,Asthma,2023-11-26
+P0845,Sarah,Brown,2004-12-11,Female,NY,Uninsured,Hypertension,2023-12-12
+P0846,Emily,Patel,1978-08-26,Male,IL,Uninsured,Hypertension,2023-08-05
+P0847,Sarah,Patel,1970-02-14,Female,FL,Uninsured,Heart Disease,2023-12-14
+P0848,Alex,Patel,1962-11-12,Male,NY,Medicaid,Asthma,2023-09-03
+P0849,Sarah,Johnson,1959-06-15,Male,IL,Medicare,Asthma,2023-08-23
+P0850,Michael,Patel,1985-04-15,Female,NY,Medicare,Heart Disease,2023-07-24
+P0851,Alex,Doe,2000-05-17,Male,FL,Uninsured,Heart Disease,2023-03-28
+P0852,Michael,Brown,1980-08-29,Male,CA,Medicaid,Asthma,2023-09-15
+P0853,Alex,Smith,1989-10-20,Female,FL,Medicare,Diabetes,2023-04-15
+P0854,Emily,Doe,1964-07-22,Female,TX,Medicare,None,2023-02-10
+P0855,Michael,Patel,1968-06-28,Male,TX,Uninsured,Diabetes,2023-09-30
+P0856,Michael,Johnson,1960-09-23,Female,IL,Private,Heart Disease,2023-08-21
+P0857,Michael,Doe,1963-02-20,Female,FL,Medicare,Hypertension,2023-04-23
+P0858,John,Patel,1967-07-22,Female,IL,Uninsured,Diabetes,2023-10-22
+P0859,Michael,Smith,1971-02-12,Female,TX,Private,Hypertension,2023-10-27
+P0860,Sarah,Smith,1983-07-15,Male,IL,Uninsured,Heart Disease,2023-08-20
+P0861,Sarah,Doe,1956-07-10,Female,FL,Private,None,2023-04-16
+P0862,Emily,Johnson,1964-08-06,Female,NY,Medicare,Heart Disease,2023-08-15
+P0863,Sarah,Doe,1951-12-29,Female,TX,Medicaid,Asthma,2023-12-30
+P0864,John,Johnson,1985-12-16,Female,TX,Medicaid,Diabetes,2023-08-10
+P0865,Alex,Johnson,1982-11-01,Female,FL,Uninsured,Hypertension,2023-07-26
+P0866,Alex,Doe,1976-04-21,Female,NY,Medicare,Heart Disease,2023-01-09
+P0867,Sarah,Johnson,1968-07-16,Female,CA,Private,Diabetes,2023-04-13
+P0868,Emily,Doe,1991-01-17,Male,IL,Private,Hypertension,2023-01-09
+P0869,Sarah,Patel,1965-09-03,Female,CA,Medicare,Asthma,2023-09-23
+P0870,Alex,Doe,1971-01-22,Male,CA,Private,Heart Disease,2024-01-18
+P0871,Emily,Smith,1980-02-22,Male,FL,Uninsured,Hypertension,2023-03-14
+P0872,John,Doe,1985-03-17,Female,IL,Private,Heart Disease,2023-09-17
+P0873,John,Smith,1976-10-07,Male,FL,Private,None,2023-05-08
+P0874,Emily,Smith,1982-08-06,Female,CA,Private,Asthma,2023-04-07
+P0875,John,Johnson,1978-12-28,Female,FL,Medicare,Asthma,2023-07-11
+P0876,Alex,Smith,1991-08-23,Female,CA,Uninsured,Diabetes,2024-01-14
+P0877,Michael,Johnson,1976-11-04,Female,IL,Medicaid,Heart Disease,2023-06-29
+P0878,Sarah,Patel,1960-01-12,Female,FL,Private,None,2023-07-08
+P0879,Michael,Doe,2005-09-07,Female,TX,Medicare,Hypertension,2023-03-03
+P0880,Michael,Smith,1979-12-22,Female,FL,Uninsured,Diabetes,2023-03-10
+P0881,Sarah,Patel,1988-08-21,Male,CA,Uninsured,Diabetes,2024-01-03
+P0882,Michael,Smith,2004-11-27,Male,NY,Uninsured,None,2023-03-24
+P0883,Emily,Johnson,1991-09-29,Female,CA,Uninsured,Diabetes,2023-12-02
+P0884,Emily,Smith,1974-11-08,Male,TX,Medicare,Diabetes,2023-04-18
+P0885,Michael,Patel,1991-05-21,Female,CA,Medicare,Diabetes,2023-12-19
+P0886,Alex,Johnson,1971-02-04,Male,NY,Uninsured,Hypertension,2023-01-17
+P0887,Alex,Smith,1966-02-10,Male,FL,Medicare,None,2023-04-30
+P0888,Michael,Smith,1960-12-14,Male,NY,Medicare,Hypertension,2023-03-12
+P0889,John,Doe,1972-12-20,Male,NY,Private,Diabetes,2023-06-06
+P0890,Alex,Patel,1973-08-30,Male,CA,Uninsured,Hypertension,2023-01-01
+P0891,Sarah,Smith,1951-01-12,Male,CA,Medicare,Asthma,2023-03-24
+P0892,John,Patel,2001-08-20,Male,IL,Medicaid,Heart Disease,2023-03-29
+P0893,Michael,Brown,1991-10-20,Female,TX,Medicaid,Diabetes,2023-10-22
+P0894,Michael,Patel,1999-03-30,Male,TX,Medicaid,Hypertension,2023-09-26
+P0895,Alex,Smith,1979-10-24,Female,FL,Private,Heart Disease,2023-08-24
+P0896,Alex,Johnson,1981-05-08,Male,CA,Uninsured,None,2023-05-10
+P0897,Michael,Smith,1993-03-21,Female,NY,Private,None,2023-04-04
+P0898,Michael,Johnson,1993-02-11,Male,FL,Uninsured,Heart Disease,2023-09-09
+P0899,Michael,Doe,1957-09-10,Male,CA,Uninsured,None,2023-01-25
+P0900,Sarah,Doe,1953-07-22,Male,FL,Uninsured,Hypertension,2023-06-29
+P0901,Sarah,Johnson,1953-07-29,Female,NY,Medicaid,None,2024-01-01
+P0902,Michael,Johnson,2001-02-02,Female,NY,Uninsured,Asthma,2023-06-30
+P0903,Sarah,Smith,1957-04-27,Female,TX,Medicaid,Heart Disease,2023-07-14
+P0904,Sarah,Brown,1972-04-10,Female,IL,Medicaid,Asthma,2024-01-11
+P0905,Sarah,Johnson,1952-02-09,Female,CA,Uninsured,Hypertension,2023-01-04
+P0906,Alex,Brown,1983-06-27,Male,TX,Uninsured,Asthma,2023-08-22
+P0907,Alex,Johnson,1975-05-30,Female,CA,Medicare,None,2024-01-31
+P0908,John,Johnson,1978-09-26,Male,FL,Uninsured,None,2023-09-01
+P0909,Alex,Doe,2000-01-12,Male,TX,Medicare,Hypertension,2024-01-12
+P0910,Michael,Smith,1994-11-07,Female,TX,Medicare,Hypertension,2023-01-04
+P0911,Alex,Patel,1992-12-05,Female,FL,Uninsured,None,2023-11-30
+P0912,John,Brown,1950-09-18,Female,NY,Private,Heart Disease,2023-05-31
+P0913,Alex,Johnson,2005-03-18,Male,IL,Uninsured,None,2023-08-29
+P0914,John,Smith,1952-11-21,Male,FL,Private,Heart Disease,2023-02-05
+P0915,Michael,Brown,1967-09-25,Male,FL,Medicare,Diabetes,2023-03-18
+P0916,Alex,Smith,2003-06-26,Male,CA,Medicaid,None,2024-02-01
+P0917,John,Johnson,1973-09-09,Male,IL,Uninsured,Asthma,2023-02-12
+P0918,Alex,Brown,1963-12-16,Female,IL,Medicare,Hypertension,2023-05-26
+P0919,Sarah,Doe,1956-09-09,Female,IL,Medicare,Hypertension,2023-10-22
+P0920,Alex,Smith,1973-01-05,Male,TX,Medicaid,Asthma,2023-09-19
+P0921,Alex,Brown,1967-08-20,Male,IL,Uninsured,Heart Disease,2024-01-01
+P0922,Michael,Patel,1968-10-31,Male,FL,Medicaid,Heart Disease,2023-05-24
+P0923,Michael,Patel,1963-01-19,Female,IL,Medicaid,Hypertension,2023-10-19
+P0924,Emily,Smith,2004-11-27,Male,CA,Private,Diabetes,2023-06-01
+P0925,John,Patel,1981-02-27,Male,FL,Medicare,Hypertension,2023-08-10
+P0926,Alex,Brown,2002-08-26,Male,NY,Private,Asthma,2023-07-17
+P0927,John,Smith,1960-03-17,Male,TX,Private,Asthma,2023-10-21
+P0928,Michael,Doe,1983-06-27,Female,FL,Medicare,Diabetes,2023-03-25
+P0929,Michael,Patel,1979-09-04,Male,NY,Uninsured,Asthma,2024-01-31
+P0930,John,Doe,1981-04-10,Female,NY,Medicaid,Hypertension,2023-09-24
+P0931,Sarah,Johnson,1954-10-20,Female,CA,Medicare,Heart Disease,2023-09-14
+P0932,Sarah,Brown,1973-04-10,Female,IL,Medicaid,Asthma,2023-11-30
+P0933,Michael,Doe,1966-05-14,Male,NY,Medicare,Heart Disease,2023-09-03
+P0934,John,Brown,1952-06-19,Female,FL,Medicaid,Asthma,2024-01-10
+P0935,Sarah,Brown,1973-12-20,Female,NY,Private,Asthma,2023-10-04
+P0936,John,Doe,2003-05-19,Male,FL,Private,Diabetes,2023-10-19
+P0937,Michael,Johnson,1994-12-03,Female,NY,Private,Hypertension,2023-12-20
+P0938,Sarah,Brown,1977-11-10,Female,NY,Medicaid,Diabetes,2023-12-12
+P0939,Emily,Johnson,1973-05-09,Male,NY,Medicare,Heart Disease,2023-12-14
+P0940,Alex,Brown,1963-11-21,Male,NY,Uninsured,Diabetes,2023-01-13
+P0941,Sarah,Patel,1980-06-28,Female,IL,Medicare,Heart Disease,2023-06-07
+P0942,Emily,Johnson,1989-06-08,Female,NY,Medicare,None,2023-08-11
+P0943,Emily,Johnson,2000-03-01,Female,CA,Medicare,None,2023-11-28
+P0944,Emily,Brown,2004-11-23,Female,NY,Medicare,None,2023-08-14
+P0945,John,Brown,1991-07-25,Male,TX,Medicaid,Heart Disease,2023-01-17
+P0946,Sarah,Johnson,1992-06-30,Male,CA,Medicare,None,2023-12-26
+P0947,Emily,Smith,1972-03-16,Male,IL,Uninsured,None,2023-10-25
+P0948,Sarah,Johnson,1985-08-15,Female,FL,Medicare,Heart Disease,2023-02-20
+P0949,Emily,Patel,1962-09-16,Female,NY,Medicaid,Heart Disease,2023-05-02
+P0950,Sarah,Brown,1968-05-31,Male,NY,Medicare,Diabetes,2023-04-08
+P0951,John,Brown,1968-12-20,Male,IL,Uninsured,Heart Disease,2023-03-20
+P0952,Michael,Johnson,2003-07-04,Female,IL,Medicaid,Asthma,2023-01-25
+P0953,Michael,Smith,1972-04-22,Male,NY,Medicare,None,2023-06-30
+P0954,Emily,Patel,1992-05-25,Male,CA,Medicaid,Heart Disease,2023-01-12
+P0955,Michael,Brown,1969-05-13,Male,NY,Private,Heart Disease,2023-12-01
+P0956,Emily,Brown,1978-01-22,Male,IL,Medicaid,Asthma,2023-02-12
+P0957,John,Patel,1994-11-10,Female,CA,Uninsured,Asthma,2023-01-15
+P0958,Sarah,Patel,1972-01-28,Male,IL,Medicare,Hypertension,2023-12-11
+P0959,Alex,Patel,1978-09-26,Male,IL,Private,Heart Disease,2023-09-30
+P0960,Alex,Brown,1974-03-17,Male,IL,Medicaid,Hypertension,2023-10-01
+P0961,Sarah,Brown,1955-02-19,Male,NY,Medicaid,Heart Disease,2023-01-11
+P0962,John,Patel,1953-08-04,Female,IL,Medicare,Asthma,2023-12-10
+P0963,Sarah,Smith,1963-07-08,Male,CA,Medicaid,Diabetes,2023-08-03
+P0964,Sarah,Patel,1983-12-19,Male,IL,Medicaid,Hypertension,2023-01-29
+P0965,John,Smith,1970-08-14,Female,TX,Medicaid,Heart Disease,2023-01-14
+P0966,John,Johnson,2004-12-16,Male,NY,Medicaid,Hypertension,2023-03-09
+P0967,Sarah,Patel,1950-06-18,Female,CA,Uninsured,Diabetes,2023-06-26
+P0968,Emily,Doe,1992-08-13,Male,TX,Medicaid,Hypertension,2023-04-19
+P0969,Alex,Brown,1968-07-20,Male,FL,Private,None,2023-04-02
+P0970,Alex,Brown,1964-10-24,Male,NY,Medicaid,Asthma,2023-05-31
+P0971,John,Smith,1972-12-17,Female,TX,Private,Asthma,2023-10-01
+P0972,Michael,Johnson,1956-12-26,Male,FL,Medicaid,Heart Disease,2023-03-23
+P0973,Sarah,Patel,2004-04-10,Male,FL,Medicaid,Asthma,2023-01-18
+P0974,Sarah,Doe,1982-03-06,Male,TX,Uninsured,Hypertension,2023-12-01
+P0975,John,Smith,1977-04-13,Male,TX,Private,Hypertension,2023-03-22
+P0976,Sarah,Smith,1978-12-19,Male,NY,Private,Hypertension,2023-07-29
+P0977,Michael,Brown,2005-03-25,Female,IL,Uninsured,Heart Disease,2023-12-22
+P0978,Emily,Johnson,2005-01-11,Male,FL,Medicare,Asthma,2023-11-24
+P0979,Sarah,Smith,1998-06-17,Female,TX,Uninsured,Asthma,2023-11-25
+P0980,John,Smith,2002-07-13,Male,FL,Uninsured,Hypertension,2023-01-20
+P0981,Sarah,Johnson,1979-06-30,Male,FL,Medicare,Hypertension,2023-02-10
+P0982,Michael,Smith,1977-04-22,Female,CA,Medicare,None,2023-12-26
+P0983,Sarah,Doe,1993-07-29,Female,CA,Private,Hypertension,2023-05-29
+P0984,Michael,Doe,2003-08-12,Male,NY,Medicare,Heart Disease,2023-10-23
+P0985,Michael,Johnson,1996-12-02,Female,IL,Uninsured,Heart Disease,2023-08-17
+P0986,Emily,Smith,1981-05-05,Male,FL,Uninsured,None,2023-11-26
+P0987,Alex,Johnson,1966-05-28,Female,TX,Private,None,2023-04-21
+P0988,Sarah,Brown,1994-12-25,Male,CA,Medicaid,Diabetes,2023-11-20
+P0989,Michael,Doe,2002-11-16,Female,CA,Uninsured,None,2023-04-06
+P0990,Emily,Johnson,1978-01-14,Male,NY,Private,Heart Disease,2024-01-21
+P0991,Michael,Johnson,1972-04-02,Female,IL,Private,Asthma,2023-10-18
+P0992,Emily,Patel,1998-08-24,Female,IL,Medicaid,Hypertension,2023-10-13
+P0993,John,Smith,1950-07-31,Female,TX,Medicare,Hypertension,2023-05-20
+P0994,Alex,Brown,1970-10-09,Male,FL,Medicare,Hypertension,2023-11-23
+P0995,Michael,Smith,1976-06-10,Female,TX,Medicare,None,2023-08-24
+P0996,John,Patel,1997-12-19,Male,NY,Private,None,2023-04-15
+P0997,John,Doe,1961-05-24,Female,FL,Medicare,Diabetes,2023-05-16
+P0998,Alex,Johnson,1955-03-23,Female,IL,Uninsured,Diabetes,2023-10-16
+P0999,Sarah,Smith,2001-07-18,Female,NY,Private,None,2023-08-03
+P1000,Sarah,Brown,2005-09-14,Female,IL,Medicare,Asthma,2024-01-19
